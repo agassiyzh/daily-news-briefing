@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Zhuohui Daily News Briefing",
-    "base_url": "https://agassiyzh.github.io/daily-news-briefing",
+    "base_url": "http://www.yuzhuohui.info/daily-news-briefing",
     "timezone": "Asia/Shanghai",
     "language": "zh-CN"
   },
