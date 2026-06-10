@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T16:48:08.954332+08:00",
+  "url": "https://agassiyzh.github.io/daily-news-briefing/briefings/2026-06-10.html",
+  "items": [
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "published": "2026-06-10T09:44:13+08:00",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 472 # Comments: 258",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "published": "2026-06-10T04:29:52+08:00",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]",
+      "score": 31
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "WhatsApp ordered to host rival AI assistants for free",
+      "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
+      "published": "2026-06-10T16:40:56+08:00",
+      "summary": "Meta has been ordered by the European Commission to restore free WhatsApp access for chatbots made by rival AI providers while the regulator finishes its antitrust investigation. The rare interim measure announced on Tuesday was deemed necessary \"to prevent serious and irreparable damage to competition\" in the general-purpose AI assistant market. This is only the […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+      "published": "2026-06-10T13:50:07+08:00",
+      "summary": "Article URL: https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/ Comments URL: https://news.ycombinator.com/item?id=48471970 Points: 191 # Comments: 161",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "published": "2026-06-10T10:25:24+08:00",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 100 # Comments: 50",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "published": "2026-06-10T08:29:01+08:00",
+      "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md Comments URL: https://news.ycombinator.com/item?id=48469658 Points: 688 # Comments: 252",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "I tried Siri AI, and so far it actually works",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "published": "2026-06-10T07:33:14+08:00",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "published": "2026-06-10T07:33:01+08:00",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a […]",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "published": "2026-06-10T13:02:45+08:00",
+      "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
+      "url": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
+      "published": "2026-06-10T12:13:20+08:00",
+      "summary": "The Middle East conflict has given China's economy a reflationary boost as energy and raw material disruptions deepened.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
+      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "published": "2026-06-10T02:44:09+08:00",
+      "summary": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
+      "score": 31
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
+      "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
+      "published": "2026-06-10T14:29:19+08:00",
+      "summary": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets",
+      "url": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
+      "published": "2026-06-10T12:25:55+08:00",
+      "summary": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
+      "url": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
+      "published": "2026-06-10T06:30:41+08:00",
+      "summary": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+      "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+      "published": "2026-06-10T06:29:25+08:00",
+      "summary": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Energy Secretary Chris Wright says traffic in Strait of Hormuz is rising 'very meaningfully'",
+      "url": "https://www.cnbc.com/2026/06/09/chris-wright-hormuz-oil-iran-trump.html",
+      "published": "2026-06-10T06:27:19+08:00",
+      "summary": "Wright said that describing the volume of oil exports out of Hormuz as increasing is a \"fair statement.\"",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T02:35:59+08:00",
+      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5846828/morning-news-brief",
+      "published": "2026-06-10T16:42:55+08:00",
+      "summary": "U.S. and Iran exchange strikes after Apache helicopter is downed, takeaways from Tuesday's primaries in four states, House Republicans approve a bill to fund ICE for the remainder of Trump's term.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
+      "url": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
+      "published": "2026-06-10T16:40:59+08:00",
+      "summary": "Ehud Barak withdrew Israeli forces from Lebanon in 2000, ending an occupation that lasted nearly two decades. He says that was a quagmire Israel shouldn't repeat.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "US strikes Iran in response to downing of military helicopter",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T15:33:16+08:00",
+      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+      "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T13:02:46+08:00",
+      "summary": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "After years of declines, young students show gains in reading and math",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5844932/naep-long-term-trends-reading-math",
+      "published": "2026-06-10T12:01:00+08:00",
+      "summary": "Unscathed by pandemic-era school closures, the nation's 9-year-olds showed progress in math and reading. It's a different story for 13-year-olds, however.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T06:00:24+08:00",
+      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "House passes bill to fund ICE and Border Patrol through the remainder of Trump's term",
+      "url": "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol",
+      "published": "2026-06-10T05:26:47+08:00",
+      "summary": "The bill provides roughly $70 billion for immigration enforcement and highlights a GOP caucus continuing to endorse Trump's immigration agenda as Democrats warn Congress has ceded its oversight role.",
+      "score": 25
+    }
+  ],
+  "errors": [
+    "Reuters Business: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
+    "Reuters Markets: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
+    "Reuters World: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "Zhuohui Daily News Briefing",
+    "base_url": "https://agassiyzh.github.io/daily-news-briefing",
+    "timezone": "Asia/Shanghai",
+    "language": "zh-CN"
+  },
+  "briefing": {
+    "max_items_total": 30,
+    "max_items_per_section": 8,
+    "lookback_hours": 36,
+    "keywords_boost": [
+      "AI", "人工智能", "大模型", "LLM", "OpenAI", "Anthropic", "Google", "NVIDIA", "芯片",
+      "A股", "股票", "资本市场", "美联储", "央行", "汇率", "新能源", "机器人", "自动驾驶",
+      "China", "中国", "科技", "创业", "政策", "监管", "投资"
+    ]
+  },
+  "sections": [
+    {
+      "name": "AI 与科技",
+      "description": "大模型、AI 产品、芯片、开发者工具与科技公司动态",
+      "sources": [
+        {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
+        {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+        {"name": "Hacker News Front Page", "url": "https://hnrss.org/frontpage"},
+        {"name": "OpenAI Blog", "url": "https://openai.com/news/rss.xml"}
+      ]
+    },
+    {
+      "name": "财经与市场",
+      "description": "宏观、市场、公司、A股/美股相关资讯",
+      "sources": [
+        {"name": "Reuters Business", "url": "https://feeds.reuters.com/reuters/businessNews"},
+        {"name": "Reuters Markets", "url": "https://feeds.reuters.com/reuters/marketsNews"},
+        {"name": "CNBC Top News", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"},
+        {"name": "财新网", "url": "https://www.caixin.com/rss/"}
+      ]
+    },
+    {
+      "name": "全球要闻",
+      "description": "国际政治、地缘、安全、重要公共事件",
+      "sources": [
+        {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+        {"name": "Reuters World", "url": "https://feeds.reuters.com/Reuters/worldNews"},
+        {"name": "NPR News", "url": "https://feeds.npr.org/1001/rss.xml"}
+      ]
+    }
+  ]
+}
