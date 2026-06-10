@@ -388,7 +388,7 @@ def run(cmd: list[str], cwd: Path = ROOT, check: bool = True) -> subprocess.Comp
 
 
 def commit_and_push(date_str: str, do_push: bool) -> None:
-    run(["git", "add", "README.md", ".gitignore", ".nojekyll", "config", "scripts", "briefings", "data", "index.html", "archive.html"])
+    run(["git", "add", "README.md", ".gitignore", ".nojekyll", "config", "scripts", "tests", "briefings", "data", "index.html", "archive.html"])
     status = run(["git", "status", "--porcelain"], check=False).stdout.strip()
     if status:
         run(["git", "commit", "-m", f"chore: publish daily briefing {date_str}"])
