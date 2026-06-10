@@ -135,7 +135,8 @@ def parse_feed(content: bytes, section: str, source_name: str, tz: ZoneInfo) -> 
 
     root_tag = root.tag.split("}")[-1].lower()
     if root_tag == "rss" or root.find("channel") is not None:
-        channel = root.find("channel") or root
+        channel_node = root.find("channel")
+        channel = channel_node if channel_node is not None else root
         entries = channel.findall("item")
         for entry in entries:
             title = text_of(entry, ["title"])
@@ -259,6 +260,15 @@ def group_and_select(items: list[NewsItem], config: dict[str, Any]) -> dict[str,
     return {k: v for k, v in selected.items() if v}
 
 
+def failed_source_names(errors: list[str]) -> list[str]:
+    names: list[str] = []
+    for error in errors:
+        name = error.split(":", 1)[0].strip()
+        if name and name not in names:
+            names.append(name)
+    return names
+
+
 def render_html(config: dict[str, Any], date_str: str, now: datetime, grouped: dict[str, list[NewsItem]], errors: list[str]) -> str:
     title = config.get("site", {}).get("title", "Daily News Briefing")
     total_items = sum(len(v) for v in grouped.values())
@@ -287,8 +297,8 @@ def render_html(config: dict[str, Any], date_str: str, now: datetime, grouped: d
 
     error_block = ""
     if errors:
-        compact = "；".join(errors[:6])
-        error_block = f"<p class=\"errors\">部分来源抓取失败：{html.escape(compact)}</p>"
+        compact = "、".join(failed_source_names(errors)[:6])
+        error_block = f"<p class=\"errors\">部分来源暂时不可用：{html.escape(compact)}。已自动跳过，不影响其他新闻。</p>"
 
     empty_block = "" if total_items else "<p class=\"empty\">今天暂未抓取到符合时间窗口的新闻。请稍后重试或检查 RSS 来源。</p>"
 

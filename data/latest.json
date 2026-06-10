@@ -1,24 +1,33 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T16:51:46.289956+08:00",
+  "generated_at": "2026-06-10T20:06:04.890174+08:00",
   "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-10.html",
   "items": [
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "published": "2026-06-10T16:21:38+08:00",
+      "summary": "> For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS’s data and security boundary. From the announcement here: https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/ > After 30 days, the data is deleted automatically, except in the rare cases where it's part of a safety investigation or we're legally required to keep it. From: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models Comments URL: https://news.ycombinator.com/item?id=48473166 Points: 129 # Comments: 65",
+      "score": 35
+    },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "published": "2026-06-10T09:44:13+08:00",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 472 # Comments: 258",
+      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 647 # Comments: 370",
       "score": 35
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "published": "2026-06-10T04:29:52+08:00",
-      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]",
+      "source": "OpenAI Blog",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "published": "2026-06-10T08:00:00+08:00",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "score": 31
     },
     {
@@ -33,19 +42,10 @@
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
-      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-      "published": "2026-06-10T13:50:07+08:00",
-      "summary": "Article URL: https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/ Comments URL: https://news.ycombinator.com/item?id=48471970 Points: 191 # Comments: 161",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
       "title": "Rich Sutton on AI creativity and discovery",
       "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
       "published": "2026-06-10T10:25:24+08:00",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 100 # Comments: 50",
+      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 139 # Comments: 74",
       "score": 25
     },
     {
@@ -54,7 +54,7 @@
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
       "published": "2026-06-10T08:29:01+08:00",
-      "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md Comments URL: https://news.ycombinator.com/item?id=48469658 Points: 688 # Comments: 252",
+      "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md Comments URL: https://news.ycombinator.com/item?id=48469658 Points: 850 # Comments: 305",
       "score": 25
     },
     {
@@ -64,16 +64,25 @@
       "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "published": "2026-06-10T07:33:14+08:00",
       "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]",
-      "score": 25
+      "score": 21
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "published": "2026-06-10T07:33:01+08:00",
-      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a […]",
-      "score": 25
+      "title": "Waymo built a virtual driver to study how humans react to surprises on the road",
+      "url": "https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision",
+      "published": "2026-06-10T06:21:59+08:00",
+      "summary": "Waymo has a lot of experience building virtual systems to help its autonomous vehicles better understand the real world. It built realistic 3D worlds to better anticipate natural disasters and unpredictable edge cases. It created a virtual representation of a hyperattentive driver to test against its own autonomous vehicles in a series of simulated scenarios […]",
+      "score": 21
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last week",
+      "url": "https://www.marketwatch.com/story/heres-why-shares-in-softbank-no-longer-japans-most-valuable-have-fallen-by-a-fifth-in-the-last-week-e38d5812?mod=mw_rss_topstories",
+      "published": "2026-06-10T17:39:00+08:00",
+      "summary": "Concerns about the funding commitments for OpenAI have been widely circulated this year and it appears potential creditors are worried about the company’s failure to hit ambitious internal growth targets",
+      "score": 35
     },
     {
       "section": "财经与市场",
@@ -104,48 +113,66 @@
     },
     {
       "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "The SpaceX–OpenAI IPO wave: What investors must do now",
+      "url": "https://finance.yahoo.com/video/spacex-openai-ipo-wave-investors-175555019.html",
+      "published": "2026-06-09T17:55:55+08:00",
+      "summary": "",
+      "score": 27
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "How exploding investor euphoria and leveraged ETFs turned one stock-market bull cautious",
+      "url": "https://www.marketwatch.com/story/why-exploding-retail-euphoria-and-leveraged-etfs-have-scared-one-stock-market-bull-into-turning-cautious-bdd2d4f2?mod=mw_rss_topstories",
+      "published": "2026-06-10T19:54:00+08:00",
+      "summary": "A Barclays strategist explains why it’s time to turn cautious on U.S. stocks, and what it will take for him to turn bullish again.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
+      "title": "Trump says Iran will 'pay the price' and claims they have 'taken too long' to agree to a deal",
+      "url": "https://www.cnbc.com/2026/06/10/trump-iran-talks.html",
+      "published": "2026-06-10T19:49:16+08:00",
+      "summary": "The president's comments came after U.S. forces on Tuesday evening launched strikes against Iran.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Oil prices jump after Trump says Iran will 'pay the price' for failing at peace deal",
       "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
-      "published": "2026-06-10T16:48:19+08:00",
+      "published": "2026-06-10T19:45:24+08:00",
       "summary": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
       "score": 25
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets",
-      "url": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
-      "published": "2026-06-10T12:25:55+08:00",
-      "summary": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days.",
-      "score": 25
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1OUlRWWFhRVY4Rk5rVE1R?oc=5",
+      "published": "2026-06-10T16:44:00+08:00",
+      "summary": "Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China WSJ Taiwan fires rockets in China's direction from a U.S.-supplied mobile launching system in drill AP News Taiwan simulates destroying an invading Chinese force in coastal drill Reuters Army simulates defending against amphibious invasion in Taichung Focus Taiwan Taiwan 2 | Pro Sports | bdtonline.com Bluefield Daily Telegraph",
+      "score": 35
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
-      "url": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
-      "published": "2026-06-10T06:30:41+08:00",
-      "summary": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
-      "score": 25
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Air Canada pilot flew passengers for years with a fake pilot’s license, police say - CNN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oaEUtMmR0WFk0cUE2SFRLLTNRbHJNOXlRbGJodkt5Nkk4OU1vb1diRHg1SjFJcG1LamVTbVBlanVsNjNzVUVzM3p5VHJJX0dRYkcyRzNraWZZQlBlNWFGUElqb3RSaWdRUFNKVUVnd1RqOGc?oc=5",
+      "published": "2026-06-10T12:21:13+08:00",
+      "summary": "Air Canada pilot flew passengers for years with a fake pilot’s license, police say CNN See more headlines & perspectives on Google News",
+      "score": 35
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
-      "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
-      "published": "2026-06-10T06:29:25+08:00",
-      "summary": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Energy Secretary Chris Wright says traffic in Strait of Hormuz is rising 'very meaningfully'",
-      "url": "https://www.cnbc.com/2026/06/09/chris-wright-hormuz-oil-iran-trump.html",
-      "published": "2026-06-10T06:27:19+08:00",
-      "summary": "Wright said that describing the volume of oil exports out of Hormuz as increasing is a \"fair statement.\"",
-      "score": 25
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Hamas members executed and maimed dozens of Palestinians in Gaza, UN report says - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTdXSDhyRkNsZURYRW9iSjdsUGpqcGNtWXFLSkJHaDZ1QWJHOXpLY2p5NHJaWTlTVDlzQWE5Z2c1dUJpSkw5ZGUwc3FHNXRVVHBuc3hKU2tTczFsYU5EaGRqYWxDeDczNDR3OHBxeDR0SWdCaXdOcXVQcnB6THFRYktPU0Z6OG14MlZSOVFEYmhWVGZQa0hNN1hPYVlBVEVSZlkzTUNFYjE3TDlac2800gG0AUFVX3lxTE80aXdMVDlyNHF0ZDhjeXhGMlotMVhnMlFJT3ZOT1FJczI4S1ZRWDRIWHpmQUVzdmhHMmZRRnFhTnlDMWlNWlRyQld4R0pMLWpkYk53VFNXcEdUb3ZXWmdRMW4yNHkzUTB4TlpIaGhCR0Yxelk5b19QUTJncS1FcXZFOUloTVpNU1RIRjRIRzlRRk5rS1lFTVF6RERVU0JKWnJYVTRhTkx1MDJhREFBRWhHS1VCRw?oc=5",
+      "published": "2026-06-10T04:39:00+08:00",
+      "summary": "Hamas members executed and maimed dozens of Palestinians in Gaza, UN report says The Times of Israel See more headlines & perspectives on Google News",
+      "score": 31
     },
     {
       "section": "全球要闻",
@@ -158,71 +185,40 @@
     },
     {
       "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5846828/morning-news-brief",
-      "published": "2026-06-10T16:42:55+08:00",
-      "summary": "U.S. and Iran exchange strikes after Apache helicopter is downed, takeaways from Tuesday's primaries in four states, House Republicans approve a bill to fund ICE for the remainder of Trump's term.",
-      "score": 25
+      "source": "Google News World",
+      "title": "China debate reaches fever pitch in Brussels as EU’s crunch fortnight kicks off - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXhpeUhBWkczRVdGSkpCNWh1NldKb2FqZUpoWk9hRXNCM01ySlQyV0N5VVZKQzZyNElRWGNnZ0VJRVdBdDlLS0llZXJmdl9HWjJPWm9vLWd4Q1pwb3lETXlBZnk3d3lyaHJfNk1FbXFQdFJwUUdrWnVHOXRkRlRPd3cyblVUbGdHbHhlU3dyUllNZjdybTY3djI5cFBaZkd3bjF4Vi1IbFF5TXBkcm41LXM3dUV3c0ZaSW9KUzd5UFd6MU5l0gHEAUFVX3lxTE04YnBnREs3RmlUc1p2V21SeGNWT0Y5cm9kakVWTnNDUzhnY1F0WEdlSl90ZjdFTDVWSDdHYk9qYWpObkQydlRyUml3SkpQbHZ2SlFXV1dOYVlkNXpHTThGa3JqbDBzUnNQVS1qU09VMUU3cVZWYnRMdDlVUVNOdFJVN01xdmRZckVtVmM5azhtSEM0Wms2SlFJUGFTNDRsZlJEWUxmUUFTTlNUaEJhMUV1TmZoTVlCUS1ielJucHNsYjVTbzM?oc=5",
+      "published": "2026-06-09T19:00:06+08:00",
+      "summary": "China debate reaches fever pitch in Brussels as EU’s crunch fortnight kicks off South China Morning Post China’s Trade Imbalance With EU Swells as Imports Slip Again Bloomberg.com Why Europe is unable to defend its industry against the 'second Chinese shock' Le Monde.fr China is killing Europe’s chemicals industry. Brussels wants to intervene. politico.eu Exclusive: Inside the EU’s struggle to police tariff circumvention Euronews",
+      "score": 27
     },
     {
       "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
-      "url": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
-      "published": "2026-06-10T16:40:59+08:00",
-      "summary": "Ehud Barak withdrew Israeli forces from Lebanon in 2000, ending an occupation that lasted nearly two decades. He says that was a quagmire Israel shouldn't repeat.",
-      "score": 25
+      "source": "Google News World",
+      "title": "What was left unsaid may be biggest takeaway from Xi-Kim summit - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGNHQTBIR1hHSlZQSjFzY3p2SkRPUmtzQVFpWXNCQ1M5WWdZWGZ0WkxzN1dfVC1RNTNpRjFGSHF3ekxkWXF2SGNERHhsZDc0SG1TYUtQU0FtOVJJSHV4N2doSC10Sm9xMFBGVkpRRnBRX3ZiS3dEMUhFaVNwNzlaVl96VExTeGVhbXpocWdUcDdmTmFVamJaOUpURFM2YnNVMVdfd29Cb2VLbms?oc=5",
+      "published": "2026-06-09T16:31:00+08:00",
+      "summary": "What was left unsaid may be biggest takeaway from Xi-Kim summit The Japan Times Behind the Pageantry in Pyongyang With Xi and Kim The New York Times China re‑centers North Korea ties as nuclear silence reshapes balance NPR Kim Jong Un hosts Xi Jinping from a position of rare strength NBC News What Xi and Kim Want From Their Summit in North Korea WSJ",
+      "score": 27
     },
     {
       "section": "全球要闻",
-      "source": "BBC World",
-      "title": "US strikes Iran in response to downing of military helicopter",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T15:33:16+08:00",
-      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-      "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T13:02:46+08:00",
-      "summary": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "After years of declines, young students show gains in reading and math",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5844932/naep-long-term-trends-reading-math",
-      "published": "2026-06-10T12:01:00+08:00",
-      "summary": "Unscathed by pandemic-era school closures, the nation's 9-year-olds showed progress in math and reading. It's a different story for 13-year-olds, however.",
-      "score": 25
+      "source": "Google News World",
+      "title": "Philippines takes diplomatic action against China over floating structure in South China Sea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0FfckhFQ0p2SXRHYldaUlZZeWx1bUJfTGN5ZUtISDVMQXV1QThzLTFiR2tqOVJpUmtudnM5c3AxYzYwSUxUZ0dEVkNoOVQ0RzBnQjNRU0dPZWlfVDN3bVBHN0tudmNvbVFzR2lPMVU4R3liQ1E5WE5FZzJrNkgxSW9uN09wM1hzdTAzc2E4aTBVLTlyNzNSWms3NWxPSGNxYlB4Rm9HLURubF9RSUNsNW5uakxVQUUweDlSVFAyMk90VFNHMUE?oc=5",
+      "published": "2026-06-09T13:51:00+08:00",
+      "summary": "Philippines takes diplomatic action against China over floating structure in South China Sea Reuters Philippines urges China to remove shoal structure, warns against island-building Reuters Philippines protests China’s floating ‘structure’ on disputed South China Sea shoal NBC News Is that a Chinese antenna at Scarborough Shoal? The Philippines thinks so South China Morning Post Structures in Scarborough: What we know so far Rappler",
+      "score": 27
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T06:00:24+08:00",
-      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "House passes bill to fund ICE and Border Patrol through the remainder of Trump's term",
-      "url": "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol",
-      "published": "2026-06-10T05:26:47+08:00",
-      "summary": "The bill provides roughly $70 billion for immigration enforcement and highlights a GOP caucus continuing to endorse Trump's immigration agenda as Democrats warn Congress has ceded its oversight role.",
+      "title": "Ukraine says missiles hit military plant deep inside Russia",
+      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T19:43:40+08:00",
+      "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
       "score": 25
     }
   ],
-  "errors": [
-    "Reuters Business: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
-    "Reuters Markets: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
-    "Reuters World: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
-  ]
+  "errors": []
 }

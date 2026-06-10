@@ -30,8 +30,9 @@
       "name": "财经与市场",
       "description": "宏观、市场、公司、A股/美股相关资讯",
       "sources": [
-        {"name": "Reuters Business", "url": "https://feeds.reuters.com/reuters/businessNews"},
-        {"name": "Reuters Markets", "url": "https://feeds.reuters.com/reuters/marketsNews"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex"},
+        {"name": "MarketWatch Top Stories", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+        {"name": "MarketWatch MarketPulse", "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"},
         {"name": "CNBC Top News", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"},
         {"name": "财新网", "url": "https://www.caixin.com/rss/"}
       ]
@@ -41,7 +42,7 @@
       "description": "国际政治、地缘、安全、重要公共事件",
       "sources": [
         {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
-        {"name": "Reuters World", "url": "https://feeds.reuters.com/Reuters/worldNews"},
+        {"name": "Google News World", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en"},
         {"name": "NPR News", "url": "https://feeds.npr.org/1001/rss.xml"}
       ]
     }
