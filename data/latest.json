@@ -1,25 +1,70 @@
 {
-  "date": "2026-06-10",
-  "generated_at": "2026-06-10T20:07:21.572198+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-10.html",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T08:00:36.286830+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-11.html",
   "items": [
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-      "url": "https://news.ycombinator.com/item?id=48473166",
-      "published": "2026-06-10T16:21:38+08:00",
-      "summary": "> For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS’s data and security boundary. From the announcement here: https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/ > After 30 days, the data is deleted automatically, except in the rare cases where it's part of a safety investigation or we're legally required to keep it. From: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models Comments URL: https://news.ycombinator.com/item?id=48473166 Points: 129 # Comments: 65",
+      "source": "OpenAI Blog",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "published": "2026-06-11T04:00:00+08:00",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "published": "2026-06-11T03:02:08+08:00",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "published": "2026-06-11T01:45:11+08:00",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "published": "2026-06-11T01:26:56+08:00",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed […]",
       "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "published": "2026-06-10T09:44:13+08:00",
-      "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 647 # Comments: 370",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "published": "2026-06-11T00:42:00+08:00",
+      "summary": "Article URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/ Comments URL: https://news.ycombinator.com/item?id=48478969 Points: 77 # Comments: 67",
       "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "published": "2026-06-10T22:47:52+08:00",
+      "summary": "Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_. It's been fifteen years since I wrote The Lean Startup, and in that time I've seen some things. In both big companies and tiny startups, NGOs and governments, in almost every industry you can name. I've helped a lot of people create a lot of amazing companies, but I've also seen so many ways this can go wrong. There's a darkness in our industry that we often don't talk about. I kept watching good companies drift away from the missions they were founded on. Not because anyone woke up one day and decided to be evil, but because the structure they were built on slowly pulled them there. I call that pull \"financial gravity.\" We've all experienced watching a company we love or admire be warped and broken beyond recognition; until it's a husk of its former self, or worse. I wanted to understand why. And I wanted to know what all of us can do to stop that from happening. My new book _Incorruptible_ is my attempt to explain the invisible forces that shape organizations, and how a handful of companies (like Costco, Patagonia, and Novo Nordisk) have successfully been structured to resist gravity and thrive for decades -- or even centuries. Along the way, I founded the Long-Term Stock Exchange, co-founded an AI R&D lab called Answer.AI with Jeremy Howard, and helped a number of notable companies with their governance (yes, including Anthropic). I won't pretend I have this all figured out, but I've probably spent more time than is healthy on the \"why do good companies go bad\" question. Ask me anything! Comments URL: https://news.ycombinator.com/item?id=48477135 Points: 493 # Comments: 395",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "OpenAI Blog",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "published": "2026-06-10T20:00:00+08:00",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "score": 31
     },
     {
       "section": "AI 与科技",
@@ -28,142 +73,133 @@
       "url": "https://openai.com/index/lseg",
       "published": "2026-06-10T08:00:00+08:00",
       "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "score": 31
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "WhatsApp ordered to host rival AI assistants for free",
-      "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
-      "published": "2026-06-10T16:40:56+08:00",
-      "summary": "Meta has been ordered by the European Commission to restore free WhatsApp access for chatbots made by rival AI providers while the regulator finishes its antitrust investigation. The rare interim measure announced on Tuesday was deemed necessary \"to prevent serious and irreparable damage to competition\" in the general-purpose AI assistant market. This is only the […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "published": "2026-06-10T10:25:24+08:00",
-      "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 139 # Comments: 74",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "published": "2026-06-10T08:29:01+08:00",
-      "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md Comments URL: https://news.ycombinator.com/item?id=48469658 Points: 850 # Comments: 305",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "I tried Siri AI, and so far it actually works",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "published": "2026-06-10T07:33:14+08:00",
-      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]",
-      "score": 21
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Waymo built a virtual driver to study how humans react to surprises on the road",
-      "url": "https://www.theverge.com/transportation/947178/waymo-reference-driver-model-surprise-avoid-collision",
-      "published": "2026-06-10T06:21:59+08:00",
-      "summary": "Waymo has a lot of experience building virtual systems to help its autonomous vehicles better understand the real world. It built realistic 3D worlds to better anticipate natural disasters and unpredictable edge cases. It created a virtual representation of a hyperattentive driver to test against its own autonomous vehicles in a series of simulated scenarios […]",
-      "score": 21
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last week",
-      "url": "https://www.marketwatch.com/story/heres-why-shares-in-softbank-no-longer-japans-most-valuable-have-fallen-by-a-fifth-in-the-last-week-e38d5812?mod=mw_rss_topstories",
-      "published": "2026-06-10T17:39:00+08:00",
-      "summary": "Concerns about the funding commitments for OpenAI have been widely circulated this year and it appears potential creditors are worried about the company’s failure to hit ambitious internal growth targets",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
-      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
-      "published": "2026-06-10T13:02:45+08:00",
-      "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
-      "url": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
-      "published": "2026-06-10T12:13:20+08:00",
-      "summary": "The Middle East conflict has given China's economy a reflationary boost as energy and raw material disruptions deepened.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
-      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
-      "published": "2026-06-10T02:44:09+08:00",
-      "summary": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
-      "score": 31
-    },
-    {
-      "section": "财经与市场",
-      "source": "Yahoo Finance",
-      "title": "The SpaceX–OpenAI IPO wave: What investors must do now",
-      "url": "https://finance.yahoo.com/video/spacex-openai-ipo-wave-investors-175555019.html",
-      "published": "2026-06-09T17:55:55+08:00",
-      "summary": "",
       "score": 27
     },
     {
       "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview",
+      "url": "https://www.cnbc.com/2026/06/10/wall-street-needs-crash-course-in-tokens-ahead-openai-anthropic-ipos.html",
+      "published": "2026-06-11T02:17:33+08:00",
+      "summary": "When OpenAI and Anthropic make their IPO prospectuses available to the public, investors are going to have to learn about a whole new economy.",
+      "score": 45
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+      "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
+      "published": "2026-06-11T01:03:30+08:00",
+      "summary": "Investors have rushed to back companies in the physical AI space",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "How exploding investor euphoria and leveraged ETFs turned one stock-market bull cautious",
-      "url": "https://www.marketwatch.com/story/why-exploding-retail-euphoria-and-leveraged-etfs-have-scared-one-stock-market-bull-into-turning-cautious-bdd2d4f2?mod=mw_rss_topstories",
-      "published": "2026-06-10T19:54:00+08:00",
-      "summary": "A Barclays strategist explains why it’s time to turn cautious on U.S. stocks, and what it will take for him to turn bullish again.",
+      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+      "url": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+      "published": "2026-06-11T07:48:00+08:00",
+      "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Trump says Iran will 'pay the price' and claims they have 'taken too long' to agree to a deal",
-      "url": "https://www.cnbc.com/2026/06/10/trump-iran-talks.html",
-      "published": "2026-06-10T19:49:16+08:00",
-      "summary": "The president's comments came after U.S. forces on Tuesday evening launched strikes against Iran.",
+      "title": "U.S. military begins strikes on 'multiple targets' in Iran at Trump's direction",
+      "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
+      "published": "2026-06-11T07:45:47+08:00",
+      "summary": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Oracle’s stock slides after earnings, as the steep price of AI spooks investors",
+      "url": "https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories",
+      "published": "2026-06-11T07:17:00+08:00",
+      "summary": "Oracle blew past earnings expectations and grew its contract pipeline to $638 billion, but Wall Street is concerned about its rising AI costs.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Oil prices jump after Trump says Iran will 'pay the price' for failing at peace deal",
-      "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
-      "published": "2026-06-10T19:45:24+08:00",
-      "summary": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
+      "title": "Jim Cramer says one of SpaceX's biggest risks is this group of investors",
+      "url": "https://www.cnbc.com/2026/06/10/jim-cramer-says-one-of-spacexs-biggest-risks-is-this-group-of-investors.html",
+      "published": "2026-06-11T07:00:01+08:00",
+      "summary": "CNBC's Jim Cramer said one of the biggest risks facing the SpaceX IPO is speculators who may rush to sell shares shortly after the stock begins trading.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Bisignano says Social Security Administration's phone helpline wait times have reached a record low",
+      "url": "https://www.cnbc.com/2026/06/10/bisignano-social-security-phone-wait-times.html",
+      "published": "2026-06-11T06:18:02+08:00",
+      "summary": "Long waits when calling the Social Security Administration's 800 number have been a legacy issue. Commissioner Frank Bisignano said he's changing that.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
+      "url": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html",
+      "published": "2026-06-11T06:05:47+08:00",
+      "summary": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1OUlRWWFhRVY4Rk5rVE1R?oc=5",
-      "published": "2026-06-10T16:44:00+08:00",
-      "summary": "Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China WSJ Taiwan fires rockets in China's direction from a U.S.-supplied mobile launching system in drill AP News Taiwan simulates destroying an invading Chinese force in coastal drill Reuters Army simulates defending against amphibious invasion in Taichung Focus Taiwan Taiwan 2 | Pro Sports | bdtonline.com Bluefield Daily Telegraph",
+      "title": "Boeing’s New Larger Ghost Bat Can Carry AIM-120 AMRAAMs Internally - The War Zone",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcU93Z2FxVzVkcGI5Z3Y5SG02eE9Wak5BMFM4TFJCNm5DQlZWWE45bEsyZ0ZwdlpYNVBfeUhsUEJUSDg3Z0QwNXlhOXFZUzVDVHNvS3FIVE90V3ZDOExXalA1cHRrZHQ2enM2Q05FanI4ZUxBYUY0dUt1R0J3RHJTZW1ZQ0Q5UTJ4eEw3RmY2VVBTc0E?oc=5",
+      "published": "2026-06-11T05:12:34+08:00",
+      "summary": "Boeing’s New Larger Ghost Bat Can Carry AIM-120 AMRAAMs Internally The War Zone Boeing Unveils Ghost Bat Upgrades in Pursuit of German Orders Bloomberg.com Drone wingmen face off at Berlin Air Show in race for German CCA Breaking Defense While the U.S. and China were still testing theirs, Australia quietly built the Ghost Bat into the most mature AI combat drone in the world, and now Germany and the U.S. Navy want in Autonocion.com Boeing Unveils New Capabilities for MQ-28 Ghost Bat The Aviationist",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "The theory taking the rich by storm: China funds data center haters",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5844328/us-china-data-centers-foreign-influence",
+      "published": "2026-06-11T04:01:52+08:00",
+      "summary": "Tech millionaires claim China is behind a wave of local opposition to U.S. data centers, while providing little direct evidence.",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
+      "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
+      "published": "2026-06-10T23:29:24+08:00",
+      "summary": "The drill on Wednesday marked the first time the U.S.-supplied HIMARS system has been fired into the Taiwan Strait.",
       "score": 35
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Air Canada pilot flew passengers for years with a fake pilot’s license, police say - CNN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oaEUtMmR0WFk0cUE2SFRLLTNRbHJNOXlRbGJodkt5Nkk4OU1vb1diRHg1SjFJcG1LamVTbVBlanVsNjNzVUVzM3p5VHJJX0dRYkcyRzNraWZZQlBlNWFGUElqb3RSaWdRUFNKVUVnd1RqOGc?oc=5",
-      "published": "2026-06-10T12:21:13+08:00",
-      "summary": "Air Canada pilot flew passengers for years with a fake pilot’s license, police say CNN See more headlines & perspectives on Google News",
+      "title": "German air show opens under shadow of Iran war, fighter project collapse - Defense News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOREx2YjQxN0lSOVUyOEVxS3JKVWNyamVNUjdMX2tyTFcyNUM4bzRBVXZvS01NbTBsVjdoVnZ5eXNYVWRmeHFWNEJfRmRtaFg0VHJsbFQyTkpDWlAzampfdmtVTG1fTktZVlBIMnNpTlNNcFhObzhxYUwwZmVFZVhiYXRwSy1LRll3VWtDY2dQWkV4c2Jrc0hsbTd1QzdXZEkxakd5aGx1bndTd1RUT0VCb19aV0ZNVTRCZmtNRVBXdTBXMDQ?oc=5",
+      "published": "2026-06-10T21:21:24+08:00",
+      "summary": "German air show opens under shadow of Iran war, fighter project collapse Defense News See more headlines & perspectives on Google News",
       "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Justice Department, FBI Disable 13 Websites Backed by Suspected Chinese Agents That Sought Sensitive U.S. Information from Security Clearance Holders - Department of Justice (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUQ5UEhSRW9KQy1md3YtTUhBOW8yanhyYU4yLVlOdml5VW45c3hhdEVZeWFxLTdiWGVieVVpU1RWUEt2ZDFBNGRxdk14cHl6b2Q4ZG1HQmNWUzB1YUtxQmc3MTZTRU5GUzl5RnlRd2hxUjJlWXUwc3BMWXhzTlFzTnZtR1QxM3haaGRrZDRCSEVHUGpkSldUX3lIU0xFaXZOdlJ5MEQzN3ZfYXhySURoeURfeXliNGlUU01yek5HZw?oc=5",
+      "published": "2026-06-11T01:19:29+08:00",
+      "summary": "Justice Department, FBI Disable 13 Websites Backed by Suspected Chinese Agents That Sought Sensitive U.S. Information from Security Clearance Holders Department of Justice (.gov) FBI seizes over a dozen websites it says were used by Chinese agents to recruit US officials CNN FBI seizes 13 websites that officials say were used by China to target and recruit US workers AP News US seizes 13 website domains tied to alleged Chinese intelligence collection Reuters China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Allies Warn WSJ",
+      "score": 32
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "China re‑centers North Korea ties as nuclear silence reshapes balance - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEd4dktMRGI3QkM4N1hLR0ZUbTY3NUpMOVZaMG1DLVRMZ21iNnlqanFGMUZ4bloxVXVGUUNCZUtBeF9fQzk5cUZHVXJMUDdnVWxCV1RvMHJVa01JaTVFdXllNjVLODMyQ2QyMEFTSXliQ09xVVFFRTJ3S1VHSTdxMDNFbXZXUEhJZlFhaEp5RklvSk54TFhZeg?oc=5",
+      "published": "2026-06-10T18:30:00+08:00",
+      "summary": "China re‑centers North Korea ties as nuclear silence reshapes balance NPR Behind the Pageantry in Pyongyang With Xi and Kim The New York Times North Korea, China claim wins from Xi visit, but limits remain Reuters Xi Cements Sway Over North Korea as Kim Names China Top Priority Bloomberg.com What Xi and Kim gained from their summit in North Korea The Christian Science Monitor",
+      "score": 31
     },
     {
       "section": "全球要闻",
@@ -172,7 +208,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTdXSDhyRkNsZURYRW9iSjdsUGpqcGNtWXFLSkJHaDZ1QWJHOXpLY2p5NHJaWTlTVDlzQWE5Z2c1dUJpSkw5ZGUwc3FHNXRVVHBuc3hKU2tTczFsYU5EaGRqYWxDeDczNDR3OHBxeDR0SWdCaXdOcXVQcnB6THFRYktPU0Z6OG14MlZSOVFEYmhWVGZQa0hNN1hPYVlBVEVSZlkzTUNFYjE3TDlac2800gG0AUFVX3lxTE80aXdMVDlyNHF0ZDhjeXhGMlotMVhnMlFJT3ZOT1FJczI4S1ZRWDRIWHpmQUVzdmhHMmZRRnFhTnlDMWlNWlRyQld4R0pMLWpkYk53VFNXcEdUb3ZXWmdRMW4yNHkzUTB4TlpIaGhCR0Yxelk5b19QUTJncS1FcXZFOUloTVpNU1RIRjRIRzlRRk5rS1lFTVF6RERVU0JKWnJYVTRhTkx1MDJhREFBRWhHS1VCRw?oc=5",
       "published": "2026-06-10T04:39:00+08:00",
       "summary": "Hamas members executed and maimed dozens of Palestinians in Gaza, UN report says The Times of Israel See more headlines & perspectives on Google News",
-      "score": 31
+      "score": 27
     },
     {
       "section": "全球要闻",
@@ -181,43 +217,7 @@
       "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-10T02:35:59+08:00",
       "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
-      "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "China debate reaches fever pitch in Brussels as EU’s crunch fortnight kicks off - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXhpeUhBWkczRVdGSkpCNWh1NldKb2FqZUpoWk9hRXNCM01ySlQyV0N5VVZKQzZyNElRWGNnZ0VJRVdBdDlLS0llZXJmdl9HWjJPWm9vLWd4Q1pwb3lETXlBZnk3d3lyaHJfNk1FbXFQdFJwUUdrWnVHOXRkRlRPd3cyblVUbGdHbHhlU3dyUllNZjdybTY3djI5cFBaZkd3bjF4Vi1IbFF5TXBkcm41LXM3dUV3c0ZaSW9KUzd5UFd6MU5l0gHEAUFVX3lxTE04YnBnREs3RmlUc1p2V21SeGNWT0Y5cm9kakVWTnNDUzhnY1F0WEdlSl90ZjdFTDVWSDdHYk9qYWpObkQydlRyUml3SkpQbHZ2SlFXV1dOYVlkNXpHTThGa3JqbDBzUnNQVS1qU09VMUU3cVZWYnRMdDlVUVNOdFJVN01xdmRZckVtVmM5azhtSEM0Wms2SlFJUGFTNDRsZlJEWUxmUUFTTlNUaEJhMUV1TmZoTVlCUS1ielJucHNsYjVTbzM?oc=5",
-      "published": "2026-06-09T19:00:06+08:00",
-      "summary": "China debate reaches fever pitch in Brussels as EU’s crunch fortnight kicks off South China Morning Post China’s Trade Imbalance With EU Swells as Imports Slip Again Bloomberg.com Why Europe is unable to defend its industry against the 'second Chinese shock' Le Monde.fr China is killing Europe’s chemicals industry. Brussels wants to intervene. politico.eu Exclusive: Inside the EU’s struggle to police tariff circumvention Euronews",
       "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "What was left unsaid may be biggest takeaway from Xi-Kim summit - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGNHQTBIR1hHSlZQSjFzY3p2SkRPUmtzQVFpWXNCQ1M5WWdZWGZ0WkxzN1dfVC1RNTNpRjFGSHF3ekxkWXF2SGNERHhsZDc0SG1TYUtQU0FtOVJJSHV4N2doSC10Sm9xMFBGVkpRRnBRX3ZiS3dEMUhFaVNwNzlaVl96VExTeGVhbXpocWdUcDdmTmFVamJaOUpURFM2YnNVMVdfd29Cb2VLbms?oc=5",
-      "published": "2026-06-09T16:31:00+08:00",
-      "summary": "What was left unsaid may be biggest takeaway from Xi-Kim summit The Japan Times Behind the Pageantry in Pyongyang With Xi and Kim The New York Times China re‑centers North Korea ties as nuclear silence reshapes balance NPR Kim Jong Un hosts Xi Jinping from a position of rare strength NBC News What Xi and Kim Want From Their Summit in North Korea WSJ",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Philippines takes diplomatic action against China over floating structure in South China Sea - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0FfckhFQ0p2SXRHYldaUlZZeWx1bUJfTGN5ZUtISDVMQXV1QThzLTFiR2tqOVJpUmtudnM5c3AxYzYwSUxUZ0dEVkNoOVQ0RzBnQjNRU0dPZWlfVDN3bVBHN0tudmNvbVFzR2lPMVU4R3liQ1E5WE5FZzJrNkgxSW9uN09wM1hzdTAzc2E4aTBVLTlyNzNSWms3NWxPSGNxYlB4Rm9HLURubF9RSUNsNW5uakxVQUUweDlSVFAyMk90VFNHMUE?oc=5",
-      "published": "2026-06-09T13:51:00+08:00",
-      "summary": "Philippines takes diplomatic action against China over floating structure in South China Sea Reuters Philippines urges China to remove shoal structure, warns against island-building Reuters Philippines protests China’s floating ‘structure’ on disputed South China Sea shoal NBC News Is that a Chinese antenna at Scarborough Shoal? The Philippines thinks so South China Morning Post Structures in Scarborough: What we know so far Rappler",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Ukraine says missiles hit military plant deep inside Russia",
-      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T19:43:40+08:00",
-      "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
-      "score": 25
     }
   ],
   "errors": []
