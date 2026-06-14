@@ -1,169 +1,187 @@
 {
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T08:00:10.012630+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-13.html",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T08:00:26.548748+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-14.html",
   "items": [
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-      "url": "https://bitboard.work/",
-      "published": "2026-06-13T00:58:03+08:00",
-      "summary": "We’re Connor and Ambar from BitBoard ( https://bitboard.work ). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI. Today, we’re launching dashboards that you and your agents can work on together. You can connect your coding agent or AI chat to BitBoard and build live reporting. Here’s a demo: https://www.youtube.com/watch?v=HPl0K565a7c . AI tools treat data analysis as ephemeral, making it hard to report or collaborate. Legacy BI tools weren’t intended for AI users, so they bolt on chatbots and can’t offer meaningful control to your agents. Software can now make far more of a business legible than BI ever could, but neither legacy BI nor chat bots are built to handle it. Our original product was AI agents for administrative tasks in healthcare ( https://news.ycombinator.com/item?id=44237769 ), but customers kept pulling us toward their data analysis problems: queries scattered across disparate sources, spreadsheets floating everywhere. We kept building tooling for addressing that, and at a certain point those tools were becoming our product. We ran into several problems. Agents made bad inferences because they had no context on the business. They couldn't be trusted to make decisions because nothing checked their work. And anything one agent or one person figured out was invisible to everyone else. In BitBoard, humans and agents interact with the same data primitives but get tools designed for their own work. We’re building dashboards to make the human reading experience better. These dashboards progressively use intelligence - starting from code or SQL queries and leading to full embedded apps. Humans and agents will need to agree on methods to interpret data, so we’re letting both contribute to canonical sources, entities, and measures (using your favorite semantic model or ours). Every answer comes with provenance, and the same call with the same parameters returns the same number. Looking ahead, these shared primitives let long-running agents operate inside a business, and we're building those agents too. An agent needs a measurable goal and a way to verify its work. BitBoard gives it both. The agent takes a problem like a metric drifting or a funnel leaking and figures out what to do next. Its work becomes datasets, dashboards, and traces that the team can observe and sign off on. Technically, we’re building a collaboration engine with isomorphic updates for humans and AI, columnar analysis (we use DuckDB and Apache Arrow), grounding and verification infrastructure, and enabling long running tasks with agent containers and traces. For agentic work we’re big fans of applying LLM judgement to discover problems, and then generating deterministic software to automate them. Try it out at https://app.bitboard.work . (We require an email so we can set up your account). We’re excited about how data analysis and science can change in the age of LLMs, and welcome all your thoughts! Comments URL: https://news.ycombinator.com/item?id=48506545 Points: 34 # Comments: 19",
+      "source": "The Verge",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "published": "2026-06-14T05:39:26+08:00",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
       "score": 35
     },
     {
       "section": "AI 与科技",
-      "source": "OpenAI Blog",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "published": "2026-06-12T18:00:00+08:00",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "score": 31
+      "source": "The Verge",
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "published": "2026-06-13T21:44:07+08:00",
+      "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had […]",
+      "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "OpenAI Blog",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "published": "2026-06-12T08:00:00+08:00",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "score": 27
+      "source": "The Verge",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "published": "2026-06-13T20:57:08+08:00",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "published": "2026-06-13T01:26:43+08:00",
+      "summary": "If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now […]",
+      "score": 17
     },
     {
       "section": "AI 与科技",
       "source": "MIT Technology Review",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-      "published": "2026-06-11T20:10:00+08:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the…",
-      "score": 27
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "published": "2026-06-12T20:10:00+08:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+      "score": 17
     },
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "I Think They [Anthropic] Are Lying to You [video]",
-      "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-      "published": "2026-06-13T07:12:39+08:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zfYsSFY4l18 Comments URL: https://news.ycombinator.com/item?id=48510471 Points: 8 # Comments: 3",
-      "score": 25
+      "source": "The Verge",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "published": "2026-06-14T02:37:21+08:00",
+      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction […]",
+      "score": 15
     },
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
-      "published": "2026-06-13T06:56:06+08:00",
-      "summary": "Article URL: https://putt.day/ Comments URL: https://news.ycombinator.com/item?id=48510341 Points: 27 # Comments: 21",
-      "score": 25
+      "source": "The Verge",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "published": "2026-06-14T00:29:47+08:00",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has […]",
+      "score": 15
     },
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Renault: Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "published": "2026-06-13T06:08:03+08:00",
-      "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48510010 Points: 98 # Comments: 25",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "published": "2026-06-13T04:39:36+08:00",
-      "summary": "Article URL: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979 Comments URL: https://news.ycombinator.com/item?id=48509182 Points: 152 # Comments: 31",
-      "score": 25
+      "source": "The Verge",
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "published": "2026-06-13T06:14:50+08:00",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]",
+      "score": 7
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Jim Cramer says it's not too late to buy SpaceX — under one condition",
-      "url": "https://www.cnbc.com/2026/06/12/jim-cramer-not-too-late-to-buy-spacex-one-condition.html",
-      "published": "2026-06-13T07:04:29+08:00",
-      "summary": "CNBC's Jim Cramer said it's not too late to buy SpaceX if investors view the company as a long-term bet on space exploration.",
+      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+      "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+      "published": "2026-06-13T09:36:34+08:00",
+      "summary": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+      "score": 31
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
+      "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+      "published": "2026-06-14T03:44:44+08:00",
+      "summary": "President Donald Trump posted on Truth Social that a deal to end the war with Iran will be signed on Sunday.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "There’s a 68% chance the stock market ends the year higher. Why the headlines shouldn’t disrupt your portfolio.",
-      "url": "https://www.marketwatch.com/story/theres-a-68-chance-the-stock-market-ends-the-year-higher-why-the-headlines-shouldnt-disrupt-your-portfolio-3d78cfae?mod=mw_rss_topstories",
-      "published": "2026-06-13T06:58:00+08:00",
-      "summary": "Blocking out the daily noise gives you a clear edge over short-term chaos.",
+      "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
+      "url": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
+      "published": "2026-06-14T03:00:00+08:00",
+      "summary": "Grandparent-headed households are more likely to live in poverty.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "‘This is not a flash in the pan’: Why value stocks are beating growth by such a wide margin",
-      "url": "https://www.marketwatch.com/story/this-is-not-a-flash-in-the-pan-why-value-stocks-are-beating-growth-by-such-a-wide-margin-b2bddccc?mod=mw_rss_topstories",
-      "published": "2026-06-13T06:50:00+08:00",
-      "summary": "Value stocks are putting up big gains this year that widely surpass growth equities, with investors appearing optimistic about earnings growth broadening beyond technology.",
+      "title": "My wife and I are 61. We have $2.2 million and expect $5,000 in Social Security benefits. Do we claim early?",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-61-we-have-2-2-million-and-5-000-in-social-security-benefits-do-we-claim-early-1585baf3?mod=mw_rss_topstories",
+      "published": "2026-06-14T03:00:00+08:00",
+      "summary": "“We need our assets and income to support us for the next 25 years.”",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "This 28-year-old paid off her law school loans selling stickers and coloring books",
+      "url": "https://www.cnbc.com/2026/06/13/paid-off-law-school-student-loans-art-business.html",
+      "published": "2026-06-13T22:18:45+08:00",
+      "summary": "Elyse Burns started selling her art on Etsy when she turned 18. Now she's paid off her student loans and did nearly $5 million last year.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "Michael Saylor Fires Back: 'I Never Said The Company Wouldn't Sell Its Bitcoin'",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-fires-back-never-220115528.html",
+      "published": "2026-06-13T22:01:15+08:00",
+      "summary": "",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+      "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+      "published": "2026-06-13T21:37:31+08:00",
+      "summary": "Despite a large retail allocation and huge volume, volatility was moderate",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "How Elon Musk nailed the SpaceX IPO: ‘I’m not sure that this could have gone much better’",
-      "url": "https://www.marketwatch.com/story/how-elon-musk-nailed-the-spacex-ipo-im-not-sure-that-this-could-have-gone-much-better-8149d479?mod=mw_rss_topstories",
-      "published": "2026-06-13T05:57:00+08:00",
-      "summary": "There were a lot of ways that SpaceX’s initial public offering could have gone wrong. Instead, the company bucked Wall Street norms, pulled off the biggest IPO ever and raised $75 billion.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
-      "published": "2026-06-13T05:56:52+08:00",
-      "summary": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-      "url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
-      "published": "2026-06-13T05:15:28+08:00",
-      "summary": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Call Kevin Warsh the Fed 'chairman'",
-      "url": "https://www.cnbc.com/2026/06/12/fed-kevin-warsh-chairman-title.html",
-      "published": "2026-06-13T05:11:46+08:00",
-      "summary": "Kevin Warsh's two immediate predecessors preferred to be called the Fed \"chair.\" For Warsh, it's \"chairman\" of the Federal Reserve.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "SpaceX 'proxies' plunge as real deal arrives: Here's where traders are buying the dip",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-proxies-crash-as-real-deal-arrives-heres-where-traders-are-buying-the-dip.html",
-      "published": "2026-06-13T04:43:50+08:00",
-      "summary": "SpaceX \"proxy stocks,\" whose options volumes were booming ahead of Friday's historic initial public offering, are unwinding gains.",
-      "score": 25
+      "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+      "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+      "published": "2026-06-14T07:22:00+08:00",
+      "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
+      "score": 22
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Indians grieve and call for action after US strike kills sailors - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDBYMkd0R3ZCN2RjU0FVcm16UHNGeElVUGhsaE5LM0F6OEFyUkFVRmllS0FmMkFfazJ3ZUxoVmxVZUFHcGF6VUVUekxtYkRsa3RzZzliVHdZbmVod2NIcllJWEV1aW1PUktPY0czSWxsQ2p0SF9TSGl6bjhvZHg5VXI4SHViNDRKajBMRWRTZjlHZzNOSF9lQ3pvUmplTHBFTWpoZjcyZFRBUW5zZFNFaGhTRjdXaTItZVhONnRCLVVCWG9nblE?oc=5",
-      "published": "2026-06-13T01:15:43+08:00",
-      "summary": "Indians grieve and call for action after US strike kills sailors Reuters Fury in India as its sailors become collateral damage in Trump’s war with Iran CNN Indians grieve and demand action after US strike kills sailors South China Morning Post 'I will come home safely': Indian sailor's last words to wife before a US strike killed him BBC US-Iran ceasefire? Not for Indian sailors being killed in Hormuz Al Jazeera",
+      "title": "Undersea espionage? Bizarre claims of secret spy turtles send China into a panic - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGtuWDFGZUd1RFNObzViXzEzalRXaTZySVIxLVlaMFR1QlJQM3dacGZteUgtU1RLN2lpS0NwMExjbm5kclJQcGFZdDNnTm1lYjhBNk1zdTVnNUZvTndDT1RMVGFwOGw3Q2t0d3NJSkZNa2tCRGxGV2N0QjJ5dzU0YTF2WHBjcVdKQkpxVnNUNDRzUndCZWhBNkdrZGNZWkNDaTBuRVR3?oc=5",
+      "published": "2026-06-14T00:50:00+08:00",
+      "summary": "Undersea espionage? Bizarre claims of secret spy turtles send China into a panic New York Post ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims The Guardian China says \"spy turtles\" and \"spy fish\" deployed by foreign intelligence agencies snooping in its waters CBS News China claims 'spy sea turtles' are studying its coastline Euronews What are spy turtles? China warns foreign agencies are using them Deseret News",
       "score": 35
     },
     {
       "section": "全球要闻",
-      "source": "NPR News",
-      "title": "China arrests a U.S. scholar with a history of Myanmar activism, suspected of spying",
-      "url": "https://www.npr.org/2026/06/12/nx-s1-5856394/china-arrest-us-citizen-myanmar",
-      "published": "2026-06-13T01:04:38+08:00",
-      "summary": "China's government said Min Zin, who heads a think tank focused on Myanmar, was detained on suspicion of engaging in \"espionage and endangering Chinese national security.\"",
+      "source": "BBC World",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-14T00:28:38+08:00",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
       "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "ISW Russian Offensive Campaign Assessment, June 12, 2026 - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5Mno4SDJTYWgwX2FzX1JaZEFKOVpMZTM3bkdlYUpzY0w2M191UFBiQ1cxal9iQjJrcmk2NTN6N2JaWHJjRU9sRTEtZw?oc=5",
+      "published": "2026-06-13T13:01:27+08:00",
+      "summary": "ISW Russian Offensive Campaign Assessment, June 12, 2026 Kyiv Post See more headlines & perspectives on Google News",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "China & Taiwan Update, June 12, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3BGNUItMm5RaHpzTjV2ZFZ4dnh6YmVNQzExQUVkUndOczk3aVFSZ0NtNVh6R2c3ZUxoMEkwamhzZDA2ZEVVaUoxWHY1dFUyTUhRUkEybl9xVllhMlhfTlF4RlNYQXY1VHVfUWV1SWhnZ3N6YkJaN2FTYzZuOG56TU9IOEFXMkoyNzVrMw?oc=5",
+      "published": "2026-06-13T04:28:53+08:00",
+      "summary": "China & Taiwan Update, June 12, 2026 Institute for the Study of War Nukes were off the agenda as Xi Jinping visited North Korea The Economist Was Kim Jong-un the real winner from Xi Jinping’s visit to North Korea? South China Morning Post China re‑centers North Korea ties as nuclear silence reshapes balance NPR North Korea Says 'Denuclearisation' Is a Matter Terminated Irreversibly U.S. News & World Report",
+      "score": 27
     },
     {
       "section": "全球要闻",
@@ -171,54 +189,38 @@
       "title": "Macron wants the G7 to tackle China. Beijing isn’t playing along. - politico.eu",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVRnN3hIVGpQcmlidGpRaVB4ZG51ZXp5bEhOckhhR3RrU1ZMWkhhV2g4eDdaSi1kT29mbmo4eFN0bDFBOFRDNW5wdms1TVc4aDU2NnRrUG5uNU9TdFUyMDJwWm8yTlByaGdHYVE0VERMMXJESVB5NG9DbjZoNVJPQjJjSEM2TndhZFBNRzQyNlI1MEF0TktYZEtmUXM2LVgxbGh0cC1wMA?oc=5",
       "published": "2026-06-12T21:55:00+08:00",
-      "summary": "Macron wants the G7 to tackle China. Beijing isn’t playing along. politico.eu The Global Economy Is Threatened Again by Trade Imbalances WSJ The Real Problem With Global Trade: How China’s Currency Manipulation Is Warping the World Economy Foreign Affairs Why the G7 is worried about global economic imbalances Reuters China Vice Premier to Join Macron’s G7 Call on Trade Imbalances Bloomberg.com",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3UxTDFzeVhLamVXcUx2amxISVR3cEhUMW9sd0hwa2NlbUFhRW1wbWJvWW5iN1dlWnk2ZWVWTFd0OG41ZFNJY2JKS1M3bHpNZ05VNnRiNmZkUF9qUXBoeUlCQTVWZlNBWXJLcWttV01XMkNselViZFl1SG9GUGt1NlZQbFlTLVVIT05XTzVBS1Jlekh5OGI5UFJn?oc=5",
-      "published": "2026-06-12T16:37:00+08:00",
-      "summary": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims The Guardian China says \"spy turtles\" and \"spy fish\" deployed by foreign intelligence agencies snooping in its waters CBS News China claims 'spy sea turtles' are studying its coastline Euronews.com Secret ‘Spy Turtles’ Cause Panic in China The Daily Beast Stop sending spy turtles to snoop on us, says China The Telegraph",
-      "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Philippine defence chief vows to press on against China's 'wickedness' after sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFJONl8zWDNPcVRISDBNV0FzeS04YWphS0pTem9wWHQ3U0UwZ2plTzlqWWE5cGNVbGcxLXZNRl85eEVKVmtPZUZFVHBvaGZNcm1ZUlY5S2loRVcxUEpTNk5CVng0czFqSGhFWURxSGNYOURUeGFRZlkzaU1GOWlQbmktVmdDTDRjbW1OZ20tOENGNEtLc3pzM2ZZZ05wT2lQSTRYNUtpclo?oc=5",
-      "published": "2026-06-12T07:03:00+08:00",
-      "summary": "Philippine defence chief vows to press on against China's 'wickedness' after sanctions Reuters Philippines protests China’s sanctions against its defense chief as ‘an unfriendly act’ AP News China sanctions Philippine defence chief Gilberto Teodoro South China Morning Post China bars Philippines defence chief as South China Sea spat sails onwards Al Jazeera China sanctions Teodoro, family; bars entry and business ties Inquirer.net",
+      "summary": "Macron wants the G7 to tackle China. Beijing isn’t playing along. politico.eu The Global Economy Is Threatened Again by Trade Imbalances WSJ China urges economic cooperation on Macron-led video call ahead of G7 summit Reuters The Real Problem With Global Trade: How China’s Currency Manipulation Is Warping the World Economy Foreign Affairs China will continue to share development opportunities with other countries: vice premier English.gov.cn",
       "score": 27
     },
     {
       "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Pope Leo had to catch a ride from the king of Spain after plane’s engine failed - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJQV005X1dTNzNCWEpWZXd4VlQ1SzBteG9nYjJNbHNXNFBpUVpNR1pKRTFDV2E4WE1CN2dGM0Nwam9oT2pIalczZmxEMG9sSjhKc081YjRsTGxJbktZVXM4QmtSSk1qVjJVeHRlVC1hVHRvck9GUmV6THJKelE5cEdUTXpUOFZ1RkI1RWtROEwxZTNzUDFxaV9SVE1nNDduUG40eU9IXzdXV2th?oc=5",
-      "published": "2026-06-13T07:44:16+08:00",
-      "summary": "Pope Leo had to catch a ride from the king of Spain after plane’s engine failed The Washington Post Pope borrows King of Spain's jet to return to Vatican after technical issue Reuters Pope Leo returns to Vatican on aircraft provided by Spanish King Vatican News Pope Leo XIV’s flight home from Spain was grounded so the king came to his aid AP News Papal plane remains in Spain: Pope Leo’s return flight to Rome delayed by mechanical problems OSV News",
+      "source": "NPR News",
+      "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
+      "url": "https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida",
+      "published": "2026-06-14T05:10:59+08:00",
+      "summary": "Two people have been detained in connection with the theft of equipment from the England national team's vehicles during their move from a pre-training base in Florida to Kansas City, where they have their permanent World Cup base camp.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
+      "published": "2026-06-14T05:02:53+08:00",
+      "summary": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Report says UAE to release billions of dollars to Iran, in major shift meant to halt attacks - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0s4ZVgyUVdtZmhLVFhlLWtOLXB1enowWm9Ob1dHaG9SN0xJaUwzTDZLcWJ3SG11Q3phMmRDSGd5N2dEa3BmOXpmOGFHckxKS0lxV0FFZ3VndWVKR1B4UGwxVTZhQzM2Wmp6UXFuR255UzF4ZzlPSzlKbkV0SEQ0NE83WUxsckwwRl9JVmlKRDd5VW9RVkEyTG5pVENJNk83QktCNlRsWFBYdS1Ya3NDRG1lam1way1l0gG-AUFVX3lxTE85Z0x2eFEzdUNvak53blV4amtOVVVFb3hQcXl2QXdPOXMxWk00dmFaX19sVmhnQ2c3Rk8xUXRyVjh3NWdVNktjTjVXZ1lwa3hnZWJVeU5OQjBOc0lxMFM4THNkOHlUZy1SZjJVVGV2YVV4OEtGNHZ2M2FmcHNJcndZQkVaalI3MzR2RzZ5bWhIQ2hUakRkR3BRdzVobFplWlFTMjIzQ1NYTDhYM1ZwZG1JeEpESFRLS1QyWXhybnc?oc=5",
-      "published": "2026-06-13T07:37:30+08:00",
-      "summary": "Report says UAE to release billions of dollars to Iran, in major shift meant to halt attacks The Times of Israel UAE to unlock billions of dollars for Iran, sources say Yahoo UAE paid Iran billions of dollars to halt strikes: Report Middle East Eye UAE and Iran Meet Face-to-Face to Try to Deescalate Tensions Bloomberg.com UAE denies media reports alleging transfer of funds to Iran Arab News",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-13T06:00:52+08:00",
-      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+      "title": "Israel preparing to stop ground advance against Hezbollah in Lebanon - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBseUI1MmJqTXRGX1VQYndFVlhKaFhrU3doM05lTVMzUFpHdE9qV0RSWTc4WTRINGhEQ19WdFJsV3NFdU5uNlZ6UERNTFZZM2RrWE1MdVYycDhnZ3NMV09tNUlMc29TR2kzT2ZiVDdB?oc=5",
+      "published": "2026-06-14T04:01:54+08:00",
+      "summary": "Israel preparing to stop ground advance against Hezbollah in Lebanon The Jerusalem Post Opinion | Israeli Expansionism Is Shaking the Middle East The New York Times How Israel's operation 'Eternal Darkness' in southern Lebanon is expanding Australian Broadcasting Corporation “The Word 'Ceasefire' Has Lost Its Meaning”: Lylla Younes on Israel’s Ethnic Cleansing of South Lebanon Democracy Now! Israelis push Netanyahu to resist U.S. pressure and keep fighting in Lebanon The Washington Post",
       "score": 25
     }
   ],
-  "errors": []
+  "errors": [
+    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+  ]
 }
