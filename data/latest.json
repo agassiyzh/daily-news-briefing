@@ -1,8 +1,35 @@
 {
-  "date": "2026-06-14",
-  "generated_at": "2026-06-14T08:00:26.548748+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-14.html",
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T08:00:52.939310+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-15.html",
   "items": [
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
+      "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
+      "published": "2026-06-15T06:45:55+08:00",
+      "summary": "Article URL: https://twitter.com/maattttbrown/status/2066215255987163246 Comments URL: https://news.ycombinator.com/item?id=48533756 Points: 51 # Comments: 8",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Did Anthropic ask for this?",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "published": "2026-06-15T06:23:05+08:00",
+      "summary": "Article URL: https://www.verysane.ai/p/did-anthropic-ask-for-this Comments URL: https://news.ycombinator.com/item?id=48533504 Points: 107 # Comments: 62",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "China may have accessed Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "published": "2026-06-15T02:27:55+08:00",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security […]",
+      "score": 35
+    },
     {
       "section": "AI 与科技",
       "source": "The Verge",
@@ -10,205 +37,124 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "published": "2026-06-14T05:39:26+08:00",
       "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
-      "score": 35
+      "score": 27
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "My first 24 hours with Siri AI on the Mac",
-      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
-      "published": "2026-06-13T21:44:07+08:00",
-      "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had […]",
+      "source": "Hacker News Front Page",
+      "title": "The Jqwik Anti-AI Affair",
+      "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+      "published": "2026-06-15T06:43:49+08:00",
+      "summary": "Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48533736 Points: 13 # Comments: 6",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "published": "2026-06-13T20:57:08+08:00",
-      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]",
+      "title": "The FBI built a small town to simulate cyberattacks",
+      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "published": "2026-06-15T04:35:41+08:00",
+      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It's a […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
-      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
-      "published": "2026-06-13T01:26:43+08:00",
-      "summary": "If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now […]",
-      "score": 17
-    },
-    {
-      "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "published": "2026-06-12T20:10:00+08:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
-      "score": 17
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Sealed Super Mario Bros. sells for a record $3 million",
-      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-      "published": "2026-06-14T02:37:21+08:00",
-      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction […]",
-      "score": 15
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Microsoft hasn’t ruled out spinning off Xbox",
-      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
-      "published": "2026-06-14T00:29:47+08:00",
-      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has […]",
-      "score": 15
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "My yard is dying, so I made an app for that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "published": "2026-06-13T06:14:50+08:00",
-      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]",
-      "score": 7
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
-      "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
-      "published": "2026-06-13T09:36:34+08:00",
-      "summary": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
-      "score": 31
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
-      "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
-      "published": "2026-06-14T03:44:44+08:00",
-      "summary": "President Donald Trump posted on Truth Social that a deal to end the war with Iran will be signed on Sunday.",
+      "source": "Hacker News Front Page",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "published": "2026-06-15T04:17:54+08:00",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 43 # Comments: 17",
       "score": 25
     },
     {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
-      "url": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
-      "published": "2026-06-14T03:00:00+08:00",
-      "summary": "Grandparent-headed households are more likely to live in poverty.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "My wife and I are 61. We have $2.2 million and expect $5,000 in Social Security benefits. Do we claim early?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-61-we-have-2-2-million-and-5-000-in-social-security-benefits-do-we-claim-early-1585baf3?mod=mw_rss_topstories",
-      "published": "2026-06-14T03:00:00+08:00",
-      "summary": "“We need our assets and income to support us for the next 25 years.”",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "This 28-year-old paid off her law school loans selling stickers and coloring books",
-      "url": "https://www.cnbc.com/2026/06/13/paid-off-law-school-student-loans-art-business.html",
-      "published": "2026-06-13T22:18:45+08:00",
-      "summary": "Elyse Burns started selling her art on Etsy when she turned 18. Now she's paid off her student loans and did nearly $5 million last year.",
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "published": "2026-06-14T23:37:31+08:00",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 259 # Comments: 137",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "Yahoo Finance",
-      "title": "Michael Saylor Fires Back: 'I Never Said The Company Wouldn't Sell Its Bitcoin'",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-fires-back-never-220115528.html",
-      "published": "2026-06-13T22:01:15+08:00",
+      "title": "Target Corporation (TGT) Shows Why Store-Based Fulfillment Still Matters in Digital Retail",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-corporation-tgt-shows-why-200353633.html",
+      "published": "2026-06-14T20:03:53+08:00",
       "summary": "",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "GitLab (GTLB): Google Cloud Expansion Shows How AI Is Deepening Enterprise DevSecOps Demand",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gitlab-gtlb-google-cloud-expansion-194536719.html",
+      "published": "2026-06-14T19:45:36+08:00",
+      "summary": "",
+      "score": 31
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "NVIDIA (NVDA): AI Factory Demand Shows How Growth Can Stay High Without Balance Sheet Strain",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ai-factory-demand-194442636.html",
+      "published": "2026-06-14T19:44:42+08:00",
+      "summary": "",
+      "score": 31
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran",
+      "url": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories",
+      "published": "2026-06-15T07:44:00+08:00",
+      "summary": "Oil prices fell and U.S. stock-index futures jumped Sunday after President Donald Trump said the U.S. has agreed to a peace deal with Iran, apparently ending months of hostilities that shut the Strait of Hormuz and sent the global economy into an oil shock.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
-      "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
-      "published": "2026-06-13T21:37:31+08:00",
-      "summary": "Despite a large retail allocation and huge volume, volatility was moderate",
+      "title": "Trump heads to G7 summit in France after reaching deal to end war with Iran",
+      "url": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+      "published": "2026-06-15T06:30:57+08:00",
+      "summary": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+      "published": "2026-06-15T05:32:00+08:00",
+      "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-      "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-      "published": "2026-06-14T07:22:00+08:00",
-      "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
-      "score": 22
+      "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
+      "url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
+      "published": "2026-06-15T01:34:00+08:00",
+      "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+      "published": "2026-06-14T23:02:35+08:00",
+      "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+      "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Undersea espionage? Bizarre claims of secret spy turtles send China into a panic - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGtuWDFGZUd1RFNObzViXzEzalRXaTZySVIxLVlaMFR1QlJQM3dacGZteUgtU1RLN2lpS0NwMExjbm5kclJQcGFZdDNnTm1lYjhBNk1zdTVnNUZvTndDT1RMVGFwOGw3Q2t0d3NJSkZNa2tCRGxGV2N0QjJ5dzU0YTF2WHBjcVdKQkpxVnNUNDRzUndCZWhBNkdrZGNZWkNDaTBuRVR3?oc=5",
-      "published": "2026-06-14T00:50:00+08:00",
-      "summary": "Undersea espionage? Bizarre claims of secret spy turtles send China into a panic New York Post ‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims The Guardian China says \"spy turtles\" and \"spy fish\" deployed by foreign intelligence agencies snooping in its waters CBS News China claims 'spy sea turtles' are studying its coastline Euronews What are spy turtles? China warns foreign agencies are using them Deseret News",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-14T00:28:38+08:00",
-      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "ISW Russian Offensive Campaign Assessment, June 12, 2026 - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5Mno4SDJTYWgwX2FzX1JaZEFKOVpMZTM3bkdlYUpzY0w2M191UFBiQ1cxal9iQjJrcmk2NTN6N2JaWHJjRU9sRTEtZw?oc=5",
-      "published": "2026-06-13T13:01:27+08:00",
-      "summary": "ISW Russian Offensive Campaign Assessment, June 12, 2026 Kyiv Post See more headlines & perspectives on Google News",
+      "title": "Taiwan’s spy agency launches webpage for Chinese nationals to report tips - Politico",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFFzVnJxTm1Wb3JMckgxN1lFWGJpSmdpMFlDZExMTkk5eEoxQlQ0NldDNXlSdTl0YVN3VFgta1BWYkwtZV92Yl9ZeExkRFR3OF94bHlaNkRIMjRLWlJoeFBjSEttR3RMQ3p0U0Q5Mnc1T1VBNUE4aU1LNkpKa090Qmc4aG42Nkt3T0FHemE0YjV2MDBZcnRUc2N4MjFmY2tpZXRGTXgwOVVZMmVIYWROZ2NXeGUzUVB3Ul84dEFfcw?oc=5",
+      "published": "2026-06-14T19:52:25+08:00",
+      "summary": "Taiwan’s spy agency launches webpage for Chinese nationals to report tips Politico See more headlines & perspectives on Google News",
       "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "China & Taiwan Update, June 12, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3BGNUItMm5RaHpzTjV2ZFZ4dnh6YmVNQzExQUVkUndOczk3aVFSZ0NtNVh6R2c3ZUxoMEkwamhzZDA2ZEVVaUoxWHY1dFUyTUhRUkEybl9xVllhMlhfTlF4RlNYQXY1VHVfUWV1SWhnZ3N6YkJaN2FTYzZuOG56TU9IOEFXMkoyNzVrMw?oc=5",
-      "published": "2026-06-13T04:28:53+08:00",
-      "summary": "China & Taiwan Update, June 12, 2026 Institute for the Study of War Nukes were off the agenda as Xi Jinping visited North Korea The Economist Was Kim Jong-un the real winner from Xi Jinping’s visit to North Korea? South China Morning Post China re‑centers North Korea ties as nuclear silence reshapes balance NPR North Korea Says 'Denuclearisation' Is a Matter Terminated Irreversibly U.S. News & World Report",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Macron wants the G7 to tackle China. Beijing isn’t playing along. - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVRnN3hIVGpQcmlidGpRaVB4ZG51ZXp5bEhOckhhR3RrU1ZMWkhhV2g4eDdaSi1kT29mbmo4eFN0bDFBOFRDNW5wdms1TVc4aDU2NnRrUG5uNU9TdFUyMDJwWm8yTlByaGdHYVE0VERMMXJESVB5NG9DbjZoNVJPQjJjSEM2TndhZFBNRzQyNlI1MEF0TktYZEtmUXM2LVgxbGh0cC1wMA?oc=5",
-      "published": "2026-06-12T21:55:00+08:00",
-      "summary": "Macron wants the G7 to tackle China. Beijing isn’t playing along. politico.eu The Global Economy Is Threatened Again by Trade Imbalances WSJ China urges economic cooperation on Macron-led video call ahead of G7 summit Reuters The Real Problem With Global Trade: How China’s Currency Manipulation Is Warping the World Economy Foreign Affairs China will continue to share development opportunities with other countries: vice premier English.gov.cn",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
-      "url": "https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida",
-      "published": "2026-06-14T05:10:59+08:00",
-      "summary": "Two people have been detained in connection with the theft of equipment from the England national team's vehicles during their move from a pre-training base in Florida to Kansas City, where they have their permanent World Cup base camp.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
-      "published": "2026-06-14T05:02:53+08:00",
-      "summary": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
-      "score": 25
     },
     {
       "section": "全球要闻",
@@ -216,11 +162,63 @@
       "title": "Israel preparing to stop ground advance against Hezbollah in Lebanon - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBseUI1MmJqTXRGX1VQYndFVlhKaFhrU3doM05lTVMzUFpHdE9qV0RSWTc4WTRINGhEQ19WdFJsV3NFdU5uNlZ6UERNTFZZM2RrWE1MdVYycDhnZ3NMV09tNUlMc29TR2kzT2ZiVDdB?oc=5",
       "published": "2026-06-14T04:01:54+08:00",
-      "summary": "Israel preparing to stop ground advance against Hezbollah in Lebanon The Jerusalem Post Opinion | Israeli Expansionism Is Shaking the Middle East The New York Times How Israel's operation 'Eternal Darkness' in southern Lebanon is expanding Australian Broadcasting Corporation “The Word 'Ceasefire' Has Lost Its Meaning”: Lylla Younes on Israel’s Ethnic Cleansing of South Lebanon Democracy Now! Israelis push Netanyahu to resist U.S. pressure and keep fighting in Lebanon The Washington Post",
+      "summary": "Israel preparing to stop ground advance against Hezbollah in Lebanon The Jerusalem Post See more headlines & perspectives on Google News",
+      "score": 27
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "The U.S. and Iran announce a deal to end the war",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz",
+      "published": "2026-06-15T06:30:42+08:00",
+      "summary": "President Trump said the U.S. would remove its blockade of the Strait of Hormuz.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Swiss voters reject proposal to cap population at 10 million - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFBNbmdUUHRieVU4V2FRWGtuV2Y2VVZBZVlOU3lmYVpNcm1MT21GNlVMT28zaXAzdmFBRnZQd3I3RHJ3WDdOQTdmd1luRU9WS0xUVmpJQmJxYXVENS1nUXpFc0xuZ0xRN0JOSXBuTEFXd2hyMWN2cV9IZDBCNWNsdHZlbC1OQXl4eVJfUVJNNjI?oc=5",
+      "published": "2026-06-15T06:03:00+08:00",
+      "summary": "Swiss voters reject proposal to cap population at 10 million The Guardian Swiss vote against proposal to cap population at 10 million BBC Swiss reject population cap in referendum, avoiding EU clash and cheering business CNN Vote looms in Switzerland after foes of migration put proposal to cap population at 10 million AP News Should Switzerland Cap Its Population at 10 Million? Voters Will Decide. The New York Times",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnlCd0pUNkx6dVJSdkNlYU1aT3p3TGxzcDBfd2RpZUxmcmt2M1lLb1kxNW9yWDJPbUtEek1jODRMMmxxWXJmOFVnc0hfZHZQdk1YZ2w1N0NjRG1oenhuN1cwVlpVYnM4TTFpWjNyUDMycVFLWjg1UzFoVGZ0NERWTHVpN0p5VFRWa2d4NWR3cURtRDdPcjRldFpZcWZVRXkxMnNVcG4xb2NOOVdobzh3?oc=5",
+      "published": "2026-06-15T06:03:00+08:00",
+      "summary": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres The Guardian Church Coordinates Relief Efforts After Mindanao Earthquake news-ph.churchofjesuschrist.org Pope Leo prays for Filipinos affected by massive earthquake Vatican News Disaster drills helped prevent more deaths when quake hit Philippines, officials say Euronews The Philippines earthquake is the largest this year, but it could’ve been bigger—here’s why Scientific American",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "New social media restrictions will end 'system failing our kids', PM says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ySFJ4eGhOb3VNMzdkcFBYNjE0VDZNdEpINnJ4cHZ3S0czTzhNeXRDLXRhaXFNOUwwVXRDanJEZ0JseTZqbnFScDRaWmp4anpHWkpDbzRZUHgzUQ?oc=5",
+      "published": "2026-06-15T05:32:21+08:00",
+      "summary": "New social media restrictions will end 'system failing our kids', PM says BBC Keir Starmer set to unveil plans for new online protections for children NBC News UK to ban under-16s from ‘high risk’ social media apps The Guardian Teens will get social media curfew and chatbot ban The Times Sir Keir Starmer to announce Australia-style social media ban for teenagers Financial Times",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+      "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital",
+      "published": "2026-06-15T04:45:20+08:00",
+      "summary": "A spokesman for former Senate Majority Leader Mitch McConnell said the Kentucky republican was admitted to a hospital on Sunday.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Protesters in Geneva clash with police ahead of the G7 summit in nearby France - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUdrT2xQQmxEV05KTjZnY3JIeC1qRzczWHc4eWhodGpmMUhXdGJoN3F4c1kxVElLbEU5UDB3WlVReFhSa2xseVVfNVRzRHBZamdiNll4Z3ZTMXVBdG5sbUwxeXp2cXVhSEVXeFUzblRVRnAxNjRBQVRKV0JSVVQtUWVuVUk4RHlQZTNLSWszUVNFY3NFcWpMeDdqV3M?oc=5",
+      "published": "2026-06-15T03:07:00+08:00",
+      "summary": "Protesters in Geneva clash with police ahead of the G7 summit in nearby France AP News See more headlines & perspectives on Google News",
       "score": 25
     }
   ],
-  "errors": [
-    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
-  ]
+  "errors": []
 }
