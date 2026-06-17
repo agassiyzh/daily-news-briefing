@@ -1,227 +1,224 @@
 {
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T08:00:09.347075+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-16.html",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T08:00:46.480993+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-17.html",
   "items": [
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "All the news about Anthropic’s new AI fight with the White House",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "published": "2026-06-16T06:46:11+08:00",
-      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any […]",
+      "title": "Android 17 arrives on Pixel phones today",
+      "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
+      "published": "2026-06-17T04:24:25+08:00",
+      "summary": "Following its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the OS at the pre-I/O Android Show is available today, though. Android 17 itself is arriving on Pixel phones today, and Google […]",
       "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "published": "2026-06-16T02:10:27+08:00",
-      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier […]",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
-      "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
-      "published": "2026-06-16T02:06:18+08:00",
-      "summary": "Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google phased out support for ad-blocking extensions built for Manifest V2, like uBlock Origin, in 2024. At that point, most Chrome users either switched to newer […]",
+      "title": "The Google / Xreal Aura XR glasses are now available to preorder",
+      "url": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
+      "published": "2026-06-17T01:10:27+08:00",
+      "summary": "The Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for the second Android XR device, now dubbed the Xreal Aura, are available for $99 starting today, with a full launch in the US, UK, Japan, Canada, and South Korea expected sometime this Fall. […]",
       "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "OpenAI Blog",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "published": "2026-06-15T01:00:00+08:00",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "published": "2026-06-16T08:00:00+08:00",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "score": 27
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Facebook’s new AI Mode search gets its info from public posts",
-      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-      "published": "2026-06-16T05:15:08+08:00",
-      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto […]",
+      "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
+      "url": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
+      "published": "2026-06-17T07:39:08+08:00",
+      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4, adding a new Live Updates feature that tracks live events from your Android smartwatch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal delivery will show up […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "The best early Amazon Prime Day deals so far",
-      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-      "published": "2026-06-16T03:17:03+08:00",
-      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powered doorbell for $60 off and it includes a […]",
+      "source": "Hacker News Front Page",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "published": "2026-06-17T07:15:44+08:00",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/ Comments URL: https://news.ycombinator.com/item?id=48563609 Points: 4 # Comments: 1",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "published": "2026-06-17T06:53:34+08:00",
+      "summary": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ Comments URL: https://news.ycombinator.com/item?id=48563394 Points: 17 # Comments: 0",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "MIT Technology Review",
-      "title": "Why do South Koreans love AI so much?",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "published": "2026-06-16T02:46:08+08:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "published": "2026-06-17T04:35:02+08:00",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Big Tech’s desperate last push at AI regulation",
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "published": "2026-06-16T01:44:10+08:00",
-      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run […]",
+      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+      "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+      "published": "2026-06-17T04:26:12+08:00",
+      "summary": "Google’s Android 17 update includes highlights like new floating “Bubble” app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates and better battery life for smart watches, and it prepares connections for new Android XR smart glasses that will […]",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "CNBC's The China Connection newsletter: Waiting for AI to lift the whole market",
-      "url": "https://www.cnbc.com/2026/06/15/cnbcs-the-china-connection-newsletter-hoping-ai-lifts-all-boats.html",
-      "published": "2026-06-16T07:00:01+08:00",
-      "summary": "China's economy sees a lift from artificial intelligence-related industries, while real estate and domestic demand remain lackluster.",
+      "title": "SpaceX to acquire the AI coding startup Cursor for $60 billion",
+      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+      "published": "2026-06-16T22:51:36+08:00",
+      "summary": "The deal will help to bolster the company's efforts to compete with rivals like Anthropic and OpenAI, which also offer popular coding tools.",
+      "score": 45
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Anthropic's Fable shutdown is a big moment for open-source AI",
+      "url": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+      "published": "2026-06-17T06:34:32+08:00",
+      "summary": "Anthropic’s Fable shutdown could boost open-source AI, but many of the models gaining traction are Chinese.",
       "score": 35
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom",
-      "url": "https://www.cnbc.com/2026/06/15/nvidia-plans-to-raise-about-20-billion-first-debt-sale-in-ai-boom.html",
-      "published": "2026-06-16T06:56:16+08:00",
-      "summary": "Nvidia is set to raise capital in a debt sale for the first time since 2021, when the chipmaker was a fraction of its current size.",
-      "score": 35
+      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+      "url": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
+      "published": "2026-06-16T23:44:01+08:00",
+      "summary": "Traders think it's more likely than not that access is restored by July 1.",
+      "score": 32
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+      "url": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
+      "published": "2026-06-17T06:51:56+08:00",
+      "summary": "The DOJ is asking a Mississippi federal court to dismiss a lawsuit filed by the NAACP against Elon Musk's xAI, now owned by SpaceX.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Jim Cramer says SpaceX investors aren't buying earnings — they're buying Elon Musk",
+      "url": "https://www.cnbc.com/2026/06/16/jim-cramer-spacex-investors-buying-elon-musk.html",
+      "published": "2026-06-17T06:42:05+08:00",
+      "summary": "CNBC's Jim Cramer said SpaceX investors are betting on Elon Musk's vision and track record, rather than the company's current earnings power.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+      "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+      "published": "2026-06-17T06:25:28+08:00",
+      "summary": "Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "SpaceX rises 4% to leapfrog Amazon in market cap, closes short of Microsoft",
+      "url": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+      "published": "2026-06-17T06:03:23+08:00",
+      "summary": "CEO Elon Musk said Sunday that the company \"might be able to reach approximately\" $1 trillion revenue in 2030.",
+      "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Even Nvidia is joining the AI borrowing spree, with a historic $20 billion bond deal",
-      "url": "https://www.marketwatch.com/story/even-nvidia-is-joining-the-ai-borrowing-spree-with-a-historic-20-billion-bond-deal-a054cff4?mod=mw_rss_topstories",
-      "published": "2026-06-16T04:44:00+08:00",
-      "summary": "Nvidia is launching a seven-tranche debt offering to refinance its existing debt, as investor appetite for AI credit surges.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Anthropic to meet with Trump administration over Mythos dispute",
-      "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
-      "published": "2026-06-16T02:15:13+08:00",
-      "summary": "Anthropic received an export control directive that ordered the company to suspend access to its latest AI models by any foreign national.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "People in China are watching the World Cup differently this time",
-      "url": "https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html",
-      "published": "2026-06-16T07:25:29+08:00",
-      "summary": "A 12-hour-plus time difference and various streaming options are influencing how people in China watch the World Cup.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.",
-      "url": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
-      "published": "2026-06-16T07:07:00+08:00",
-      "summary": "A credit-limit increase can help strained borrowers improve how their financial picture looks on paper.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Roku’s sale to Fox for $22 billion raises a big question",
-      "url": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
-      "published": "2026-06-16T07:03:00+08:00",
-      "summary": "Roku’s stock is rallying to a four-year high after agreeing to be bought by Fox in a deal valued at $22 billion.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "CFTC chair Selig defends decision to approve ‘perps’ in U.S.",
-      "url": "https://www.cnbc.com/2026/06/15/cftc-chair-selig-defends-decision-to-approve-perps-in-us.html",
-      "published": "2026-06-16T06:39:09+08:00",
-      "summary": "Michael Selig said that incumbents will always fear the future, but it's important to develop the new asset class domestically rather than only offshore.",
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "published": "2026-06-17T05:45:00+08:00",
+      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "People around the world see a winner on AI — and it’s not the US - Politico",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFh0LUc4cGJEaFFoUTF3ellMY09RWjEzbVBEX2RhZm1FRTBZX1JEbXp6LUxQWVktTUo2VzRtNG5uX1BVMGk1VURVa3ptRko1cWRqYVprVjUzTF9OWFd2ZElfUzRZRExSYS1jMDEwVHA0M2puZl9Lc2dNUWhoLWs1alN2cTZNaTRKcGctWmYxb09fY1hkTk1vMkNyWGRzZ2ZWbDhIWHRlN2Q4RldFYXdYSw?oc=5",
-      "published": "2026-06-15T17:00:00+08:00",
-      "summary": "People around the world see a winner on AI — and it’s not the US Politico Carney’s Middle Powers Are Racing to Thwart US-China Dominance of AI Bloomberg.com Canadian PM warns of \"AI dependency\" risk after US restrictions on Anthropic models Mezha In the age of AI sovereignty anxiety, could China be a safe bet for middle powers? South China Morning Post Most Countries Perceive China As Leading The AI Race Over US: Poll International Business Times",
+      "title": "China Shock 2.0: Surging Chinese exports threaten Europe's economy, raising concern at G7 summit - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDk3Z3JNajhvNEFlUk9wRnlEdzBmWWYzRmJsamZ2aDdUUldQeDU5WFVyN0dZbzBPb0FIZGdackc3dVQxRFVId1dTWXp2Z0txcWVRNEJuOFZLX1NfNWFhZWk0aEtPV3JJSWJhN2hlZjVLejZPbC1LcWpOWGphY3ZWdDdoQnExZVUtRkc3NGdBcjJQeEhXb3J3ZGpYbUJuTDY2Wk5V?oc=5",
+      "published": "2026-06-16T12:01:00+08:00",
+      "summary": "China Shock 2.0: Surging Chinese exports threaten Europe's economy, raising concern at G7 summit AP News See more headlines & perspectives on Google News",
       "score": 41
     },
     {
       "section": "全球要闻",
-      "source": "BBC World",
-      "title": "China detains two leaders of influential underground church",
-      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-15T15:56:43+08:00",
-      "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
-      "score": 31
+      "source": "Google News World",
+      "title": "One dead, 4 injured after China's Qinghai hit by magnitude 6.3 earthquake - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHpDNndYUmFqakNFZXB6RFBCdGF0LXA2WjJBTHRRS1dhX2pfUl9hNHU0bEUxM0gxMXk2M2xkTUxfOWhsZzBsbzBJZ0Y0X0h2Y081ZVFpeWVjNV9udnNWTFdSN2ZadnNsTXZiOTdHcHYtRW1UNGVpeWtkaUF1WjlhYU1mMWhWS3JVa0U5MWpTcjNXLVE1ekRQcVdyNmFPbTVRemZucGYxdUNERVdxc1BqUTFR?oc=5",
+      "published": "2026-06-16T23:19:30+08:00",
+      "summary": "One dead, 4 injured after China's Qinghai hit by magnitude 6.3 earthquake Reuters Earthquake kills at least 1 person in northwestern China ABC News - Breaking News, Latest News and Videos 1 Dead Following 6.3-Magnitude Quake in China Yahoo Magnitude 6.3 earthquake rattles China, at least 1 dead, multiple injured USA Today Eight earthquakes hit Northwest China’s Qinghai within 40 minutes; emergency crew deployed to quake zone Global Times",
+      "score": 35
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Google CEO brought optimism to Stanford commencement. Some graduates walked out - The Mercury News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEEyVTVlekhKeUJab1R2RHFMMVpVVjdqT2JKd2pmbkZ2NF9wODRrc1RlejBUbzIzTkg4akxJcEptb291TkVIUzZKWEx4b0k0V2JBQ1ZQUXRMOVZoQ2p1TmVLUXFlbjdubE9ucW1oRlA1YWxETTllOEJxc0NjZWk4NGZWeEw4Nlp30gGOAUFVX3lxTE9USGpQbFNKSkpzWU8welBUbWhlc1RpLUFCNGdVakRaY2RLM1M4MmM1LTlILU1hZVlFUTlDd0hacWFaRjhYODRVLUdVVzFUaTBocFphOEU4eF9kZUxmazNuYUhqVVFYVk9VenlYQ2FEajhreEQtakY5NmFWTlg0eGFxVFQxUVptVDZnWWVDcUE?oc=5",
-      "published": "2026-06-15T06:40:44+08:00",
-      "summary": "Google CEO brought optimism to Stanford commencement. Some graduates walked out The Mercury News Dozens walk out as Google boss Pichai addresses Stanford graduates BBC Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google's Israel, ICE ties TechCrunch Google CEO Sundar Pichai passes on AI in Stanford grad speech SFGATE ‘Set your heart ablaze,’ Sundar Pichai tells the Class of 2026 Stanford Report",
+      "title": "Google CEO Humiliated by Graduating Stanford Students as They Walk Out of His Speech in Protest - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDJZeTQ5U3lGZzlnb2xPSndnZnltTW5MU05JR21CZ1ZEbVdEZFZPQktwenBvMWd0YllGTjVhVVhSaXh6SHhvNFBPbnlDSlUxYmRJdXRyaG1KQ01FQ3BqTXE1TGJqb2hlZndYVUVHNWI0NGFzT2hXTmlyUGt6VlV6dWlVcWZKM2h0WkI4V2I1Mjc1SGVxMHZOMlpfamtoQQ?oc=5",
+      "published": "2026-06-16T03:25:31+08:00",
+      "summary": "Google CEO Humiliated by Graduating Stanford Students as They Walk Out of His Speech in Protest Futurism Dozens walk out as Google boss Pichai addresses Stanford graduates BBC In Speech To Stanford Grads, Alphabet CEO Sundar Pichai Doesn’t Mention AI Forbes Hundreds of Stanford students walked out of their grad ceremony to protest Google CEO’s commencement speech. It wasn’t all about AI Yahoo Stanford graduates urged to be optimistic, seek justice in clashing ceremonies Palo Alto Online",
       "score": 27
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "UK hits Russia with fresh energy sanctions at G7 - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjJQTXNXVG9QQW11LUxOM1U1M21TSlJZcnVITTVvYzZsbDRpNGRFa3hTMjMwd3NudzhPN3laSUllMTYyRjJXODc0bVpoSE1WSmZjemFYdjM3ZE9vblpYV1pxWmNSZklQT05mOVFWYWlZZnoxcnRmMzlRQ2ctYWkxV0FNTzB3SFhk?oc=5",
-      "published": "2026-06-16T05:36:25+08:00",
-      "summary": "UK hits Russia with fresh energy sanctions at G7 politico.eu Russian Offensive Campaign Assessment, June 14, 2026 Institute for the Study of War A cathedral on fire and a ‘Frankenwrap’: photos of the day – Monday The Guardian Captain of Russian shadow fleet tanker intercepted in Channel charged BBC UK to Announce Fresh Russia Sanctions, Ukraine Energy Support Bloomberg.com",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-16T04:33:54+08:00",
-      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
+      "published": "2026-06-17T06:12:00+08:00",
+      "summary": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon AP News See more headlines & perspectives on Google News",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "UK social media ban: Questions remain on how it will work - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PV2M0Qk5yRWdORC1XUFdfaG1faDR5WE9tYWFvZUtxeklHcVU4ZXhWOWxaeXVKR3RxeGVrUUJjNi01V01tLVpKRm52Y0FSeGdOb0toX0ZodEtPZw?oc=5",
-      "published": "2026-06-16T03:48:25+08:00",
-      "summary": "UK social media ban: Questions remain on how it will work BBC 'Social media firms hit back' and 'Arson attack on Starmer linked to Russia' BBC Britain will ban under-16s from social media apps, including TikTok and YouTube NPR U.K. announces plan to ban social media for children under 16 CBS News U.K. the latest country to move toward social media ban for kids Axios",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Norwegian crown princess's son found guilty of two counts of rape",
-      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-16T01:10:30+08:00",
-      "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+      "title": "Some 'Lost Canadians' told to surrender new citizenship certificates - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IekQ2UGZTNjdjVUZScENoc05LN2dyZkszVjhqd2dyZ0czOWlaenRIUzBsSlJhbVBGZWdqeGpzQmpGOFlTLTlpY25uZlJoTFBhY3RJSHBwLWtfdw?oc=5",
+      "published": "2026-06-17T05:47:43+08:00",
+      "summary": "Some 'Lost Canadians' told to surrender new citizenship certificates BBC Thousands sought Canadian citizenship. Some are now under review USA Today Canada asks new citizens to hand back their citizenship certificates CIC News NDP wants minister to explain why citizenship certificates were abruptly suspended CBC Canada is asking some who received citizenship to surrender their certificates. Here’s why CTV News",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Russian bishop known as Putin's \"personal priest\" targeted by EU sanctions - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc2xKLV9iYzJ5NWZnd3pjSTRRNjcwUjdyYmg1a1ZoNklDUjcxM0xJNl9iWUtHTDA2Wlp6X3lDM1NvYnBPY3Z4aXRqSWNxdmVtcER1eHYwMm1KLVJGMzY3bmxkcFVTWTg0dzVKMFNZRk9MN3lfRFdTV2lNR0l5Mlk1QktFSFNnMzNsZ3c?oc=5",
-      "published": "2026-06-16T00:50:15+08:00",
-      "summary": "Russian bishop known as Putin's \"personal priest\" targeted by EU sanctions CBS News Russia’s war of aggression against Ukraine: new EU sanctions target energy revenues, the military-industrial complex, propaganda and human rights violations consilium.europa.eu EU adds shadow fleet figures, judges, bishop to Russia sanctions list Reuters EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow The Guardian Russian army deserters exempted from EU visa-ban, but ‘populist’ sanctions could still backfire EUobserver",
+      "title": "Trump offers Ukraine olive branch at G7 — with a price tag - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWURYaDkycDBiaFB3dWQwM2FoQzhzOEVYc1FMYVZaR1hfSEoySjQ0M1RmZjNtYjM2U1locnJXWmhJQTM0ODFfOGhUeXlsOXN3Sm15dzdvNzdmaS1ZcVd3NlFFUjJod29sUnVQWmxFQVgyc1hSTDNpVFJyQjZUYnZiempOYXlQdWxGem5RTGpENHJFRDlJVFJtOWZZanQ5bGwtTkt1UmhzaHlMTzJacmZWM2hLSQ?oc=5",
+      "published": "2026-06-17T05:02:00+08:00",
+      "summary": "Trump offers Ukraine olive branch at G7 — with a price tag politico.eu U.S. Has ‘Nothing to Do’ with Ukraine War, Trump Says at G7 Summit The New York Times Trump signals he may reimpose sanctions on Russian oil as G7 refocuses on Ukraine PBS Trump signals shift in focus to Ukraine, with Iran war soon in ‘rearview’ NBC News Macron, Zelensky heard on hot-mic talking about Trump at G7 meeting The Hill",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "A man who set fire to homes linked to Starmer is in jail. His Russian-speaking handler slipped away - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzQ4czFFT2phaERJdmVvbDd2LUVhVzF3OTFtNklRNlkxWlBqcjBDRGZlVmxYTkFISmtyUFY2ZU1DVFp1OVd3VHc5SV9SSXVaUE1lM1ktYVZnd0pldURubW1Tcm5BMDl0dVNGQlpCc0VVWlgxT0Z5ZUpJNml1S2p4WERjamZvUERlZFpNbDFCV19mdkdFZWxIRnRsdm9hUHpa?oc=5",
+      "published": "2026-06-17T02:23:00+08:00",
+      "summary": "A man who set fire to homes linked to Starmer is in jail. His Russian-speaking handler slipped away AP News Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran Reuters Russia was behind arson attacks targeting PM, BBC reveals BBC Russian saboteurs hired third operative for UK attacks Financial Times Starmer pleased 'justice has been done' after arson attacks BBC",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
+      "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-17T01:57:00+08:00",
+      "summary": "ZDF TV responded to a \"cease and desist\" letter after the tech trillionaire condemned the broadcaster's \"outrageous lies\".",
       "score": 25
     }
   ],
-  "errors": [
-    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
-    "财新网: <urlopen error [Errno 104] Connection reset by peer>"
-  ]
+  "errors": []
 }
