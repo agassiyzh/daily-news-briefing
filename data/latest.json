@@ -1,226 +1,224 @@
 {
-  "date": "2026-06-18",
-  "generated_at": "2026-06-18T08:00:44.957721+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-18.html",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T08:00:41.820135+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-19.html",
   "items": [
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "published": "2026-06-18T00:14:04+08:00",
-      "summary": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs: - AI will be the primary medium for creating mechanical designs just like it is in software today. - The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD). We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Think of it like AI TinkerCAD. Demo: https://www.youtube.com/watch?v=iESOr7EGWqk Try it: https://adam.new/cadam/ What it does: - Generates parametric 3D models from natural language, with support for both text prompts and image references. - Outputs OpenSCAD code with automatically extracted parameters that surface as interactive sliders for instant dimension tweaking - Exports as .STL or .SCAD (plus OBJ, GLB/GLTF, FBX, and DXF) Under the hood: - One agentic endpoint with two modes that swap system prompts and tools: a parametric mode that writes/edits OpenSCAD via a build_parametric_model tool, and a mesh mode that generates 3D textured meshes. - Simple parameter tweaks bypass the model entirely; adjusting a slider does a deterministic regex update on the SCAD source, requiring no LLM call. - Model-agnostic via the Vercel AI SDK: Anthropic (Claude), Google (Gemini), and OpenAI/others through OpenRouter, with adaptive thinking auto-enabled on newer models. Surprisingly, in our evals Gemini 3.1 Pro is the top model. - Runs fully in-browser by compiling OpenSCAD to WebAssembly (in a Web Worker, so the UI never blocks) and rendering with Three.js via React Three Fiber - Supports BOSL, BOSL2, and MCAD libraries, plus custom font support (Geist) for text in models Future improvements: - Support both build123d and CadQuery. This will allow us to move beyond CSG primitives to constraint-driven modeling and provide direct comparisons to other code-as-CAD primitives. - Better spatial context: UI for face/edge selection and viewport image integration to give LLMs spatial understanding You can clone the repo and run it locally! Contributions are very welcome. Comments URL: https://news.ycombinator.com/item?id=48572553 Points: 141 # Comments: 74",
-      "score": 65
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "published": "2026-06-18T05:31:35+08:00",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/ Comments URL: https://news.ycombinator.com/item?id=48577208 Points: 176 # Comments: 109",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Anthropic got hit by export rules nobody understands",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "published": "2026-06-18T02:31:01+08:00",
-      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \"To my […]",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-      "published": "2026-06-18T01:34:20+08:00",
-      "summary": "Article URL: https://openai.com/index/ai-chemist-improves-reaction/ Comments URL: https://news.ycombinator.com/item?id=48573757 Points: 46 # Comments: 17",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "published": "2026-06-18T01:09:29+08:00",
-      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com. Back […]",
+      "source": "OpenAI Blog",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "published": "2026-06-19T01:00:00+08:00",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "OpenAI Blog",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "published": "2026-06-17T18:00:00+08:00",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published": "2026-06-18T16:00:00+08:00",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "score": 31
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices",
-      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
-      "published": "2026-06-18T05:45:12+08:00",
-      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our customers from the […]",
+      "source": "Hacker News Front Page",
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "published": "2026-06-19T07:08:35+08:00",
+      "summary": "Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect Comments URL: https://news.ycombinator.com/item?id=48592832 Points: 21 # Comments: 14",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-      "published": "2026-06-18T05:00:07+08:00",
-      "summary": "Article URL: https://openrouter.ai/blog/insights/royale-last-agent-standing/ Comments URL: https://news.ycombinator.com/item?id=48576824 Points: 140 # Comments: 116",
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/",
+      "published": "2026-06-19T04:49:03+08:00",
+      "summary": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave \"in the weights\". My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here! Comments URL: https://news.ycombinator.com/item?id=48591348 Points: 133 # Comments: 93",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Amazon employees say they’re facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "published": "2026-06-19T03:10:48+08:00",
+      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "The best early Amazon Prime Day deals so far",
+      "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+      "published": "2026-06-19T02:54:32+08:00",
+      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price at Amazon and Walmart (though, the sale keeps playing peek-a-boo). Also, you can grab Ring’s […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "This robotic self-driving toilet comes to you",
+      "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+      "published": "2026-06-19T02:08:17+08:00",
+      "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those dealing with mobility issues due to age, […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "published": "2026-06-19T00:55:25+08:00",
+      "summary": "Article URL: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html Comments URL: https://news.ycombinator.com/item?id=48588216 Points: 292 # Comments: 211",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
-      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
-      "published": "2026-06-18T04:42:27+08:00",
-      "summary": "Tech leaders and heads of state, including President Donald Trump, joined a meeting about AI standards at the G7 Summit.",
+      "title": "California’s counting on an IPO tax windfall. Several factors are complicating the equation",
+      "url": "https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html",
+      "published": "2026-06-18T21:33:16+08:00",
+      "summary": "The IPOs of SpaceX, OpenAI and Anthropic could create a tax windfall for the state of California. But experts say the revenue impact may be blunted.",
       "score": 45
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
-      "url": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
-      "published": "2026-06-18T07:29:00+08:00",
-      "summary": "Is Rumble’s AI expansion just Allbirds 2.0 — or a move modeled after Elon Musk?",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
-      "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
-      "published": "2026-06-18T01:43:22+08:00",
-      "summary": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
-      "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
-      "published": "2026-06-18T07:51:33+08:00",
-      "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "CME CEO Terrence Duffy says the exchange operator will sue CFTC over perpetual futures",
-      "url": "https://www.cnbc.com/2026/06/17/cme-ceo-terrence-duffy-says-the-exchange-operator-will-sue-cftc-over-perpetual-futures.html",
-      "published": "2026-06-18T07:21:48+08:00",
-      "summary": "Outgoing CME CEO Terrence Duffy said that the exchange operator will sue the CFTC over the agency’s decision to approve perpetual futures.",
+      "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
+      "url": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
+      "published": "2026-06-19T07:22:00+08:00",
+      "summary": "Midjourney is making a foray into healthcare with its latest body-scanner product, aiming to make medical imaging more accessible.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
-      "url": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
-      "published": "2026-06-18T07:19:00+08:00",
-      "summary": "Tech giants are gobbling up memory chips for AI servers, leaving Apple with soaring component costs that Tim Cook says will inevitably be passed on to consumers.",
+      "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
+      "url": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
+      "published": "2026-06-19T06:03:00+08:00",
+      "summary": "Billions of dollars have flowed into SpaceX ETFs as retail investors look past conventional valuations.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Warren Buffett’s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?",
-      "url": "https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories",
-      "published": "2026-06-18T06:48:00+08:00",
-      "summary": "The illusion of investing knowledge is powerful: Why you’re probably paying a financial adviser for pure chance.",
+      "title": "Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small",
+      "url": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
+      "published": "2026-06-19T06:00:00+08:00",
+      "summary": "Intel “is steadily expanding its domestic capacity and converting political and strategic tailwinds into concrete foundry wins,” an analyst says.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Kevin Warsh launches his push to change how the Fed operates",
-      "url": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
-      "published": "2026-06-18T06:44:00+08:00",
-      "summary": "The new Federal Reserve chair rolls out five task forces that will focus on the central bank’s communications, inflation frameworks and more",
+      "title": "These stocks are in trouble after Fed Chair Kevin Warsh removed the market’s guardrails",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
+      "published": "2026-06-19T05:35:00+08:00",
+      "summary": "The new chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
+      "url": "https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories",
+      "published": "2026-06-19T05:14:00+08:00",
+      "summary": "Some of the AI boom’s biggest earners have become its biggest bargains.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
+      "url": "https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html",
+      "published": "2026-06-19T04:14:38+08:00",
+      "summary": "\"The only way the Iranians get any of these resources ... is if they comply fully\" with the terms of the deal, Vice President JD Vance said.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Amazon investigating engineers who criticized AI data center expansion",
+      "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+      "published": "2026-06-19T03:47:59+08:00",
+      "summary": "Five Amazon employees testified at Seattle City Council meetings where officials sought feedback on a year-long data center new construction pause.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5",
-      "published": "2026-06-18T01:29:55+08:00",
-      "summary": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 CNBC Trump and AI CEOs discuss global AI rules Axios Anthropic boss tells G7 leaders to ‘resist the temptation to splinter’ over AI Financial Times At G7, Macron says he expects progress on broadening access to Anthropic's Mythos Reuters Cohere CEO on G7 leaders’ choice: sovereign AI or digital serfdom Fortune",
-      "score": 45
+      "title": "French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEthanlWb0x3bXcteVRGODdpR3p2by11eldKVzNMVWdldndDSDBHOWsxUkVMVmlnVEt0YzV2UXFTQTB6bGtiLW1pcVllMi1WXzdid2lZeUlBbTRGYXNzNFBXSXQxN2VycGo5eHZhM212d1Z3a0FtX2xXN01XWHNnbXpZY3EtUlgwaThnaA?oc=5",
+      "published": "2026-06-18T06:18:00+08:00",
+      "summary": "French president urges US to share cutting-edge AI and democracies to cooperate on regulation AP News AI's most powerful bosses deliver message to world leaders - and it's not very reassuring Sky News Anthropic chief tells G7 leaders to ‘resist the temptation to splinter’ over AI Financial Times 'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 CNBC At G7, Macron says he expects progress on broadening access to Anthropic's Mythos Reuters",
+      "score": 47
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "\"China shock\" fear shapes EU trade policy - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IWkRQSXB3UVVFb0YxTmFPZ2xURUFvRkNfMjRJcXhaOUIwVFdPdWh6VXRETmZSMkhfb2R4WFN1bHhWZEUzODRoMUVfaUlyeUxmM1dhX3VFbVdJYk00Y1NBVXZRc0FlYkRE?oc=5",
-      "published": "2026-06-17T04:16:16+08:00",
-      "summary": "\"China shock\" fear shapes EU trade policy Axios China Shock 2.0: Surging Chinese exports threaten Europe's economy, raising concern at G7 summit AP News Why Europe’s fight against a ‘China shock 2.0’ could end before it even begins South China Morning Post EU leaders to converge on harder line toward China politico.eu EU struggles to find both unity and urgency in China crisis talks Financial Times",
+      "title": "EU leaders weigh tougher measures to combat China trade imbalance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3pfclk0WUtnVUZNOFY5ZG9hZjc4VUhTTFpEaTlobENoSVBYdmp3Z29YQjJMY1p4a0JmdFlkV0VwTHBBb25oTi02d2dpY2RlOTZRNkItVGFBUkVYcnlhODMxYmFmT2o0cEZhUTNuMEN0VlYyWm1OeDVjZjI2UWE4YkpqS1hQQ1Bic25IMjJSMVVTT0drdnlKVg?oc=5",
+      "published": "2026-06-19T01:35:41+08:00",
+      "summary": "EU leaders weigh tougher measures to combat China trade imbalance Reuters The risks of borrowing from China’s economic playbook Financial Times China Shock 2.0: Surging Chinese exports threaten Europe's economy, raising concern at G7 summit AP News Europe Tries to Take On China Without Launching a New Trade War Bloomberg.com The art of the swarm: Systemic rivalry with China on European terms European Council on Foreign Relations",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "G7 sets up critical minerals alliance, platform to cut reliance on China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenZ4Yi1yLTlKa0NWWUduYUFvWlo3SHBBdFliTTh1MXUxbHVFaGI5TFlzM1dCQmpzclptSDdubUYzUmNoN3pNcFhEbE80RHZNZ0k0VXBnUFhSSWlrZXY5RXRHWGhwWmJIVUJFMzhJcDRsclBTamp3WHBaOE5MdjJYREtLemFpSmNmd05yd0thRFZZMzg0cHNzY2xnTkptd0hDdnlQNg?oc=5",
+      "published": "2026-06-17T22:02:00+08:00",
+      "summary": "G7 sets up critical minerals alliance, platform to cut reliance on China Reuters G7 leaders' declaration on securing supply chains for critical minerals. elysee.fr G7 Aims to See China Supply No More Than 60% of Rare Earths Bloomberg.com America’s New Critical Minerals Playbook Time Magazine Sio Silica Welcomes International Partnerships Supporting Canada's Critical Minerals Resilience and Production Alliance TMX Newsfile",
       "score": 27
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "How Macron won Trump round at the G7. Until the next bust-up. - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3J2VDl4OXVHU0pFOUJMVF9DTkZwWEdzMGlXaHdaa2lqTTBpMEtUdjNlNnZoSV9rcFpDUWFfY1VGQlBtNVFSejE1SXVwVDRfNE9ndmkycE8wVzgwQW1FQUk2V1Vtc1VYUEVYMnRCUTNPcUJUYmNmd1BpR0JRWjUwbEVMR25acXFWNkVuelZEaTlXb1JWTTQwVHpVdEFrQUo5RnBz?oc=5",
-      "published": "2026-06-18T06:19:43+08:00",
-      "summary": "How Macron won Trump round at the G7. Until the next bust-up. politico.eu Live Updates: Trump Hails U.S.-Iran Deal at G7 Summit as U.S. Shares Details of Agreement The New York Times Takeaways from the G7: Trump’s new attitude toward allies buoyed by their praise for Iran deal Anchorage Daily News Live updates: Trump and Iran sign peace deal, G7 members pledge tougher Russia sanctions NBC News 'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims Reuters",
+      "title": "Ukraine pummels Russian capital with what may be largest drone strike yet on Moscow - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkRRV0ZCU2ppTzgzbENXaWVjOGZJcTNuS3IwOWFHbkZuanpPaGpTa2hqbDNRTnZoeW8ydzJGcW5IcHlGdEprcnQwREo1dktQR2MwXzhIR3NDbXY5S0pHeFhKVHpZYjFQUmQ1dFh3RUwyN05sSUczWmFYRDRNUEEwcUtrbmdFVnpaRktGaGpmbGVYVl9zdmJTS05SR2hpRWJWMFpVVVdRT04yZGdpcUVNY1FpNTg4Z3BHc3hN?oc=5",
+      "published": "2026-06-19T07:24:43+08:00",
+      "summary": "Ukraine pummels Russian capital with what may be largest drone strike yet on Moscow The Washington Post Massive blasts in Moscow shatter even Putin’s protective shell CNN Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery BBC Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack The New York Times Ukraine brings the war to Moscow as huge blasts shake refinery Reuters",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-19T05:47:25+08:00",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-19T04:04:40+08:00",
+      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
+      "url": "https://www.bbc.com/news/articles/c14ykj2nr8lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-19T02:36:19+08:00",
+      "summary": "The boy was 13 when he killed eight girls, a boy and a school guard at Vladislav Ribnikar school in Belgrade in 2023.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Here's how much the the Iran war cost — and how its effects will linger - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2FNMUlnWi1rMVpKbC1aeVBPQkFkYUMzTVEwb0doQnU4QkdHM3B1RGVRRTJfMHduOGh3ZVdOc04wMTVBSzBuMDIzN2trX3dXVWdvMGFWQ205MzhGY00zUXlmT2Y2eXI1Vk9XUVNQOF8tbkNCNnR3RUtFLXJvdm14bExtcw?oc=5",
-      "published": "2026-06-18T05:23:54+08:00",
-      "summary": "Here's how much the the Iran war cost — and how its effects will linger NPR Tallying the global cost of the US-Israel war against Iran The Guardian Trump’s war in Iran has wiped out 1.5 years of wage growth Economic Policy Institute From fuel to food: How the oil shock is squeezing the global economy Baton Rouge Business Report Iran war poses Middle East’s biggest economic shock in five decades Arab News",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "‘I’m the boss’, Trump tells G7, as he warms to Ukraine’s war position - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVJSTWZQZm43b1JxUGNYTVROTEdONDBqQVQ4UE5JMk1PNnpWeUpMQk1wM3BIQklybElndFRuMERTNTA5NmFqeUZnWnY1SWkxZ1NqaFZZSGtQZEpPeUVkYzRmSE4wR3lvTmdTZF8ybElDNVlDbDhCZEhfMkhaN1RSRG5XVE9fczBaOUVVMks4VjBzcWF6M2RscDd30gGfAUFVX3lxTE8wSGlhckxxdjIxSHRfZl9rRUY4dHhGZjdaVzdnd1l6alFmSkdZU0RWWUN6ZmpvSHFEdmpwWU5ibFI0dGhKVWt6WktBY0hsSGhEdnlnSnF4VE9rMm9QanJ1eFIyREl6VFM2RXo3SG93MW04S1VZRFZ4d09jRzNRZnZLOFE4UzJhUkFiR3pSazJfNHFjMk53M3lVVEYxaF82UQ?oc=5",
-      "published": "2026-06-18T05:06:24+08:00",
-      "summary": "‘I’m the boss’, Trump tells G7, as he warms to Ukraine’s war position The Times of Israel Russia’s war in Ukraine comes back into Trump’s focus with no end in sight The Washington Post Macron hails US alignment with G7’s ‘shared commitment’ on Ukraine The Guardian G7 summit as it happened: Trump warms on Ukraine's war aims and says the US could go 'back to shooting' at Iran Reuters Ukraine war live: Trump claims Putin losing more troops as he’s on ‘the offensive’ The Independent",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Macron deploys Versailles’ gold, mirrors and history in a high-stakes courtship of Trump - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjQ3MGN3eGpoTVJUVzVOVXcwMXZENjJlckIyZkJmbFBYcEZUMVlyZUJHbFVxZDduSjdtTGFwRXdJZS1RRXpJUVlPRzEtQVpZdTRxRjlpaDdtaTZmVUZVNjNBQ0JLNWM0bjAtZ19TMHFiOVJVM0NKV1l1UWw4YS1takw0YkYzOWVSdkNobDdZYWc?oc=5",
-      "published": "2026-06-18T04:50:00+08:00",
-      "summary": "Macron deploys Versailles’ gold, mirrors and history in a high-stakes courtship of Trump AP News Golden ticket: why Versailles invite is the ‘real deal’ for Trump The Guardian A golden offer Trump couldn't refuse – dinner at the Palace of Versailles USA Today Dinner at Versailles, alpine air and an Iran agreement: How Trump made it through another G7 CNN After draping White House in gold, Trump heads to ‘the real deal’: Versailles The Washington Post",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Pope says church 'must move forward' if SSPX proceeds with illicit ordinations - National Catholic Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejQ2b00zS0VyaUgxbVotUHRfSV8xUjJuVlBjdmdZLUxwTXV2QzgwdlVKOV81Nzk1dUs1ZlJiX290UFhMYTJtOG81OU1pSkUtTWhEaFM0Rk1JNUNhbnFKRm1LTGZwWUZUNTFFSG80NlhUS1Qtd2hvc1daeUp0WEExekg2b1dLeVJ3VjZud0xDTmNvYWdCdFA2ZXNDZksyRFJZYjlYUGtXZHQ?oc=5",
-      "published": "2026-06-18T03:53:18+08:00",
-      "summary": "Pope says church 'must move forward' if SSPX proceeds with illicit ordinations National Catholic Reporter The SSPX Leadership Against Scripture and Tradition National Catholic Register Pope warns SSPX bishop ordinations risk deepening schism EWTN News Pope Leo breaks silence on SSPX consecrations The Catholic Herald Thoughts of a former SSPX priest on the July 1 consecrations Where Peter Is",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Trump again slams Netanyahu’s campaign in Lebanon - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa0NFMDVUVGFnNkNwMnAyVlpDRXc5cktHZHNUb0gzNHFudHhnUzhuSUVRMEpyM2VySl9yUVlsRnVYY2Q3dGdyNVJnVm8xbm1rQ055X0ZPMFJtSDB0SXJkRXpmQnZwNnozaE5Gd3F5MTliSU9GbFRwZXg0ZEdqRmYtWjFBZFVEdXM?oc=5",
-      "published": "2026-06-18T02:51:58+08:00",
-      "summary": "Trump again slams Netanyahu’s campaign in Lebanon Politico Why Trump’s proposal for Syria to fight Hezbollah will send shudders across Lebanon CNN Trump recalls Netanyahu's failed push to kill Obama Iran deal, says he finished the job Fox News Donald Trump says Syria should fight Hizbollah instead of Israel Financial Times Trump says Netanyahu ‘has no f**king judgment’ after Beirut strike – report The Times of Israel",
+      "title": "Teenager Wanted in U.S. Consulate Shooting Arrested at Toronto Airport - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0tNNkhMM3dSUmYxY1d2anNEYWpjTDkzTGdzV3ItekdrU0lOWFNaeDEyVWVWVXF4bTA5QmMyWjVPZDVFWDBvSDRlZnNUMVY4V1NMd0lidk5TLUxiWUlnUUZxM2gwOGZYWXBWVnRzb1hxY213OWlZbm1SdkVGTVlzUG1zcTF0XzVONWtoaUlQcHJzVTJFWVE?oc=5",
+      "published": "2026-06-19T02:36:07+08:00",
+      "summary": "Teenager Wanted in U.S. Consulate Shooting Arrested at Toronto Airport The New York Times Toronto police say ‘criminals for hire’ behind U.S. Consulate, synagogue shootings Global News Synagogue shooters were hired by a foreign entity, Secretary of State for Combatting Crime says The Globe and Mail 'Criminals for hire' linked to shooting at U.S. Consulate in Toronto USA Today 19-year-old arrested in connection with U.S. Consulate shooting in Toronto CBC",
       "score": 25
     }
   ],
-  "errors": [
-    "财新网: <urlopen error [Errno 104] Connection reset by peer>"
-  ]
+  "errors": []
 }
