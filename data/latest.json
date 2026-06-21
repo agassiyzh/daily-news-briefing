@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T08:00:49.612884+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-20.html",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T08:00:41.546424+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-21.html",
   "items": [
     {
       "section": "AI 与科技",
@@ -10,7 +10,7 @@
       "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
       "published": "2026-06-20T00:40:19+08:00",
       "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect. […]",
-      "score": 35
+      "score": 27
     },
     {
       "section": "AI 与科技",
@@ -19,7 +19,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
       "published": "2026-06-19T22:58:45+08:00",
       "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-      "score": 35
+      "score": 27
     },
     {
       "section": "AI 与科技",
@@ -28,42 +28,42 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
       "published": "2026-06-19T20:10:00+08:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "published": "2026-06-19T18:40:24+08:00",
-      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
-      "score": 31
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "published": "2026-06-19T12:49:33+08:00",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
-      "score": 31
-    },
-    {
-      "section": "AI 与科技",
-      "source": "OpenAI Blog",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "published": "2026-06-19T01:00:00+08:00",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "score": 27
     },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
-      "url": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
-      "published": "2026-06-20T07:32:03+08:00",
-      "summary": "Article URL: https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow Comments URL: https://news.ycombinator.com/item?id=48604584 Points: 8 # Comments: 0",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "published": "2026-06-21T06:22:52+08:00",
+      "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 5 # Comments: 0",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "published": "2026-06-21T04:32:54+08:00",
+      "summary": "Article URL: https://brooker.co.za/blog/2026/06/19/waiting.html Comments URL: https://news.ycombinator.com/item?id=48612740 Points: 34 # Comments: 6",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "published": "2026-06-21T02:46:48+08:00",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "published": "2026-06-21T00:32:37+08:00",
+      "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and […]",
       "score": 25
     },
     {
@@ -73,150 +73,150 @@
       "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
       "published": "2026-06-20T05:28:39+08:00",
       "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build […]",
-      "score": 25
+      "score": 17
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-06-20T22:29:08+08:00",
+      "summary": "",
+      "score": 35
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-      "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-      "published": "2026-06-20T07:00:29+08:00",
-      "summary": "The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-      "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
-      "published": "2026-06-20T06:53:09+08:00",
-      "summary": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.",
+      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "published": "2026-06-21T06:59:26+08:00",
+      "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "published": "2026-06-20T02:00:00+08:00",
-      "summary": "“I’m afraid I’m in a bad place.”",
+      "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
+      "url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
+      "published": "2026-06-21T02:17:00+08:00",
+      "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
-      "url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
-      "published": "2026-06-20T01:25:00+08:00",
-      "summary": "During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Is the stock market closed today for Juneteenth? Will the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
-      "published": "2026-06-20T00:41:00+08:00",
-      "summary": "The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.",
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "published": "2026-06-21T01:42:00+08:00",
+      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "The riskiest SpaceX stock trade of all had a big first week",
-      "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-      "published": "2026-06-19T23:53:11+08:00",
-      "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
+      "title": "The budget airline model in the U.S. is running out of runway",
+      "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+      "published": "2026-06-20T23:05:02+08:00",
+      "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
       "score": 25
     },
     {
       "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
-      "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
-      "published": "2026-06-19T22:44:37+08:00",
-      "summary": "U.S. Trade Representative Jamieson Greer said Germany's proposal to reduce spending on medicines was \"a serious step backwards.\"",
+      "source": "Yahoo Finance",
+      "title": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html",
+      "published": "2026-06-20T20:35:50+08:00",
+      "summary": "",
       "score": 25
     },
     {
       "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "published": "2026-06-19T22:10:00+08:00",
-      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "source": "Yahoo Finance",
+      "title": "NIQ Global Intelligence (NIQ) Unveils AI-Powered Cadence Platform to Unify Marketing Intelligence and Decision-Making",
+      "url": "https://finance.yahoo.com/technology/ai/articles/niq-global-intelligence-niq-unveils-203508037.html",
+      "published": "2026-06-20T20:35:08+08:00",
+      "summary": "",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "RBC Sees AI Initiatives Supporting Margin Discipline Despite Lower PicS N.V. (PICS) Price Target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-sees-ai-initiatives-supporting-203445897.html",
+      "published": "2026-06-20T20:34:45+08:00",
+      "summary": "",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "UK Jails 2 Over 'Truly Chilling' Spying for Hong Kong - Newser",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl84QjN2Y3RYcXBOcG15aks0eF9scnc0TGdvU05yRXNmeVRWSGFaWEJJU090Vnk5VzlyT3dIRWozcGRmT09CeXZvS3ROY29JYnlDb3B3U2pUWVhKdVM0OUdmZDZpUG1GbTJuREtjVk95bjFKcmY4bzZuS1ZOZVBkQmtESi05NjBtU3YzVWVMWkZwc2hyY25F?oc=5",
-      "published": "2026-06-20T02:58:00+08:00",
-      "summary": "UK Jails 2 Over 'Truly Chilling' Spying for Hong Kong Newser Men jailed for spying for Chinese intelligence in UK BBC Two men jailed in Britain for spying for China Reuters UK court jails 2 Hongkongers tied to trade office for up to 10 years for spying South China Morning Post Border Force officer and Hong Kong trade official jailed for spying for China The Guardian",
-      "score": 35
+      "title": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4WkRhN25BUmtxV3ozNjFBYzZNSHBoNURFYWdnMWhvNG9yOGFQaHhNMTZHQ2w0dThNRnBwY0djajBMb0NtM2g3VU84ZGZrbUo?oc=5",
+      "published": "2026-06-21T06:34:00+08:00",
+      "summary": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz WSJ Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon NBC News Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN New Strait of Hormuz Closure Announcement Threatens the Slow Uptick in Traffic The New York Times Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks CNBC",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXlmZWNTSGJHQkNpenFiQUpjS3U0T3FpdnRJdjR6YTRJcF83YkhUWTBfX1hWR2h0X19qX1lrWFVtTU5HUHdqbUN3SV91Ymx6UjhtWVRlYVNpOVhWaWtIUE9OMGh1aGRjYXAxaC02cWpBM2hic2tzWHFrODBaMEI5VDhBRUo3cFZhVGZLdlM4cVg2eVBPSTJ3MWxGOGhtQnFtODVCYzdpdDBGZnNub1pfejllVdIBuAFBVV95cUxQanU1MkNJc1U5UHJuMGFpY0tQMjNKbDhBNG04elFKUlp6bUR1UF9PQV93X1k3cWtrcDY3LUY5WHc5aEJiSFNwNW5OeHZVYXN3VmxJb3l0dVhEc21iMVJnQmdBaU50WjVYRTVsZm1mWGh6alJVSGhmTFd4M1M3U3lhSXFHUmFhYkt4clVYRk5Sc0tnbzdpdEhSVmJtLUVxTXROU3JwSUdJRzdxUDBHa0pla3FQNk45WGxn?oc=5",
+      "published": "2026-06-21T06:01:11+08:00",
+      "summary": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might Al Jazeera Mideast Live Updates: Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension The New York Times Trump says US will begin charging tolls in Strait of Hormuz if final Iran deal not reached in 60 days The Hill Trump threatens U.S. tolls in Hormuz if Iran deal not reached in 60 days Haaretz Trump warns of Hormuz tolls as ships pass despite Iran's closure claim Euronews.com",
+      "score": 25
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-20T05:46:07+08:00",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-21T05:11:57+08:00",
+      "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Eyewitnesses describe injuries and confusion of Bedford train crash - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOWjJnaDVyZnlTUmJWSXNPanVzTmNwNk1WQmNGQU1vTHZ2eTBBSkhCQ0xBT2Rrc3VyWml0UDUyQW0wRkVWejY1TGQ2R1RDUHZmZGNjeUVjNGtLdw?oc=5",
-      "published": "2026-06-20T05:37:18+08:00",
-      "summary": "Eyewitnesses describe injuries and confusion of Bedford train crash BBC One person dead and 89 injured after two trains collide near Bedford The Guardian Driver dead and 33 people seriously injured as Bedford train crash declared major incident BBC 1 dead, dozens injured after 2 passenger trains collide in England, officials say ABC News - Breaking News, Latest News and Videos Driver dies and 11 passengers very seriously injured in Bedford train crash as police declare major incident BBC",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
-      "published": "2026-06-20T05:01:21+08:00",
-      "summary": "The luxury Boeing 747, initially valued at $400 million, arrived ahead of schedule on Friday. The jet caused controversy as one of the biggest foreign gifts ever received by the U.S. government.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
-      "published": "2026-06-20T04:32:35+08:00",
-      "summary": "\"Italy and I do not beg,\" Meloni said in a video rebuke posted on social media Friday. Italy's top diplomat, meanwhile, said he was cancelling a visit to the U.S because of the alleged remarks.",
+      "title": "Trump claims he can control IDF actions in Lebanon because Israelis respect him - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ25aQlR1alFBTjk5Y0p1TmhfYk53U1h0SjZUelN4VUZ1R2RXQmQzR0k4STdhY1hWUFRjeFRaSUtwSmRCb25VOG0yZTVtYlZoSXNOaWNvMTJhV243Q2R1NXRWMXY1RWZOWF95RzNqanI1UmJJRVRjNk5qX1NoNURXUnR5NzRoYXlPZlVQcE42ZmZSTjVuTlpUREktYlp0bjNyWlI0QlZyVzhHM0h2NWVB0gG0AUFVX3lxTFAwVmFTLUpCRG9pNGN5eUVac0NuZUJ2dlRmZ3gzTXFnVlVnR0JLdDVOaGpJN3otbURnQnYwcnIyR0ExT1pPTEVkRmhzSGdzelc4Q0VKQzFRN1VmdkEwNmRnSi1tNC1Ga1QzTGczY3UtdUZGaXM4LW92Xzk4WF96NzFXWnZIVFNqeDVRbkoyc1BMNnVNUlItU0xBTzk4NTVobVRycThLUlVvYXFYbTlBSnEtbmlleA?oc=5",
+      "published": "2026-06-21T03:55:14+08:00",
+      "summary": "Trump claims he can control IDF actions in Lebanon because Israelis respect him The Times of Israel U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say The Washington Post Why Trump’s proposal for Syria to fight Hezbollah will send shudders across Lebanon CNN ‘Beware small states’: why Lebanon endangers the unfinished Israel-Iran war Financial Times Trump calls Netanyahu a ‘warrior PM,’ touts ‘great’ ties with Israel amid tensions over Iran The Times of Israel",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVJoT1NBaGxDelcyNnhXc3VnNm8tVE9jZ3RnWlo4WFVTRzctVXlaU0ItdTRuR29CaWpnUjJ1bGpCUHZ6WUhOSnZMVk4zRVAtMW44UGhEcExrcHJBVmoyUjF1OFVPLUo3M20tcHZJcFJFa1A4bzNEaTlnR3pXTnJ6Z1Rrcnp5UWFxWVVqQktnc2FtU3g2Zjd4bmNLbjRvdUY0Vk12cDN2dWk?oc=5",
-      "published": "2026-06-20T03:00:00+08:00",
-      "summary": "Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown AP News U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election The New York Times Reform’s genius plan is finally coming into view: field terrible candidates then lose | Marina Hyde The Guardian Britain’s Next Leader Has Emerged The Atlantic He Quit Parliament. Now He’s Set to Become Britain’s Prime Minister. Politico",
+      "title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5",
+      "published": "2026-06-21T03:16:10+08:00",
+      "summary": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region Reuters No fuel, no weapons: How Ukraine’s new drone strategy is mauling Russian supply lines CNN Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery BBC Are Ukraine drones really exposing gaps in Russia's defense? DW.com Moscow refinery ablaze as Ukraine launches biggest attack on Russian capital in years NBC News",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Greece’s Parthenon gets upgrade, revealing a look not seen for over 200 years - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHc2eGxYeFR3WHlXdUNyc3dJNHN4OFFPeC14NTNPc3daQzd1R1UwOS1sOGVyYjZvQlVhVGRGSWstN3o5ZmVlVVg5bmo1aHU4dzZaVHpzWWVia3JCZk5GcGNKYkpwUi1mTEtJM2sxMFpGUjVORU12cGgxaUk1NVQ2eEJTLVJMZlpYbkQ5aGRjZ2R6dXA0WEUtbDVhdG1oNG1iY01pZC1XZWdFVlhFMEQ3RFBqbVhBWC1q?oc=5",
-      "published": "2026-06-20T01:42:00+08:00",
-      "summary": "Greece’s Parthenon gets upgrade, revealing a look not seen for over 200 years New York Post Greece's Parthenon gets a facelift, revealing a look not seen for 220 years ABC News - Breaking News, Latest News and Videos With Fresh Marble Fillings, the Parthenon Gets a Partial Glow-Up The New York Times After 220 years Greece completes restoration of Parthenon façade Euronews Greece’s Parthenon Just Reclaimed a Missing Piece of Its Ancient Silhouette Artnet News",
+      "title": "Spain: PM's wife must face corruption trial, judge rules - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVNMbHVNOFJOQkdYX2QzbVFPUXJaekFjbzZVTXh3a3ZzLWliU3N2eWFkODVReUJ0SENkZDdoZ0IxOUN6QXVFN1dsZUJaMXVPSElYcjRnQWI1LUhXNTRpVVB6SjdkWlZsNm9QUjFxZmt0UFRhUjhGNzdtelViVy1LR0Z3WGFuT0Z5UTZocWRRY9IBjwFBVV95cUxOdXdCQmlYd3BHZV9obnBpVW8yNjUyc1JtZEVzZWtCUEpVT1ZZTWc2Nmc3UzJ2QTBKRmh4TnhWczBnaXdtSU9NblpzRVBxQjk2a00xNUowY3U1cU5KUmlwdEFycXc2dkszZVNRTlgtNEI0ZzNfNGNjNTgtbW1ObEdpWW9keFJLVmpnTTdQeEk0NA?oc=5",
+      "published": "2026-06-21T01:05:44+08:00",
+      "summary": "Spain: PM's wife must face corruption trial, judge rules DW.com Spanish PM’s wife to stand trial on corruption charges and banned from leaving country The Guardian Judge revokes Spanish prime minister's wife's passport ahead of corruption trial Yahoo Court bans Spanish PM’s wife from leaving country amid corruption probe Al Jazeera Wife of Spanish Prime Minister to Stand Trial for Corruption The New York Times",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-21T00:34:15+08:00",
+      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Canadian Billionaire Frank Stronach Is Convicted of Sexual and Indecent Assault - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNE5LN2Zma3BWcURKR2hQb05RaFBkRWRNYnJmN3Nwa0ZQZzI2WWZSWWxHYjVycjYtd1ZRTHowV3dXNUZqT2czcVJTZVViOWZXUWtqNmhVWU9Wbi1jeUpsR1d1aTVZM3kzcnBTWEVISDVudW00ckJvZ0k1R1FpLUhGaF9fd3N2ZmZobWUwTFY1UnlSX0ZNNEpz?oc=5",
-      "published": "2026-06-20T00:23:48+08:00",
-      "summary": "Canadian Billionaire Frank Stronach Is Convicted of Sexual and Indecent Assault The New York Times Canadian billionaire Frank Stronach convicted of sexual assault USA Today Canadian auto parts magnate Frank Stronach found guilty of sexual assault ABC News - Breaking News, Latest News and Videos Canadian businessman Frank Stronach found guilty of sexual assault, indecent assault CBC Frank Stronach Found Guilty Of Sexual Assault, Indecent Assault Paulick Report",
+      "title": "Russia frees 24 Filipinos after Marcos talks with Putin - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFhHVlNUWGZ4MkpKQXB4aVJma09jTHZSVVIzTDZ0SG44bTZDalFjT2F0emFEeHZhNjR6VVgzUUxNU0ctNFV3U2pBUmJQQm1lc1R0R243RzJRSl9kRmtvcTJLUXhjM0c3dmhXcElKcjhXT0dEcDY3MXZNbE9KNUUwSENrcTlLUUFBUlFIamNkSy1fTGRxYWc?oc=5",
+      "published": "2026-06-21T00:12:00+08:00",
+      "summary": "Russia frees 24 Filipinos after Marcos talks with Putin AP News See more headlines & perspectives on Google News",
       "score": 25
     }
   ],
