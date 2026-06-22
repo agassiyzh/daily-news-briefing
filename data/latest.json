@@ -1,51 +1,33 @@
 {
-  "date": "2026-06-21",
-  "generated_at": "2026-06-21T08:00:41.546424+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-21.html",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T08:00:11.803211+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-22.html",
   "items": [
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-      "published": "2026-06-20T00:40:19+08:00",
-      "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect. […]",
-      "score": 27
+      "source": "OpenAI Blog",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published": "2026-06-22T07:00:00+08:00",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "published": "2026-06-19T22:58:45+08:00",
-      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-      "score": 27
-    },
-    {
-      "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "published": "2026-06-19T20:10:00+08:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
-      "score": 27
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "published": "2026-06-21T06:22:52+08:00",
-      "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 5 # Comments: 0",
+      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "published": "2026-06-22T01:20:38+08:00",
+      "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips. The videos […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Alice is impatient",
-      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "published": "2026-06-21T04:32:54+08:00",
-      "summary": "Article URL: https://brooker.co.za/blog/2026/06/19/waiting.html Comments URL: https://news.ycombinator.com/item?id=48612740 Points: 34 # Comments: 6",
+      "source": "The Verge",
+      "title": "How Roomba started a robot revolution",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "published": "2026-06-21T20:29:01+08:00",
+      "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably […]",
       "score": 25
     },
     {
@@ -55,7 +37,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
       "published": "2026-06-21T02:46:48+08:00",
       "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]",
-      "score": 25
+      "score": 17
     },
     {
       "section": "AI 与科技",
@@ -64,161 +46,182 @@
       "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
       "published": "2026-06-21T00:32:37+08:00",
       "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and […]",
-      "score": 25
+      "score": 17
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Nothing cancels this year’s CMF phone due to RAM prices",
-      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-      "published": "2026-06-20T05:28:39+08:00",
-      "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build […]",
-      "score": 17
+      "title": "Bose thinks it can be a media company for some reason",
+      "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+      "published": "2026-06-22T02:55:44+08:00",
+      "summary": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose has more of a right to dip its toes into the […]",
+      "score": 15
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+      "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+      "published": "2026-06-22T01:49:54+08:00",
+      "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at pop punk and emo, […]",
+      "score": 15
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "published": "2026-06-21T18:29:00+08:00",
+      "summary": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. It's not all different. Sony staples like a […]",
+      "score": 11
     },
     {
       "section": "财经与市场",
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-06-20T22:29:08+08:00",
+      "title": "You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cant-buy-anthropic-stock-yet-232000485.html",
+      "published": "2026-06-21T23:20:00+08:00",
       "summary": "",
       "score": 35
     },
     {
       "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
-      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
-      "published": "2026-06-21T06:59:26+08:00",
-      "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
-      "url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
-      "published": "2026-06-21T02:17:00+08:00",
-      "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-      "published": "2026-06-21T01:42:00+08:00",
-      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+      "published": "2026-06-22T06:41:00+08:00",
+      "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "The budget airline model in the U.S. is running out of runway",
-      "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
-      "published": "2026-06-20T23:05:02+08:00",
-      "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+      "title": "No one wants AI data centers on Earth. Do they make sense in space?",
+      "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
+      "published": "2026-06-22T05:22:53+08:00",
+      "summary": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+      "published": "2026-06-22T04:00:00+08:00",
+      "summary": "“I’m afraid I’m in a bad place.”",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
+      "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
+      "published": "2026-06-22T02:47:42+08:00",
+      "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "published": "2026-06-21T23:01:00+08:00",
+      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "Yahoo Finance",
-      "title": "Bernstein Remains Bullish On Kanzhun Limited (BZ), Cites Billings Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-remains-bullish-kanzhun-limited-203550695.html",
-      "published": "2026-06-20T20:35:50+08:00",
+      "title": "A Blood Test That Screens for 50+ Cancers Just Moved Closer to Real-World Use. Here's What It Means for Grail Investors.",
+      "url": "https://finance.yahoo.com/healthcare/articles/blood-test-screens-50-cancers-222500261.html",
+      "published": "2026-06-21T22:25:00+08:00",
       "summary": "",
       "score": 25
     },
     {
       "section": "财经与市场",
-      "source": "Yahoo Finance",
-      "title": "NIQ Global Intelligence (NIQ) Unveils AI-Powered Cadence Platform to Unify Marketing Intelligence and Decision-Making",
-      "url": "https://finance.yahoo.com/technology/ai/articles/niq-global-intelligence-niq-unveils-203508037.html",
-      "published": "2026-06-20T20:35:08+08:00",
-      "summary": "",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "Yahoo Finance",
-      "title": "RBC Sees AI Initiatives Supporting Margin Discipline Despite Lower PicS N.V. (PICS) Price Target",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-sees-ai-initiatives-supporting-203445897.html",
-      "published": "2026-06-20T20:34:45+08:00",
-      "summary": "",
+      "source": "CNBC Top News",
+      "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
+      "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
+      "published": "2026-06-21T22:07:29+08:00",
+      "summary": "Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4WkRhN25BUmtxV3ozNjFBYzZNSHBoNURFYWdnMWhvNG9yOGFQaHhNMTZHQ2w0dThNRnBwY0djajBMb0NtM2g3VU84ZGZrbUo?oc=5",
-      "published": "2026-06-21T06:34:00+08:00",
-      "summary": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz WSJ Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon NBC News Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN New Strait of Hormuz Closure Announcement Threatens the Slow Uptick in Traffic The New York Times Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks CNBC",
+      "title": "What to know about the legacy of Brexit, which still divides Britain 10 years on - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDd5NDAzeTNQdER2bTlTX1VpRHB4TTYwV1VrcVA4ajVjMlZOdlhOdV8xeHlfLUlxT18yTjdHRWVnLW45ODJETGRlemJpZEVPSGZRZDg5b3J6Z2hMY3o1U2x0WnQ0NG0xTHdRQkxuamZ4aFpZT0FXVzNjU3N2M2w4YUVBUTJKaDJ6M1pIWk16ajRoZHRSWjNkaWJDSDhkSVNpTXdNSDFn?oc=5",
+      "published": "2026-06-21T21:51:00+08:00",
+      "summary": "What to know about the legacy of Brexit, which still divides Britain 10 years on AP News See more headlines & perspectives on Google News",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczNKTmVuenFsUVctY2ItOXZWbk1kbDF2WjdBYVRoSjJHZlUxdlk3U1V3OERDOE9EM3Jnb1hSS0JkSlhiZXpxLXdMdDdwb2RVTzZiX0h6ZlNZbmVNbkdWTUxNZmc1ZUFzNzhmVHRSTk5UcTVReXJHWmFMVWRxOFFVT0ltVXdUVHFtMkF5MHBEOWExbExxZHBGdjdyb0xob1lxTEE?oc=5",
+      "published": "2026-06-22T05:37:22+08:00",
+      "summary": "Leading Lebanese conservationist dies after Israeli airstrike on her home NPR Lebanese turtle conservationist Mona Khalil killed by Israeli strike BBC Mourners gather to remember Lebanese conservationist killed by Israel Al Jazeera Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon The New York Times Israeli attack kills famed turtle sanctuary ecologist in Lebanon The Guardian",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+      "published": "2026-06-22T05:37:22+08:00",
+      "summary": "Mona Khalil died Friday after an Israeli airstrike hit her beachside home two weeks ago. She's credited with creating a conservation movement in southern Lebanon to protect sea turtle nesting grounds.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXlmZWNTSGJHQkNpenFiQUpjS3U0T3FpdnRJdjR6YTRJcF83YkhUWTBfX1hWR2h0X19qX1lrWFVtTU5HUHdqbUN3SV91Ymx6UjhtWVRlYVNpOVhWaWtIUE9OMGh1aGRjYXAxaC02cWpBM2hic2tzWHFrODBaMEI5VDhBRUo3cFZhVGZLdlM4cVg2eVBPSTJ3MWxGOGhtQnFtODVCYzdpdDBGZnNub1pfejllVdIBuAFBVV95cUxQanU1MkNJc1U5UHJuMGFpY0tQMjNKbDhBNG04elFKUlp6bUR1UF9PQV93X1k3cWtrcDY3LUY5WHc5aEJiSFNwNW5OeHZVYXN3VmxJb3l0dVhEc21iMVJnQmdBaU50WjVYRTVsZm1mWGh6alJVSGhmTFd4M1M3U3lhSXFHUmFhYkt4clVYRk5Sc0tnbzdpdEhSVmJtLUVxTXROU3JwSUdJRzdxUDBHa0pla3FQNk45WGxn?oc=5",
-      "published": "2026-06-21T06:01:11+08:00",
-      "summary": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might Al Jazeera Mideast Live Updates: Vance Heads to Talks as Strait of Hormuz Re-emerges as Point of Tension The New York Times Trump says US will begin charging tolls in Strait of Hormuz if final Iran deal not reached in 60 days The Hill Trump threatens U.S. tolls in Hormuz if Iran deal not reached in 60 days Haaretz Trump warns of Hormuz tolls as ships pass despite Iran's closure claim Euronews.com",
+      "title": "Are Ukraine drones really exposing gaps in Russia's defense? - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHllblVGa2lYcHdGRjFNWEpUc1k1c3g1cWQ0OUFTWXJRMEV0azBEZlBFcEpOODF4OGVTZVlwOERVWTBrdkNhYW1rbWZ0LWp5Um9mXzZxNC03SVd1NFdoUTVpR3pDd2dRYWtIZFRCa2JNa0lLek9Mc2FjUzYxQS10U1AtMlJrNDdlWW4zZTAyX0FlbkJNUEHSAZYBQVVfeXFMT0JmbWhJbzBHY0JhMVhqN2xDa0tUb3M5ek1rRkVPMEh6MXpaWnE0UGFUeVN4QzJ3UnZBQ05wb2diZEpCTGpsZ2lfcVUzQnkyM3VMaXRQSWFYUkxrM21hb21PQURSQmxLcjdodmZqOXBPTi1VMk9RTzh1VUVHT2ZyY2o4TWRFWWh1T0JDMjctZFNFRVJyM0Vn?oc=5",
+      "published": "2026-06-22T02:01:10+08:00",
+      "summary": "Are Ukraine drones really exposing gaps in Russia's defense? DW.com No fuel, no weapons: How Ukraine’s new drone strategy is mauling Russian supply lines CNN Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery BBC ‘This War Has Now Reached Your Homes’: Ukraine’s Startling New Message for Russia Politico Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy The Guardian",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Photo highlights from the International Day of Yoga on the summer solstice - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2dWdWxZUjBibG54d1FJU2NYM0RndFVJLXhEdHl1eWxWdS14ajJTMktvV2IzZElWN3VIc2xEQ094bTZ6UU5yLXl1UERyd0EtdXhfUFhEclNpc1Z1ckNta0xpMm1TdkFfaEpDYkhKSVRxRUFXOXZONXc2UTFZNXUtZ1FFM2VuOHVYaGVrc1FWT3U4R2FMWTI2Smh3?oc=5",
+      "published": "2026-06-22T01:32:00+08:00",
+      "summary": "Photo highlights from the International Day of Yoga on the summer solstice AP News International Yoga Day 2026: Why People Over 50 Are Turning to Yoga NDTV In pictures: Akshay Kumar, Shilpa Shetty, Malaika Arora celebrate International Yoga Day 2026 Telegraph India Yoga, India’s timeless gift to humanity: Governor Arlekar The Hindu Right way to do it: PM steps off yoga dais to guide participants The Times of India",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Trump threatens to 'hit Iran very hard again' while Vance is in Switzerland for talks",
+      "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+      "published": "2026-06-22T01:29:57+08:00",
+      "summary": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2l2TFp2N0JlNUIwTjNIck5DVV9fRFN5MkhieUdCOTVhNnhLNXBGT093Zk5Kdml2Vk5HSXRTbUVFQ0R6d1c5ZXVqTnBaQ3ZOX0lyOTc3OUFnR1hzVzFDMXNvN0ZZNDR4eTFXZ2gwbTlpOUpSeWUtaTNjcV9rT2gzdnVJb2JnTWhSWXlWLS1rMzR4Y2E4NUtyRTdfb0xrS1N3NDN1aXRZanhxZUNfZDJ4OFkwQVI?oc=5",
+      "published": "2026-06-21T23:23:41+08:00",
+      "summary": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick Bloomberg.com Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN Opinion | Iran and Trump Blame Israel First WSJ Iran closes Strait of Hormuz over ceasefire violations - MEHR Reuters Vance lands in Switzerland as Iran says Strait of Hormuz is closed over ceasefire violations NBC News",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-21T05:11:57+08:00",
-      "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Trump claims he can control IDF actions in Lebanon because Israelis respect him - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ25aQlR1alFBTjk5Y0p1TmhfYk53U1h0SjZUelN4VUZ1R2RXQmQzR0k4STdhY1hWUFRjeFRaSUtwSmRCb25VOG0yZTVtYlZoSXNOaWNvMTJhV243Q2R1NXRWMXY1RWZOWF95RzNqanI1UmJJRVRjNk5qX1NoNURXUnR5NzRoYXlPZlVQcE42ZmZSTjVuTlpUREktYlp0bjNyWlI0QlZyVzhHM0h2NWVB0gG0AUFVX3lxTFAwVmFTLUpCRG9pNGN5eUVac0NuZUJ2dlRmZ3gzTXFnVlVnR0JLdDVOaGpJN3otbURnQnYwcnIyR0ExT1pPTEVkRmhzSGdzelc4Q0VKQzFRN1VmdkEwNmRnSi1tNC1Ga1QzTGczY3UtdUZGaXM4LW92Xzk4WF96NzFXWnZIVFNqeDVRbkoyc1BMNnVNUlItU0xBTzk4NTVobVRycThLUlVvYXFYbTlBSnEtbmlleA?oc=5",
-      "published": "2026-06-21T03:55:14+08:00",
-      "summary": "Trump claims he can control IDF actions in Lebanon because Israelis respect him The Times of Israel U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say The Washington Post Why Trump’s proposal for Syria to fight Hezbollah will send shudders across Lebanon CNN ‘Beware small states’: why Lebanon endangers the unfinished Israel-Iran war Financial Times Trump calls Netanyahu a ‘warrior PM,’ touts ‘great’ ties with Israel amid tensions over Iran The Times of Israel",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkZCVmhQT0VCLVhFWTMwWFpwd1E2R0NvNmgyLUU0S0pvOE51YTFNNVlhdnprZmxhWmE2dmoyZ3JNMVFOMHlfWm9ybEZBQVNvcXU4elozMGhwVzZOT1dId3ZDNGpTNC1nZUQ2SjdvRTAycXFXeGpwdGc4LXNkTXAwYXFfd3IzWWdJeERUY0xvZXhObEhXczdCcmYxOVFzZVpxa0hlX3U0MXlwc0FKSHJXZUlZSHRzTGJsa2hIRXNMWXg4WUZHR3c?oc=5",
-      "published": "2026-06-21T03:16:10+08:00",
-      "summary": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region Reuters No fuel, no weapons: How Ukraine’s new drone strategy is mauling Russian supply lines CNN Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery BBC Are Ukraine drones really exposing gaps in Russia's defense? DW.com Moscow refinery ablaze as Ukraine launches biggest attack on Russian capital in years NBC News",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Spain: PM's wife must face corruption trial, judge rules - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVNMbHVNOFJOQkdYX2QzbVFPUXJaekFjbzZVTXh3a3ZzLWliU3N2eWFkODVReUJ0SENkZDdoZ0IxOUN6QXVFN1dsZUJaMXVPSElYcjRnQWI1LUhXNTRpVVB6SjdkWlZsNm9QUjFxZmt0UFRhUjhGNzdtelViVy1LR0Z3WGFuT0Z5UTZocWRRY9IBjwFBVV95cUxOdXdCQmlYd3BHZV9obnBpVW8yNjUyc1JtZEVzZWtCUEpVT1ZZTWc2Nmc3UzJ2QTBKRmh4TnhWczBnaXdtSU9NblpzRVBxQjk2a00xNUowY3U1cU5KUmlwdEFycXc2dkszZVNRTlgtNEI0ZzNfNGNjNTgtbW1ObEdpWW9keFJLVmpnTTdQeEk0NA?oc=5",
-      "published": "2026-06-21T01:05:44+08:00",
-      "summary": "Spain: PM's wife must face corruption trial, judge rules DW.com Spanish PM’s wife to stand trial on corruption charges and banned from leaving country The Guardian Judge revokes Spanish prime minister's wife's passport ahead of corruption trial Yahoo Court bans Spanish PM’s wife from leaving country amid corruption probe Al Jazeera Wife of Spanish Prime Minister to Stand Trial for Corruption The New York Times",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Zelensky returns highest Polish honour after award stripped",
-      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-21T00:34:15+08:00",
-      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Russia frees 24 Filipinos after Marcos talks with Putin - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFhHVlNUWGZ4MkpKQXB4aVJma09jTHZSVVIzTDZ0SG44bTZDalFjT2F0emFEeHZhNjR6VVgzUUxNU0ctNFV3U2pBUmJQQm1lc1R0R243RzJRSl9kRmtvcTJLUXhjM0c3dmhXcElKcjhXT0dEcDY3MXZNbE9KNUUwSENrcTlLUUFBUlFIamNkSy1fTGRxYWc?oc=5",
-      "published": "2026-06-21T00:12:00+08:00",
-      "summary": "Russia frees 24 Filipinos after Marcos talks with Putin AP News See more headlines & perspectives on Google News",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-21T23:01:28+08:00",
+      "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
       "score": 25
     }
   ],
-  "errors": []
+  "errors": [
+    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
+    "财新网: <urlopen error [Errno 104] Connection reset by peer>"
+  ]
 }
