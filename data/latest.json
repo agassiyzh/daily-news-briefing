@@ -1,8 +1,53 @@
 {
-  "date": "2026-06-22",
-  "generated_at": "2026-06-22T08:00:11.803211+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-22.html",
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T08:00:22.946990+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-23.html",
   "items": [
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "published": "2026-06-23T07:24:32+08:00",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "MIT Technology Review",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "published": "2026-06-23T02:00:00+08:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Google invests in A24 to build AI movie tools",
+      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+      "published": "2026-06-23T01:18:13+08:00",
+      "summary": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 million\" into A24, marking the first time the search giant […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "OpenAI Blog",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "2026-06-22T18:00:00+08:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "score": 31
+    },
+    {
+      "section": "AI 与科技",
+      "source": "OpenAI Blog",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published": "2026-06-22T18:00:00+08:00",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "score": 31
+    },
     {
       "section": "AI 与科技",
       "source": "OpenAI Blog",
@@ -10,218 +55,172 @@
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "published": "2026-06-22T07:00:00+08:00",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "score": 35
+      "score": 27
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
-      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
-      "published": "2026-06-22T01:20:38+08:00",
-      "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips. The videos […]",
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "published": "2026-06-23T03:52:26+08:00",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "How Roomba started a robot revolution",
-      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
-      "published": "2026-06-21T20:29:01+08:00",
-      "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "published": "2026-06-21T02:46:48+08:00",
-      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]",
-      "score": 17
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
-      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
-      "published": "2026-06-21T00:32:37+08:00",
-      "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and […]",
-      "score": 17
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Bose thinks it can be a media company for some reason",
-      "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
-      "published": "2026-06-22T02:55:44+08:00",
-      "summary": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose has more of a right to dip its toes into the […]",
-      "score": 15
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
-      "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
-      "published": "2026-06-22T01:49:54+08:00",
-      "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at pop punk and emo, […]",
-      "score": 15
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
-      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
-      "published": "2026-06-21T18:29:00+08:00",
-      "summary": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. It's not all different. Sony staples like a […]",
-      "score": 11
-    },
-    {
-      "section": "财经与市场",
-      "source": "Yahoo Finance",
-      "title": "You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cant-buy-anthropic-stock-yet-232000485.html",
-      "published": "2026-06-21T23:20:00+08:00",
-      "summary": "",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-      "published": "2026-06-22T06:41:00+08:00",
-      "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-      "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-      "published": "2026-06-22T05:22:53+08:00",
-      "summary": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
+      "title": "Valve explains why it isn’t subsidizing the Steam Machine",
+      "url": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
+      "published": "2026-06-23T01:27:12+08:00",
+      "summary": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each. Despite Valve offering a console alternative with the […]",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "published": "2026-06-22T04:00:00+08:00",
-      "summary": "“I’m afraid I’m in a bad place.”",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
-      "url": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
-      "published": "2026-06-22T02:47:42+08:00",
-      "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.",
-      "score": 25
+      "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
+      "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
+      "published": "2026-06-23T06:21:00+08:00",
+      "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
+      "score": 35
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "published": "2026-06-21T23:01:00+08:00",
-      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "Yahoo Finance",
-      "title": "A Blood Test That Screens for 50+ Cancers Just Moved Closer to Real-World Use. Here's What It Means for Grail Investors.",
-      "url": "https://finance.yahoo.com/healthcare/articles/blood-test-screens-50-cancers-222500261.html",
-      "published": "2026-06-21T22:25:00+08:00",
-      "summary": "",
-      "score": 25
+      "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
+      "url": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
+      "published": "2026-06-23T06:18:00+08:00",
+      "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
+      "score": 35
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
-      "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
-      "published": "2026-06-21T22:07:29+08:00",
-      "summary": "Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "What to know about the legacy of Brexit, which still divides Britain 10 years on - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDd5NDAzeTNQdER2bTlTX1VpRHB4TTYwV1VrcVA4ajVjMlZOdlhOdV8xeHlfLUlxT18yTjdHRWVnLW45ODJETGRlemJpZEVPSGZRZDg5b3J6Z2hMY3o1U2x0WnQ0NG0xTHdRQkxuamZ4aFpZT0FXVzNjU3N2M2w4YUVBUTJKaDJ6M1pIWk16ajRoZHRSWjNkaWJDSDhkSVNpTXdNSDFn?oc=5",
-      "published": "2026-06-21T21:51:00+08:00",
-      "summary": "What to know about the legacy of Brexit, which still divides Britain 10 years on AP News See more headlines & perspectives on Google News",
+      "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
+      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+      "published": "2026-06-23T05:04:29+08:00",
+      "summary": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
       "score": 35
     },
     {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczNKTmVuenFsUVctY2ItOXZWbk1kbDF2WjdBYVRoSjJHZlUxdlk3U1V3OERDOE9EM3Jnb1hSS0JkSlhiZXpxLXdMdDdwb2RVTzZiX0h6ZlNZbmVNbkdWTUxNZmc1ZUFzNzhmVHRSTk5UcTVReXJHWmFMVWRxOFFVT0ltVXdUVHFtMkF5MHBEOWExbExxZHBGdjdyb0xob1lxTEE?oc=5",
-      "published": "2026-06-22T05:37:22+08:00",
-      "summary": "Leading Lebanese conservationist dies after Israeli airstrike on her home NPR Lebanese turtle conservationist Mona Khalil killed by Israeli strike BBC Mourners gather to remember Lebanese conservationist killed by Israel Al Jazeera Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon The New York Times Israeli attack kills famed turtle sanctuary ecologist in Lebanon The Guardian",
-      "score": 25
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+      "published": "2026-06-23T04:58:00+08:00",
+      "summary": "Super Micro shares were leading the S&P 500’s gainers on Monday.",
+      "score": 35
     },
     {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
-      "published": "2026-06-22T05:37:22+08:00",
-      "summary": "Mona Khalil died Friday after an Israeli airstrike hit her beachside home two weeks ago. She's credited with creating a conservation movement in southern Lebanon to protect sea turtle nesting grounds.",
-      "score": 25
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Alphabet sees $225 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
+      "url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+      "published": "2026-06-23T04:48:00+08:00",
+      "summary": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs.",
+      "score": 35
     },
     {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Are Ukraine drones really exposing gaps in Russia's defense? - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHllblVGa2lYcHdGRjFNWEpUc1k1c3g1cWQ0OUFTWXJRMEV0azBEZlBFcEpOODF4OGVTZVlwOERVWTBrdkNhYW1rbWZ0LWp5Um9mXzZxNC03SVd1NFdoUTVpR3pDd2dRYWtIZFRCa2JNa0lLek9Mc2FjUzYxQS10U1AtMlJrNDdlWW4zZTAyX0FlbkJNUEHSAZYBQVVfeXFMT0JmbWhJbzBHY0JhMVhqN2xDa0tUb3M5ek1rRkVPMEh6MXpaWnE0UGFUeVN4QzJ3UnZBQ05wb2diZEpCTGpsZ2lfcVUzQnkyM3VMaXRQSWFYUkxrM21hb21PQURSQmxLcjdodmZqOXBPTi1VMk9RTzh1VUVHT2ZyY2o4TWRFWWh1T0JDMjctZFNFRVJyM0Vn?oc=5",
-      "published": "2026-06-22T02:01:10+08:00",
-      "summary": "Are Ukraine drones really exposing gaps in Russia's defense? DW.com No fuel, no weapons: How Ukraine’s new drone strategy is mauling Russian supply lines CNN Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery BBC ‘This War Has Now Reached Your Homes’: Ukraine’s Startling New Message for Russia Politico Ukraine war briefing: Drones strike Russia’s Tyumen oil refinery 2,000km away, says Zelenskyy The Guardian",
-      "score": 25
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
+      "url": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
+      "published": "2026-06-23T00:45:37+08:00",
+      "summary": "The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.",
+      "score": 35
     },
     {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Photo highlights from the International Day of Yoga on the summer solstice - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2dWdWxZUjBibG54d1FJU2NYM0RndFVJLXhEdHl1eWxWdS14ajJTMktvV2IzZElWN3VIc2xEQ094bTZ6UU5yLXl1UERyd0EtdXhfUFhEclNpc1Z1ckNta0xpMm1TdkFfaEpDYkhKSVRxRUFXOXZONXc2UTFZNXUtZ1FFM2VuOHVYaGVrc1FWT3U4R2FMWTI2Smh3?oc=5",
-      "published": "2026-06-22T01:32:00+08:00",
-      "summary": "Photo highlights from the International Day of Yoga on the summer solstice AP News International Yoga Day 2026: Why People Over 50 Are Turning to Yoga NDTV In pictures: Akshay Kumar, Shilpa Shetty, Malaika Arora celebrate International Yoga Day 2026 Telegraph India Yoga, India’s timeless gift to humanity: Governor Arlekar The Hindu Right way to do it: PM steps off yoga dais to guide participants The Times of India",
-      "score": 25
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
+      "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
+      "published": "2026-06-22T11:45:13+08:00",
+      "summary": "The Pentagon earlier this month updated its so-called 1260H list by adding a slew of Chinese technology companies to a roster of entities it believes have aided Beijing's military.",
+      "score": 31
     },
     {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Trump threatens to 'hit Iran very hard again' while Vance is in Switzerland for talks",
-      "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
-      "published": "2026-06-22T01:29:57+08:00",
-      "summary": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2l2TFp2N0JlNUIwTjNIck5DVV9fRFN5MkhieUdCOTVhNnhLNXBGT093Zk5Kdml2Vk5HSXRTbUVFQ0R6d1c5ZXVqTnBaQ3ZOX0lyOTc3OUFnR1hzVzFDMXNvN0ZZNDR4eTFXZ2gwbTlpOUpSeWUtaTNjcV9rT2gzdnVJb2JnTWhSWXlWLS1rMzR4Y2E4NUtyRTdfb0xrS1N3NDN1aXRZanhxZUNfZDJ4OFkwQVI?oc=5",
-      "published": "2026-06-21T23:23:41+08:00",
-      "summary": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick Bloomberg.com Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN Opinion | Iran and Trump Blame Israel First WSJ Iran closes Strait of Hormuz over ceasefire violations - MEHR Reuters Vance lands in Switzerland as Iran says Strait of Hormuz is closed over ceasefire violations NBC News",
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
+      "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
+      "published": "2026-06-23T07:28:15+08:00",
+      "summary": "Beijing is summoning tech executives for meetings as it did in 2021, but now it has less room to wield a heavy hand due to deflation and rivalry with the U.S.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-21T23:01:28+08:00",
-      "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
+      "title": "China's import of custard apples is sparking fears in Taiwan",
+      "url": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-22T12:37:27+08:00",
+      "summary": "Taiwan's agriculture ministry is worried that Beijing wants to weaponise a local specialty: the atemoya.",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-23T07:07:45+08:00",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU9JUFRuQUZpYXZHOW41LXpUcGJGUmh1c2J2Mkk2Tm5FbUROWVB5WllmdWMzalk2dDNDLXh2MDBWOVk1MmRmSEIwQWE4Z2dJcGd3U0J5VGR1MnJKR0VJaE84ak9LSEhVU0s3eWJjZjZzRjhWMWdRWEhtNUxuODNITUJ6OHdsV3VuUU9IYkpEUnJMMG0yWWl2NElBOENRUndNdENv0gGoAUFVX3lxTE80M3kxY0J3d2lVRklaSVUybGtNQjdqVkF2VWJza3ctSmRoamdnMjE0VktNM2l2ZmdXZkRFMEplYVJCWFJBSnViVHBqMFkySFNPemw5QzlpWGdfV05QZmNUb1BXeGJxS0ZTY2Z0RU4yRXZ3Mk9wTXdhc1RiVVhfcFFmUFFWMXpEcjNLOGE0YkZUendHSllDcUJhZUFSbndPRWFENDZ0WVNsNg?oc=5",
+      "published": "2026-06-23T05:37:14+08:00",
+      "summary": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks Al Jazeera Iran Live Updates: U.S. Eases Oil Sanctions as Vance Hails Talks as a 'Good Foundation' for Peace The New York Times Trump’s Iran agreement embraces sanctions relief, a policy he and his team once denounced CNN US authorizes Iranian oil sales amid talks on final peace deal Reuters Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions PBS",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGJYSnVTQjZ1dTY4VWFBLTJPeFRlVHpJQ0NNM3pwNXhMck83ZVUwMEMxTi1ybGw0dVJXVEZjUGU2YUpLaE9Scm5zNGt4UzhOUi0xV1kxd3l3MGNwR1hVN2pJTjJZSGFvVnowX3ZFVUNEcmJTMWdFRXEtQ25rdFpUNDR2cGRMc2JWd1FuLWNLaWlyNHVXTlhqUS0yN2xlQ2xLbXfSAacBQVVfeXFMUFo5ZDdiTzd3c1lES0NBSHl3LURhX2NBMkdkNmNNQjUxdEFVeHFLOGhDd2lHczVJaV81S2gwZUlPWUxNRU9GTHlyZGNuUU9HSnZ5dllkcjZxeGZKa3FTbXFMTTRHdjk5amV5em9KNGZFdm9rMGtqOTRLX2pYVlctZ3VyQ1UwNUxTaU5pMzdMTXVEZHZXUmNpWU9zeVB1dVZWNkFMWDRpZWc?oc=5",
+      "published": "2026-06-23T04:59:02+08:00",
+      "summary": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns Fox News See more headlines & perspectives on Google News",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record",
+      "published": "2026-06-23T03:22:45+08:00",
+      "summary": "Messi scored a record-setting 17th World Cup goal in Argentina's game against Austria. And, then, he netted another goal, making him the all-time leader in World Cup tournaments (men and women).",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+      "url": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-23T01:19:16+08:00",
+      "summary": "Martha Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand",
+      "published": "2026-06-23T01:05:12+08:00",
+      "summary": "One of the most intellectually important relationships in the life of the late Fed chair Alan Greenspan was with his close friend, the formidable novelist and libertarian thinker Ayn Rand.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-23T00:42:23+08:00",
+      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
       "score": 25
     }
   ],
   "errors": [
-    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
-    "财新网: <urlopen error [Errno 104] Connection reset by peer>"
+    "Hacker News Front Page: Remote end closed connection without response"
   ]
 }
