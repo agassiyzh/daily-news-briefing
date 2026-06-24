@@ -1,226 +1,224 @@
 {
-  "date": "2026-06-23",
-  "generated_at": "2026-06-23T08:00:22.946990+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-23.html",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T08:00:34.292074+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-24.html",
   "items": [
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "published": "2026-06-23T07:24:32+08:00",
-      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data […]",
+      "title": "Hollywood is bending the knee to OpenAI",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "published": "2026-06-24T06:03:18+08:00",
+      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem […]",
       "score": 35
     },
     {
       "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "published": "2026-06-23T02:00:00+08:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Google invests in A24 to build AI movie tools",
-      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
-      "published": "2026-06-23T01:18:13+08:00",
-      "summary": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 million\" into A24, marking the first time the search giant […]",
+      "source": "Hacker News Front Page",
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "url": "https://github.com/context-labs/halo",
+      "published": "2026-06-24T02:21:52+08:00",
+      "summary": "We built HALO (Hierarchal Agent Loop Optimizer), an open-source tool for debugging and optimizing AI agents using their execution traces. It’s a loop. Run your agent, feed the traces to HALO, get the report, apply the fixes, then re-run your agent. HALO takes in OTEL compliant traces from AI agents using tracing frameworks such as Langfuse, Arize/OpenInference, or even just plain JSONL. It uses an RLM (Recursive Language Model) to more efficiently break trace analysis into smaller subproblems in order to find recurring patterns across large amounts of data and fix systemic issues that regular LLMs might typically miss. You can also optionally provide a path to where your agent code lives to give the engine more context so it can more concretely provide useful insights. The repo also includes a desktop app that you can run locally without having to sign up for anything or configure anything complex. Check out the readme in the repo for more in depth information on what HALO is and how you can use it to your benefit :) Comments URL: https://news.ycombinator.com/item?id=48649137 Points: 7 # Comments: 0",
       "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "OpenAI Blog",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "published": "2026-06-22T18:00:00+08:00",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "score": 31
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published": "2026-06-23T21:00:00+08:00",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "OpenAI Blog",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "published": "2026-06-22T18:00:00+08:00",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "score": 31
-    },
-    {
-      "section": "AI 与科技",
-      "source": "OpenAI Blog",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "published": "2026-06-22T07:00:00+08:00",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "published": "2026-06-23T08:00:00+08:00",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "score": 27
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "published": "2026-06-23T03:52:26+08:00",
-      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, […]",
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "published": "2026-06-24T07:58:13+08:00",
+      "summary": "Amazon’s Prime Day sale is here, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 recently hit a record-low $169 at Walmart. That particular […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Valve explains why it isn’t subsidizing the Steam Machine",
-      "url": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
-      "published": "2026-06-23T01:27:12+08:00",
-      "summary": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each. Despite Valve offering a console alternative with the […]",
+      "title": "The best Prime Day deals we found on our favorite gear",
+      "url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
+      "published": "2026-06-24T07:46:11+08:00",
+      "summary": "Amazon’s Prime Day is on, and it’s happening for the next four days. Prime members can jump into the deals now until the sale officially ends at 3:01AM ET / 12:01AM PT June 27th. Many discounts will remain the same throughout the duration. We’ve been covering Prime Day in-depth since the shopping event debuted over […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Google Home will soon get better at recognizing you",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "published": "2026-06-24T06:28:19+08:00",
+      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Trains halted across Germany because of communication system problem",
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+      "published": "2026-06-24T05:19:44+08:00",
+      "summary": "Article URL: https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b Comments URL: https://news.ycombinator.com/item?id=48651613 Points: 127 # Comments: 130",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Google’s online dominance is showing signs of cracking in AI era",
+      "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
+      "published": "2026-06-23T23:21:38+08:00",
+      "summary": "While Google remains in a position of strength in the eyes of Wall Street, the AI era is complicating the company's story.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "House passes affordable housing bill, sends it to Trump's desk",
+      "url": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+      "published": "2026-06-24T07:42:08+08:00",
+      "summary": "The House on Tuesday gave final passage to a bill aimed at lowering costs for homebuyers and reining in private equity.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
-      "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
-      "published": "2026-06-23T06:21:00+08:00",
-      "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
-      "url": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
-      "published": "2026-06-23T06:18:00+08:00",
-      "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
-      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-      "published": "2026-06-23T05:04:29+08:00",
-      "summary": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
-      "url": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
-      "published": "2026-06-23T04:58:00+08:00",
-      "summary": "Super Micro shares were leading the S&P 500’s gainers on Monday.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Alphabet sees $225 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
-      "url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
-      "published": "2026-06-23T04:48:00+08:00",
-      "summary": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
-      "url": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
-      "published": "2026-06-23T00:45:37+08:00",
-      "summary": "The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
-      "url": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
-      "published": "2026-06-22T11:45:13+08:00",
-      "summary": "The Pentagon earlier this month updated its so-called 1260H list by adding a slew of Chinese technology companies to a roster of entities it believes have aided Beijing's military.",
-      "score": 31
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Beijing is summoning executives again, but here's why that's causing less worry than in 2021",
-      "url": "https://www.cnbc.com/2026/06/23/china-tech-crackdown-antitrust-tripcom-meituan-food-delivery-anti-involution-deflation-.html",
-      "published": "2026-06-23T07:28:15+08:00",
-      "summary": "Beijing is summoning tech executives for meetings as it did in 2021, but now it has less room to wield a heavy hand due to deflation and rivalry with the U.S.",
+      "title": "SpaceX pulls off one of the biggest AI debt deals yet",
+      "url": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
+      "published": "2026-06-24T07:14:00+08:00",
+      "summary": "The offering is set to close on Friday and help SpaceX pay off its existing debt",
       "score": 25
     },
     {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "China's import of custard apples is sparking fears in Taiwan",
-      "url": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-22T12:37:27+08:00",
-      "summary": "Taiwan's agriculture ministry is worried that Beijing wants to weaponise a local specialty: the atemoya.",
-      "score": 31
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
+      "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+      "published": "2026-06-24T06:11:21+08:00",
+      "summary": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
+      "score": 25
     },
     {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-23T07:07:45+08:00",
-      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "published": "2026-06-24T06:10:00+08:00",
+      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
+      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
+      "published": "2026-06-24T05:31:49+08:00",
+      "summary": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "published": "2026-06-24T05:29:33+08:00",
+      "summary": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
+      "url": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
+      "published": "2026-06-24T05:23:00+08:00",
+      "summary": "Investors are taking a ‘breather’ from AI-driven momentum, an analyst says",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU9JUFRuQUZpYXZHOW41LXpUcGJGUmh1c2J2Mkk2Tm5FbUROWVB5WllmdWMzalk2dDNDLXh2MDBWOVk1MmRmSEIwQWE4Z2dJcGd3U0J5VGR1MnJKR0VJaE84ak9LSEhVU0s3eWJjZjZzRjhWMWdRWEhtNUxuODNITUJ6OHdsV3VuUU9IYkpEUnJMMG0yWWl2NElBOENRUndNdENv0gGoAUFVX3lxTE80M3kxY0J3d2lVRklaSVUybGtNQjdqVkF2VWJza3ctSmRoamdnMjE0VktNM2l2ZmdXZkRFMEplYVJCWFJBSnViVHBqMFkySFNPemw5QzlpWGdfV05QZmNUb1BXeGJxS0ZTY2Z0RU4yRXZ3Mk9wTXdhc1RiVVhfcFFmUFFWMXpEcjNLOGE0YkZUendHSllDcUJhZUFSbndPRWFENDZ0WVNsNg?oc=5",
-      "published": "2026-06-23T05:37:14+08:00",
-      "summary": "US partially lifts Iran oil sanctions amid ‘encouraging’ talks Al Jazeera Iran Live Updates: U.S. Eases Oil Sanctions as Vance Hails Talks as a 'Good Foundation' for Peace The New York Times Trump’s Iran agreement embraces sanctions relief, a policy he and his team once denounced CNN US authorizes Iranian oil sales amid talks on final peace deal Reuters Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions PBS",
+      "title": "Germany rail network comes to complete halt nationwide due to IT malfunction - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqdDN1YUl2Y0hsWkZmYU1JWl83blNQeEYtQlIxLW5valJKMGk3clZ3VmYzVUtXYnZ2aVdyVk4wRkkxUUcyTk9PV1c3YWl2MDd1dk8xd2tncEpYUQ?oc=5",
+      "published": "2026-06-24T06:14:39+08:00",
+      "summary": "Germany rail network comes to complete halt nationwide due to IT malfunction BBC See more headlines & perspectives on Google News",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+      "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-23T16:05:07+08:00",
+      "summary": "The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\".",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Germany rail network halted nationwide due to IT malfunction",
+      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-24T07:46:01+08:00",
+      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Stanford was their golden ticket - could AI help or hinder that?",
+      "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-24T07:16:37+08:00",
+      "summary": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Temperatures hit record levels in western Europe",
+      "url": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-24T05:46:34+08:00",
+      "summary": "France, Spain and Italy, have been hardest hit by the heatwave so far.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-24T05:04:11+08:00",
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGJYSnVTQjZ1dTY4VWFBLTJPeFRlVHpJQ0NNM3pwNXhMck83ZVUwMEMxTi1ybGw0dVJXVEZjUGU2YUpLaE9Scm5zNGt4UzhOUi0xV1kxd3l3MGNwR1hVN2pJTjJZSGFvVnowX3ZFVUNEcmJTMWdFRXEtQ25rdFpUNDR2cGRMc2JWd1FuLWNLaWlyNHVXTlhqUS0yN2xlQ2xLbXfSAacBQVVfeXFMUFo5ZDdiTzd3c1lES0NBSHl3LURhX2NBMkdkNmNNQjUxdEFVeHFLOGhDd2lHczVJaV81S2gwZUlPWUxNRU9GTHlyZGNuUU9HSnZ5dllkcjZxeGZKa3FTbXFMTTRHdjk5amV5em9KNGZFdm9rMGtqOTRLX2pYVlctZ3VyQ1UwNUxTaU5pMzdMTXVEZHZXUmNpWU9zeVB1dVZWNkFMWDRpZWc?oc=5",
-      "published": "2026-06-23T04:59:02+08:00",
-      "summary": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns Fox News See more headlines & perspectives on Google News",
+      "title": "Russia eyes diesel export ban, fuel imports amid Ukrainian strikes; Crimea restricts public life - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkNXakFCOW90OVo1RkRPcDg3Z2pHV1VhamJRLWlQU05rbzh2V1lkTzhGNlpHdDlJMDIyZnhjUS1GeHAxYWdCcGc4VGlPSVJqV1c3dnI2a3hrUWFwNlJ2cXNfenlUZDg5LUFoVnZxNXFaX0lMTFF0YnVvU0lJMGJIdGNraXhKcEdSUUVBNkNERl9RSWY1RXcySGU4Y0M1YmtlYjR1amRtS1RjQ0o0dEdfamZXTVgwM3R4QkRxbkJR?oc=5",
+      "published": "2026-06-24T04:36:09+08:00",
+      "summary": "Russia eyes diesel export ban, fuel imports amid Ukrainian strikes; Crimea restricts public life Reuters Russia’s Gasoline Crunch Spreads After Refinery Attacks Bloomberg.com Russian Offensive Campaign Assessment, June 16, 2026 Institute for the Study of War Russia Faces Spreading Fuel Shortages After Ukrainian Drones Pummel Refineries WSJ Small Planes in Russia Test Car Fuel as Aviation Supplies Tighten Kyiv Post",
       "score": 25
     },
     {
       "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record",
-      "published": "2026-06-23T03:22:45+08:00",
-      "summary": "Messi scored a record-setting 17th World Cup goal in Argentina's game against Austria. And, then, he netted another goal, making him the all-time leader in World Cup tournaments (men and women).",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "url": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-23T01:19:16+08:00",
-      "summary": "Martha Karua is a lawyer representing detained Ugandan opposition leader Kizza Besigye who is on trial for treason.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand",
-      "published": "2026-06-23T01:05:12+08:00",
-      "summary": "One of the most intellectually important relationships in the life of the late Fed chair Alan Greenspan was with his close friend, the formidable novelist and libertarian thinker Ayn Rand.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-23T00:42:23+08:00",
-      "summary": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
+      "source": "Google News World",
+      "title": "Brilliant Belgian Royal Tiaras at Tonight’s Japanese State Banquet - The Court Jeweller",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHdJbmdvb1JUTTVicWhidUlIb0d3NFFxb0tqekRSU19tcVpTOVNZVnBuTC04VnoyNjlXM3VwQzlCQjg4OUIyNHBsVFJJX1VSa25XMFRuYmNSWnRFcUFZcjlQcVBXcENCejMxY2xsN255MHpoU0NtUG5IWWNHUUNYT1FJdS1La0RINlE4MFh2Z3FHb3V3ZmF4NFNERDJ3TmVRdlBkclBBVmN1MjNqdlpiQQ?oc=5",
+      "published": "2026-06-24T04:13:58+08:00",
+      "summary": "Brilliant Belgian Royal Tiaras at Tonight’s Japanese State Banquet The Court Jeweller Japan's emperor and empress arrive in Belgium for state visit Euronews.com Princess Elisabeth of Belgium Just Took Her Next Major Step Before Becoming Queen People.com Japan's Emperor, Empress attend welcome ceremony in Belgium | NHK WORLD-JAPAN News nhk.or.jp Belgium Japan Royals Bluefield Daily Telegraph",
       "score": 25
     }
   ],
-  "errors": [
-    "Hacker News Front Page: Remote end closed connection without response"
-  ]
+  "errors": []
 }
