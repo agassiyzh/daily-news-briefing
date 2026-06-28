@@ -1,17 +1,8 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T08:00:16.297929+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-27.html",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T08:00:27.096195+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-28.html",
   "items": [
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "published": "2026-06-27T01:01:03+08:00",
-      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a […]",
-      "score": 35
-    },
     {
       "section": "AI 与科技",
       "source": "MIT Technology Review",
@@ -19,61 +10,70 @@
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
       "published": "2026-06-26T20:10:00+08:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
-      "score": 35
+      "score": 27
     },
     {
       "section": "AI 与科技",
-      "source": "OpenAI Blog",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "published": "2026-06-26T18:00:00+08:00",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "score": 31
+      "source": "The Verge",
+      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "published": "2026-06-28T02:39:32+08:00",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "published": "2026-06-28T01:28:18+08:00",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "published": "2026-06-28T01:18:22+08:00",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "The Guardian’s Kai Wright refuses to buy a new phone",
+      "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+      "published": "2026-06-27T23:12:20+08:00",
+      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled powerful men, explored what it means to […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Inside the room where the smart home industry is still betting on Matter",
+      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "published": "2026-06-27T21:11:02+08:00",
+      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, […]",
+      "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
       "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
       "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "published": "2026-06-27T07:41:12+08:00",
+      "published": "2026-06-27T10:56:58+08:00",
       "summary": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "published": "2026-06-27T07:26:09+08:00",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve been craving a popular […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
-      "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
-      "published": "2026-06-27T06:19:12+08:00",
-      "summary": "We’ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I’m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you’re unfamiliar, Vampliers are […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "These are the best deals you can still get on MacBooks before Apple’s price hike kicks in",
-      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
-      "published": "2026-06-27T03:50:46+08:00",
-      "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As an example, the 13-inch […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "published": "2026-06-26T17:00:00+08:00",
-      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
       "score": 21
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "published": "2026-06-27T06:07:58+08:00",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it […]",
+      "score": 17
     },
     {
       "section": "财经与市场",
@@ -82,43 +82,16 @@
       "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
       "published": "2026-06-27T06:11:33+08:00",
       "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
-      "score": 55
+      "score": 47
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "published": "2026-06-26T23:33:31+08:00",
-      "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
-      "score": 45
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Reports",
+      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
       "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-      "published": "2026-06-27T07:39:55+08:00",
+      "published": "2026-06-27T08:34:50+08:00",
       "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
-      "url": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
-      "published": "2026-06-27T06:09:00+08:00",
-      "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
-      "score": 35
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
-      "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
-      "published": "2026-06-27T01:45:05+08:00",
-      "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
-      "score": 35
+      "score": 31
     },
     {
       "section": "财经与市场",
@@ -127,7 +100,7 @@
       "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
       "published": "2026-06-27T01:18:03+08:00",
       "summary": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
-      "score": 35
+      "score": 27
     },
     {
       "section": "财经与市场",
@@ -136,91 +109,119 @@
       "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
       "published": "2026-06-27T01:02:44+08:00",
       "summary": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
-      "score": 35
+      "score": 27
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-      "published": "2026-06-27T06:59:20+08:00",
-      "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
+      "title": "U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+      "published": "2026-06-28T06:54:45+08:00",
+      "summary": "The attacks come as the United States and Iran are supposed to be engaging in a 60-day ceasefire as they attempt to work toward a resolution.",
       "score": 25
     },
     {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Mediators worked through threats and strikes to broker the U.S.-Iran deal, and challenges remain - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkZWeWFYQm9UUVhSM2MzZWRCRnRNdy1hQXAwcUw0M0hWRVlnTlNydS1FOWpBN1h4dWJyYUNDVF9HQXVfaF9hY3Q4LTFXMGFHMzF1c0MyOG5vZFFfR1Z3N05FekhJV1lfM2pzU2RKb0ZPT09QcDBobmNzSU5rb2xhSjBoSUpibEd2UFozSFhaaThsTkhhczJScG1KRzEyZ3lIOWpMNDllRkpNeXc3TTUyUlo1Y2kxeFZuYUtDZjlNX3hlZnZDODlUdtIBzgFBVV95cUxPQVp4TUhaMUZua0JSTGw3bTEydnd3YnlkaVlVdUFkOEpSbGxaNXh4SzREcXE4R2h5aW50SDd0eXhpQ1hsWVhLbzBxd01SRjIxNzcwSFZ4MlFOUEdtcnpLa1BjRHJRRV9sSlJYR0RRd3B5aG5pdFlZQkNTTDZBeVhZal9sRC1LWEpGTmpNQm1xc3dLdWExbDJXQkhJc0xGeEkzR19XVHh2OE9PUkd5a01WZGZfTzVVSjFHeDQ3NTEzamI2aW1pTG9OVWdydTZzQQ?oc=5",
-      "published": "2026-06-26T22:56:11+08:00",
-      "summary": "Mediators worked through threats and strikes to broker the U.S.-Iran deal, and challenges remain PBS See more headlines & perspectives on Google News",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "In Japan, Canadian defense minister expresses interest in GCAP sixth-gen fighter project - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXFFdlBPYmR0OGJoUFpDMEI4bndSRUdiWDN0S1NjdmFrUU5raHBHUzdiNTJGYVNGQnpkSnBOR2tCZGtZREY0dklrcW1IWHpwSTQwQi1kYU9oQnRvRUhWdlN4NGtZUm1XX0U3V0ljZGxPcjEwejIxVG90NGcwWEJpSWg2TXVhb1pmQnpNMjM0TEhia2R1RWFUMzUycTVDaWpqb1BJeHVFRXVueHJTdkRpd3dVWVEycVg0QnJ6M2Y0cXdkUQ?oc=5",
-      "published": "2026-06-26T02:35:15+08:00",
-      "summary": "In Japan, Canadian defense minister expresses interest in GCAP sixth-gen fighter project Breaking Defense Canada, Japan consider critical minerals joint stockpiling in hunt for China alternatives Reuters Canadian companies sign more than $1.7-billion in deals during federal trade mission in Japan The Globe and Mail Canada Throws A Curveball As It Signals Interest In Joining GCAP Sixth-Gen Fighter Program TWZ Canada calls for 'discipline' with China as it beefs up Japan defense ties Nikkei Asia",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye - Military Times",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejRsZFc5Zl9YcWRxRm9DRURCT19kaTh0NFk5alhINjZQekxOTXVCN0Noak9mUmQ4Wktid21yNTBRUlZNTUM1aW9FZ3FUdnRySjV4LTF3aDF5ZkRrTC1RRExHV1QyYTVCYnBOMEhUbkx1bEVmNHBIYklUd3Yxdkl3bk9BbWRSTFZRbFFfLVFzWHpDeUtFcHFjVjVUcy1Rc0dmeTlucVdPanhPX1A4SUUyMlowZFlCRVdUMkRtdHh2VjFxRWNDMnI4STkyVmk?oc=5",
-      "published": "2026-06-26T00:50:55+08:00",
-      "summary": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye Military Times See more headlines & perspectives on Google News",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "World Cup match collides with Florida GOP bash - Politico",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWJrdGlvOTQxTVhBVWRTLWZIMENaTk1oQlN4UXdaeGZackotb0FqcWIwcFZpM2pTT3pDR2ptc1N2Q3RTLU14N1RqZEZIbHJCUVhOZVMyMG1uR0FvUlVBNEZCUnVPMHZ5NzA0Z1FXVlNSNXFvejhvaTFzZVRpbkpTdTEzSDdIVVJfcVhVd21hVGhxa3VJamphTjV0VVBrdTg0VnlXN0Q3WmV2UFRHS3I0UFNZa0tBWUMxQ2h3bHQ1S3E3VC1ROUE?oc=5",
-      "published": "2026-06-27T07:15:00+08:00",
-      "summary": "World Cup match collides with Florida GOP bash Politico Sunburn — The morning read of what’s hot in Florida politics — 6.26.26 Florida Politics GOP faithful head to Hollywood Politico The Florida GOP should worry less about the Democrats — and more about this | Column Tampa Bay Times The Florida GOP should worry less about the Democrats — and more about this | Opinion AOL.com",
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "How to work in retirement without seeing your Social Security checks slashed",
+      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+      "published": "2026-06-28T03:30:00+08:00",
+      "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
       "score": 25
     },
     {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-27T06:55:28+08:00",
-      "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
+      "url": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
+      "published": "2026-06-28T03:30:00+08:00",
+      "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
       "score": 25
     },
     {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
-      "url": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-27T05:44:54+08:00",
-      "summary": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "U.S. launches strikes against Iran following attack on ship in Strait of Hormuz - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbDlLTkhYQkV2OWVHSEJNangxWWRNcWwwQkYxWXV4Q1c3UF94TWNFVzlzVUdPYkRvLWp4Yjh6TE5NYW53TTRhVm9rNUktNHlkRGFwcHFTREFoYnljZkUxbktLcG5HNmd3VWl3TFZWRlB0aVpJTkFjazZMaC1VaktWU3FnUGxHSkd6dm1zWHN3N1pvSmxHN1pLTl9RVUcyX0U?oc=5",
-      "published": "2026-06-27T04:51:00+08:00",
-      "summary": "U.S. launches strikes against Iran following attack on ship in Strait of Hormuz NBC News U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz CNBC UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel AP News US aircraft attack Iran after drone strike on cargo ship that Tehran called 'ceasefire management' Fortune US launches strikes in Iran for first time since peace agreement The Telegraph",
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+      "url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+      "published": "2026-06-28T03:30:00+08:00",
+      "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "NPR News",
-      "title": "It's not just Cape Verde: African soccer is having a World Cup moment",
-      "url": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
-      "published": "2026-06-27T04:49:57+08:00",
-      "summary": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, team from Africa have been relentless.",
+      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+      "published": "2026-06-27T19:40:32+08:00",
+      "summary": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
+      "score": 41
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Beijing investigating rare light aircraft crash which killed pilot, injured 13 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzZXdWIwc2loSUVXTU1LeHB2UGNoajNtYm45enRxV1cwTFlEUldKeWFwSW1ralA2QnpvSDlZR013SGtVaWJqRjVVZk9SeEtneU1jUEhOZVJrekFiYnV1eFpyUFpXOWtsNmhhRHJhcU9YeXA3Mks1TVYyRDNJQWJwcEV6LTRJemNIM3g0RGF3LTJhd0Qzd2gta3Y2alpMUTZSUVhJTVZUY29nR1J3MVoydVFHdG9MRDJMNHgwaQ?oc=5",
+      "published": "2026-06-27T21:14:25+08:00",
+      "summary": "Beijing investigating rare light aircraft crash which killed pilot, injured 13 Reuters A small plane slammed into the tallest skyscraper in China’s capital. Hours later, it was like nothing had happened. CNN Small Plane Crashes Into Tallest Building in Beijing The New York Times Small plane crashes into Beijing's tallest skyscraper ABC News - Breaking News, Latest News and Videos China confirms death of pilot in Citic Tower plane crash South China Morning Post",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Scotland out of World Cup 2026: Steve Clarke's side eliminated in group stage - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Mjh0dWVXUnZORGtBbzhnR0cyV2w3NENxQWl3WnJOV3B3elVhS0UzTzBfRlpIM1prcW1DalplaGNYVTRwbGVFSVZBcFBIM0NLNTRWSVNEMkp1dzQ0V0FUazZoVmZpeWs?oc=5",
+      "published": "2026-06-28T06:58:57+08:00",
+      "summary": "Scotland out of World Cup 2026: Steve Clarke's side eliminated in group stage BBC Steve Clarke resigns as Scotland manager after elimination from World Cup 2026 The Guardian World Cup coaches are losing their cool in interviews. It’s a bad look The New York Times Scotland eliminated from World Cup as they fall short of knockout stage again ESPN Steve Clarke steps down as Scotland boss after World Cup elimination confirmed Sky Sports",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Germany news: Heat record broken for second consecutive day - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2k1QkpwUjRWclRNN0ZuRVlsaDVfV1B1MUpZcGN6YWxOVGVnVy1lQWs2SmRKd2xPS2dSOUNDeHhXVXhpVmM2cm5HWVp3ZWdWU1V1T1BUcDc0djk5M3Jac1M0SWFtM29CODlvNVR3cFQ4U2psMFA5RmFsYzNRTWFfNnJWQkFTQVo0YTU0N0VwVXBEaU84N3RvQzJB?oc=5",
+      "published": "2026-06-28T05:46:16+08:00",
+      "summary": "Germany news: Heat record broken for second consecutive day DW.com France Is Too Hot for Shutters and Ceiling Fans The Atlantic Temperature records shattered in Europe as deadly heatwave moves east Yahoo Europe’s Trains, Nuclear Plants and Factories Can’t Take the Heat Either The New York Times Scenes from the Paris Heat Wave newyorker.com",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUNWcTQtQlFxcFktbGRTa2tINnBIU3NLS0hkWUM5ekRrWjBxZEhvMXRQelB3RHBCN3NpdmFQM0VYV1RnSGoxbjRYZHdjVzJtNkV1M05LbVp3dmpZZ1RYb2Q0cEZqUl9tWHRoYWN6OGpsSjA5bmZEN3NxTnVZNkVGWXBoTFhiVVR4RHZTTlpORHhTQnExRXpyRFo3ejZzbktKNEwzOWFRSERDWHdxcEI5ZWR3aS1nakJsamJV?oc=5",
+      "published": "2026-06-28T05:00:00+08:00",
+      "summary": "We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found. WSJ US considering moving Gulf bases hit by Iran westward, including to Israel — report The Times of Israel Iran Rained Drones On Major US Base. It Made America Rethink Its War Strategy NDTV How Iran Devastated an American Naval Base—and Caused a U.S. Recalculation WSJ MDAA Alert: “How Iran Devastated an American Naval Base” Missile Defense Advocacy Alliance",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazZuMm9ab0czRmQxbEF5NG9CdXdBdVZsSnhJQUdReG5PMkhPcUVWejZMV1A3X2x4Z2pNR0RWMmRTRkNRaHd6d0Z3RXZILVpmRE1EY0RyWXJ3OGJBNFRtR2syOUI2bC1iMVBBUmw4UDdjSE93aGhfUVdBUmkyYlZVc2ZfaGZTcUEwT3MwRFhtaFN2eHBiZDVBODE5MElQQUZ1NlNINFJXSmLSAa4BQVVfeXFMUHptV1NQMUxkSkhjaGk5WUpDY0lndVRZQkRlN2ZVc1lBYk53RHhLMEVOMGtVdTI0V1pGZ05SQmZBX2dwenJZOXdjRGJ6eUdnRzhfdU9zZ1dRQ1JoTWd4Uy0tTUo4MGYzTHhfcWFVX1FVN3lFNlczMHEyRFZ6aW9BejZ2N0dUQmpYcEhIcWlITGpuc3c4elc3eWI2X0ducWRiZU5zaFRNVU91UGlsZlV3?oc=5",
+      "published": "2026-06-28T04:26:17+08:00",
+      "summary": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’ Al Jazeera Serbian President Vucic says he will resign within weeks amid student-led protests CNN Serbia’s Vucic Says He Will Resign Soon to Help Party in Vote Bloomberg.com Serbia’s Ruling Party Prepares Major Belgrade Rally Amid Intimidation Claims Balkan Insight Serbia’s populist President Vucic says he will resign within weeks as election nears AP News",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-28T04:03:26+08:00",
+      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
+      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-28T02:41:03+08:00",
+      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
       "score": 25
     }
   ],
   "errors": [
-    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>"
+    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
+    "财新网: <urlopen error [Errno 104] Connection reset by peer>"
   ]
 }
