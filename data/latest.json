@@ -1,227 +1,224 @@
 {
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T08:00:27.096195+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-28.html",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T08:00:45.726025+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-06-29.html",
   "items": [
     {
       "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "published": "2026-06-26T20:10:00+08:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
-      "score": 27
+      "source": "The Verge",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "published": "2026-06-29T05:42:51+08:00",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of […]",
+      "score": 55
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "published": "2026-06-29T03:38:14+08:00",
+      "summary": "Hi everyone, I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI field in anthropic. The two interesting reasons that led me to create nanoeuler were (1) interfacing with llm does not mean understanding how they are composed and (2), working on llm with a very low-level layer to understand the correlation between parameters and data and growth of the model and how the GPU works and how some layers can be optimized. So I started working on it with a research aspect by making nanoeuler grow more and more but doing one step after another starting from Shakespeare.txt and understanding what a text generation model understands at 23 million parameters. For example, nanoeuler at that number had understood that Name: started a line and wrote that line with sense. I wrote everything in CUDA because I wanted to not use any intermediary between the model in training and inference and what it had to do. Then the use of SFT and much more, even if in small ways, were really useful to understand the various step to make an llm like a chatbot.Any feedback, help, or suggestions are absolutely welcome! Comments URL: https://news.ycombinator.com/item?id=48710778 Points: 33 # Comments: 7",
+      "score": 45
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "published": "2026-06-29T03:43:10+08:00",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime. It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format. I tried to make it safe and predictable: no use of the system /tmp, no use of eval. Groq is supported by default, and other providers can be added with dedicated Bash scripts in the extras/providers/ folder. Example: echo \"explains the command: ls -l\" | ./bash4llm Comments URL: https://news.ycombinator.com/item?id=48710827 Points: 28 # Comments: 14",
+      "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "published": "2026-06-28T02:39:32+08:00",
-      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
+      "title": "China claims the world’s fastest supercomputer",
+      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "published": "2026-06-29T01:20:59+08:00",
+      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "published": "2026-06-29T04:27:36+08:00",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "published": "2026-06-28T01:28:18+08:00",
-      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple […]",
+      "source": "Hacker News Front Page",
+      "title": "Do LLMs pass the mirror test?",
+      "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+      "published": "2026-06-29T03:06:07+08:00",
+      "summary": "Article URL: https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test Comments URL: https://news.ycombinator.com/item?id=48710414 Points: 47 # Comments: 38",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "published": "2026-06-28T01:18:22+08:00",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the […]",
+      "source": "Hacker News Front Page",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "published": "2026-06-29T02:59:53+08:00",
+      "summary": "http://i.stanford.edu/pub/cstr/reports/cs/tr/68/85/CS-TR-68-... Comments URL: https://news.ycombinator.com/item?id=48710350 Points: 21 # Comments: 1",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "The Guardian’s Kai Wright refuses to buy a new phone",
-      "url": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
-      "published": "2026-06-27T23:12:20+08:00",
-      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled powerful men, explored what it means to […]",
+      "source": "Hacker News Front Page",
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "published": "2026-06-29T02:48:53+08:00",
+      "summary": "Article URL: https://github.com/librepods-org/librepods Comments URL: https://news.ycombinator.com/item?id=48710232 Points: 239 # Comments: 70",
       "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Inside the room where the smart home industry is still betting on Matter",
-      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-      "published": "2026-06-27T21:11:02+08:00",
-      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "published": "2026-06-27T10:56:58+08:00",
-      "summary": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. […]",
-      "score": 21
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
-      "published": "2026-06-27T06:07:58+08:00",
-      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it […]",
-      "score": 17
     },
     {
       "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
-      "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
-      "published": "2026-06-27T06:11:33+08:00",
-      "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
-      "score": 47
+      "source": "MarketWatch Top Stories",
+      "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+      "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+      "published": "2026-06-28T22:00:00+08:00",
+      "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
+      "score": 45
     },
     {
       "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
-      "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-      "published": "2026-06-27T08:34:50+08:00",
-      "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+      "source": "Yahoo Finance",
+      "title": "SpaceX landed in millions of 401(k)s through index funds — and the same rules open the door to OpenAI and Anthropic",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-landed-millions-401-k-214500017.html",
+      "published": "2026-06-28T21:45:00+08:00",
+      "summary": "",
+      "score": 45
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-reportedly-considers-delaying-ipo-233000174.html",
+      "published": "2026-06-28T23:30:00+08:00",
+      "summary": "",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "Yahoo Finance",
+      "title": "Is NVIDIA Corporation (NVDA) One of the Best Semiconductor Stocks to Buy According to Billionaires?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-184418614.html",
+      "published": "2026-06-28T18:44:18+08:00",
+      "summary": "",
       "score": 31
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
-      "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
-      "published": "2026-06-27T01:18:03+08:00",
-      "summary": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
-      "score": 27
+      "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation",
+      "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+      "published": "2026-06-29T07:39:41+08:00",
+      "summary": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Oil prices rise, stock futures inch higher as U.S. and Iran trade more airstrikes",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+      "published": "2026-06-29T06:18:00+08:00",
+      "summary": "Oil prices rose Sunday while U.S. stock-index futures advanced, after the U.S. and Iran continued to trade fire in the Persian Gulf, renewing fears that the Strait of Hormuz may effectively be shut again.",
+      "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-      "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
-      "published": "2026-06-27T01:02:44+08:00",
-      "summary": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
-      "score": 27
+      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
+      "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+      "published": "2026-06-29T06:09:47+08:00",
+      "summary": "The hyperscalers are just beginning to figure out the consequences of the AI arms race, and now everyone seems to be against them.",
+      "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
-      "published": "2026-06-28T06:54:45+08:00",
-      "summary": "The attacks come as the United States and Iran are supposed to be engaging in a 60-day ceasefire as they attempt to work toward a resolution.",
+      "title": "America can't get enough of protein. The dairy industry can't keep up",
+      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "published": "2026-06-29T05:35:15+08:00",
+      "summary": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.",
       "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "How to work in retirement without seeing your Social Security checks slashed",
-      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-      "published": "2026-06-28T03:30:00+08:00",
-      "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
-      "url": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-      "published": "2026-06-28T03:30:00+08:00",
-      "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
-      "url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-      "published": "2026-06-28T03:30:00+08:00",
-      "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-      "published": "2026-06-27T19:40:32+08:00",
-      "summary": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
-      "score": 41
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Beijing investigating rare light aircraft crash which killed pilot, injured 13 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzZXdWIwc2loSUVXTU1LeHB2UGNoajNtYm45enRxV1cwTFlEUldKeWFwSW1ralA2QnpvSDlZR013SGtVaWJqRjVVZk9SeEtneU1jUEhOZVJrekFiYnV1eFpyUFpXOWtsNmhhRHJhcU9YeXA3Mks1TVYyRDNJQWJwcEV6LTRJemNIM3g0RGF3LTJhd0Qzd2gta3Y2alpMUTZSUVhJTVZUY29nR1J3MVoydVFHdG9MRDJMNHgwaQ?oc=5",
-      "published": "2026-06-27T21:14:25+08:00",
-      "summary": "Beijing investigating rare light aircraft crash which killed pilot, injured 13 Reuters A small plane slammed into the tallest skyscraper in China’s capital. Hours later, it was like nothing had happened. CNN Small Plane Crashes Into Tallest Building in Beijing The New York Times Small plane crashes into Beijing's tallest skyscraper ABC News - Breaking News, Latest News and Videos China confirms death of pilot in Citic Tower plane crash South China Morning Post",
+      "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5",
+      "published": "2026-06-29T05:32:00+08:00",
+      "summary": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks AP News See more headlines & perspectives on Google News",
       "score": 35
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Scotland out of World Cup 2026: Steve Clarke's side eliminated in group stage - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Mjh0dWVXUnZORGtBbzhnR0cyV2w3NENxQWl3WnJOV3B3elVhS0UzTzBfRlpIM1prcW1DalplaGNYVTRwbGVFSVZBcFBIM0NLNTRWSVNEMkp1dzQ0V0FUazZoVmZpeWs?oc=5",
-      "published": "2026-06-28T06:58:57+08:00",
-      "summary": "Scotland out of World Cup 2026: Steve Clarke's side eliminated in group stage BBC Steve Clarke resigns as Scotland manager after elimination from World Cup 2026 The Guardian World Cup coaches are losing their cool in interviews. It’s a bad look The New York Times Scotland eliminated from World Cup as they fall short of knockout stage again ESPN Steve Clarke steps down as Scotland boss after World Cup elimination confirmed Sky Sports",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Germany news: Heat record broken for second consecutive day - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2k1QkpwUjRWclRNN0ZuRVlsaDVfV1B1MUpZcGN6YWxOVGVnVy1lQWs2SmRKd2xPS2dSOUNDeHhXVXhpVmM2cm5HWVp3ZWdWU1V1T1BUcDc0djk5M3Jac1M0SWFtM29CODlvNVR3cFQ4U2psMFA5RmFsYzNRTWFfNnJWQkFTQVo0YTU0N0VwVXBEaU84N3RvQzJB?oc=5",
-      "published": "2026-06-28T05:46:16+08:00",
-      "summary": "Germany news: Heat record broken for second consecutive day DW.com France Is Too Hot for Shutters and Ceiling Fans The Atlantic Temperature records shattered in Europe as deadly heatwave moves east Yahoo Europe’s Trains, Nuclear Plants and Factories Can’t Take the Heat Either The New York Times Scenes from the Paris Heat Wave newyorker.com",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found. - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUNWcTQtQlFxcFktbGRTa2tINnBIU3NLS0hkWUM5ekRrWjBxZEhvMXRQelB3RHBCN3NpdmFQM0VYV1RnSGoxbjRYZHdjVzJtNkV1M05LbVp3dmpZZ1RYb2Q0cEZqUl9tWHRoYWN6OGpsSjA5bmZEN3NxTnVZNkVGWXBoTFhiVVR4RHZTTlpORHhTQnExRXpyRFo3ejZzbktKNEwzOWFRSERDWHdxcEI5ZWR3aS1nakJsamJV?oc=5",
-      "published": "2026-06-28T05:00:00+08:00",
-      "summary": "We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found. WSJ US considering moving Gulf bases hit by Iran westward, including to Israel — report The Times of Israel Iran Rained Drones On Major US Base. It Made America Rethink Its War Strategy NDTV How Iran Devastated an American Naval Base—and Caused a U.S. Recalculation WSJ MDAA Alert: “How Iran Devastated an American Naval Base” Missile Defense Advocacy Alliance",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’ - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazZuMm9ab0czRmQxbEF5NG9CdXdBdVZsSnhJQUdReG5PMkhPcUVWejZMV1A3X2x4Z2pNR0RWMmRTRkNRaHd6d0Z3RXZILVpmRE1EY0RyWXJ3OGJBNFRtR2syOUI2bC1iMVBBUmw4UDdjSE93aGhfUVdBUmkyYlZVc2ZfaGZTcUEwT3MwRFhtaFN2eHBiZDVBODE5MElQQUZ1NlNINFJXSmLSAa4BQVVfeXFMUHptV1NQMUxkSkhjaGk5WUpDY0lndVRZQkRlN2ZVc1lBYk53RHhLMEVOMGtVdTI0V1pGZ05SQmZBX2dwenJZOXdjRGJ6eUdnRzhfdU9zZ1dRQ1JoTWd4Uy0tTUo4MGYzTHhfcWFVX1FVN3lFNlczMHEyRFZ6aW9BejZ2N0dUQmpYcEhIcWlITGpuc3c4elc3eWI2X0ducWRiZU5zaFRNVU91UGlsZlV3?oc=5",
-      "published": "2026-06-28T04:26:17+08:00",
-      "summary": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’ Al Jazeera Serbian President Vucic says he will resign within weeks amid student-led protests CNN Serbia’s Vucic Says He Will Resign Soon to Help Party in Vote Bloomberg.com Serbia’s Ruling Party Prepares Major Belgrade Rally Amid Intimidation Claims Balkan Insight Serbia’s populist President Vucic says he will resign within weeks as election nears AP News",
-      "score": 25
+      "title": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVZrWWQ2NjBheUNrTWY1cUE2VEpLQUdJRWNWS0lGZk9ydGRUR2R5THNXTGN4WlRkNXpZOVd6Y011UFZFVWJlTHcwMWY1SDBkNHU1Y2VubmE2Y3JHcWJyV3BQUGVKTlg4WGg1ZDVfbkI1dlNzLWxyMWgtb1RVdHdDSFhFeGl2eC0ydU5yQy1Gd2k?oc=5",
+      "published": "2026-06-28T15:22:05+08:00",
+      "summary": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower The New York Times Plane crash in Beijing reveals airspace security gaps Yahoo Small aircraft crashes into Beijing's tallest building, eyewitnesses say Reuters A small plane slammed into the tallest skyscraper in China’s capital. Hours later, it was like nothing had happened. CNN Plane Hits Beijing Tower in Area With Tight Airspace Controls Bloomberg.com",
+      "score": 31
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-28T04:03:26+08:00",
-      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-29T05:58:45+08:00",
+      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
       "score": 25
     },
     {
       "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-28T02:41:03+08:00",
-      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
+      "source": "Google News World",
+      "title": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc250eHJQZFk2c1RkdkdnQ3RvRHd1QmV6OU8yQ3B3a3NEMlFiYXd1SXpOLVBqTmM4dnZMa2U4QnRKZFhQSlV1OG1lM0hkY1oybi0wd0QtV0UydlcwOEN1TkN6MzFoVnhrUFZVaXpwOU80T0dYMkoxRmtQQndQamZ6MXRCbk5sZy10WlMxOURpOXZLTkV0cW5HUGtHOE9ET3V4WnZwd3FQMA?oc=5",
+      "published": "2026-06-29T05:42:00+08:00",
+      "summary": "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants AP News Pakistan says its security forces killed 29 militants in ground operation, strikes along Afghan border CBS News Security forces kill 29 terrorists in ground ops, air strikes along Pak-Afghan border: info minister Dawn Pakistan forces kill 29 militants in border operation, AP reports Reuters Pakistan says it carried out a ground operation and strikes along the border with Afghanistan, killing 29 militants KVUE",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Russia's Putin promises security as Ukraine ramps up attacks - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZHZneFE3MUFEZkFBWENCeXBjVHRkRFFlSlJrSFJkTXlnY3RNZGk5X3FqVHdUUmgyanl6Sjh6a0tzVHpwVDVvLTlBVTFRREltRURVenZQdV9DLUkxLV9TekhVRWhnbG9RczFuUmk3eE90WXNKM3p2bW5td2NQRXRkRG4teUpvdHlZVXdRQ0RfRUstTmgxZ19N0gGXAUFVX3lxTE1jTUVsdU5pOHd6RHI1ekxUWGQ2Q1o4N19FQTBrZnNZSGtreE5VMlEyZGhfa21xc092ZE1jU3FOQUJvOVJnWlBIamptSG01d2o4VEZDZ1MycWx1X1pKX3lZUEl2SDh4RnVmWWEydGNQVVRILThCQ25oQVZqLURqU3VtSkVkX0VxNzQyUkx1dThpYVN2MlViN3c?oc=5",
+      "published": "2026-06-29T05:27:06+08:00",
+      "summary": "Russia's Putin promises security as Ukraine ramps up attacks dw.com Putin: Russia is facing problems in Ukraine war The Telegraph Putin Vows to Ensure Russia’s Security Amid Ukraine Retaliatory Strikes The Moscow Times United Russia Party Congress Президент России As State Duma elections near, Putin claims West seeks to politically destabilize Russia The Kyiv Independent",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "In Venezuela, silence has become a rescue tool",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool",
+      "published": "2026-06-29T05:00:14+08:00",
+      "summary": "In Venezuela rescue crews now stop almost everything and ask for silence so they can hear anyone still alive underneath the rubble. NPR's Eyder Peralta reports from the port city of La Guaira.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "A bridge to Canada may be blocked by the Trump administration",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5828903/trump-gordie-howe-bridge-canada-blocked",
+      "published": "2026-06-29T04:17:22+08:00",
+      "summary": "The Gordie Howe bridge spans the most important border crossing between the U.S. and Canada. President Donald Trump has said he doesn't want it open yet.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Russians Feel the War’s Hardships as Ukraine Pummels Crimea - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2x3dzR2bzFGRHpKX2w1N1pGQWtqNS1sQ1RQV09ibExRbXBwSWpvU09RTmxEelNWY3pIME5PWmdIQUgtd2xQdnFHRGlxaGRRZmRNWWdIVWdfSVZ2cTBLd0liVFdvdy1RQUZ4eVJmV0NVMVhIQlFSQkp5WWd1Q0JkMEY1a2NNZk9USURDMDlEZEo0czVFRm1uS1JRMnNEaTRoTFE?oc=5",
+      "published": "2026-06-29T03:34:00+08:00",
+      "summary": "Russians Feel the War’s Hardships as Ukraine Pummels Crimea WSJ Ukrainian Attacks Spur State of Emergency Declaration in Crimea The New York Times Russian-installed authorities declare economic emergency in Crimea Reuters Ukrainian drones drive Russia to declare emergency in occupied Crimea The Washington Post Ukraine’s Attacks on Crimea Expose Limits of Putin’s Protection Bloomberg.com",
       "score": 25
     }
   ],
-  "errors": [
-    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
-    "财新网: <urlopen error [Errno 104] Connection reset by peer>"
-  ]
+  "errors": []
 }
