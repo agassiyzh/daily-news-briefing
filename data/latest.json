@@ -1,8 +1,44 @@
 {
-  "date": "2026-07-14",
-  "generated_at": "2026-07-14T08:00:17.420539+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-14.html",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T08:00:41.646402+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-15.html",
   "items": [
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "published": "2026-07-15T05:26:32+08:00",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "published": "2026-07-15T03:25:00+08:00",
+      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "published": "2026-07-15T00:06:18+08:00",
+      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful. We have an interactive demo with no signup here: https://app.agnost.ai?demo=true Here's a demo video: https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted. We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building. We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist. Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it. One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature. Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections. For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases. We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm. We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism. Comments URL: https://news.ycombinator.com/item?id=48908950 Points: 37 # Comments: 25",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "MIT Technology Review",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "published": "2026-07-14T20:10:00+08:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+      "score": 35
+    },
     {
       "section": "AI 与科技",
       "source": "MIT Technology Review",
@@ -10,218 +46,179 @@
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "published": "2026-07-14T02:00:00+08:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
-      "score": 35
+      "score": 27
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Microsoft tests Windows Search without all the ads and fluff",
-      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
-      "published": "2026-07-14T05:53:20+08:00",
-      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. […]",
+      "source": "Hacker News Front Page",
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "published": "2026-07-15T06:30:47+08:00",
+      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario Comments URL: https://news.ycombinator.com/item?id=48913763 Points: 14 # Comments: 0",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "OnePlus is reportedly bailing on the US",
-      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-      "published": "2026-07-14T05:48:43+08:00",
-      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors about the future of OnePlus. Android Headlines said […]",
+      "source": "Hacker News Front Page",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "published": "2026-07-15T05:58:36+08:00",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 51 # Comments: 9",
       "score": 25
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "The Pixel colors might rule this year",
-      "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-      "published": "2026-07-14T04:53:57+08:00",
-      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus), vibrant green Moss (Pistachio), and Midnight (Obsidian) black. We've seen two sets of names for the […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Apple’s public betas for iOS 27 and more are out now",
-      "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-      "published": "2026-07-14T04:47:36+08:00",
-      "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "published": "2026-07-14T04:44:20+08:00",
-      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Siri AI is already changing how I use my iPhone",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "published": "2026-07-14T04:43:20+08:00",
-      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
-      "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
-      "published": "2026-07-14T02:35:48+08:00",
-      "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, and Washington - filed suit on Monday, arguing […]",
+      "source": "Hacker News Front Page",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "published": "2026-07-15T01:58:35+08:00",
+      "summary": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 212 # Comments: 89",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-      "published": "2026-07-13T23:56:52+08:00",
-      "summary": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
+      "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
+      "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+      "published": "2026-07-15T00:50:28+08:00",
+      "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
+      "score": 45
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
+      "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
+      "published": "2026-07-14T22:01:03+08:00",
+      "summary": "Tech giant's AI boss said \"urgent action\" was needed as AI capabilities advanced.",
       "score": 35
     },
     {
       "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-      "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
-      "published": "2026-07-14T07:03:00+08:00",
-      "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+      "source": "CNBC Top News",
+      "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
+      "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
+      "published": "2026-07-15T07:58:53+08:00",
+      "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
-      "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
-      "published": "2026-07-14T06:52:19+08:00",
-      "summary": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare\" fund that has since been scrapped.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
-      "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
-      "published": "2026-07-14T06:50:00+08:00",
-      "summary": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
-      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-      "published": "2026-07-14T06:24:15+08:00",
-      "summary": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles",
-      "url": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
-      "published": "2026-07-14T06:20:00+08:00",
-      "summary": "CNBC's Jim Cramer said tech stocks continue to offer the market's biggest upside.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
-      "url": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
-      "published": "2026-07-14T06:09:22+08:00",
-      "summary": "Trump said he will make a \"Speech to the Nation on Thursday evening, at 9 P.M. Eastern,\" without providing further details.",
+      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+      "url": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
+      "published": "2026-07-15T06:20:46+08:00",
+      "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.",
-      "url": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
-      "published": "2026-07-14T04:48:00+08:00",
-      "summary": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "published": "2026-07-15T05:38:00+08:00",
+      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Cybersecurity stocks rally on AI spending change comments from IBM's Krishna",
+      "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
+      "published": "2026-07-15T05:13:39+08:00",
+      "summary": "IBM CEO Arvind Krishna told CNBC's Sara Eisen that some major deals were put on hold toward the end of the quarter as businesses rethink spending.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
+      "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
+      "published": "2026-07-15T05:12:44+08:00",
+      "summary": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
+      "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+      "published": "2026-07-15T05:10:00+08:00",
+      "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZzaVZNU3YtY3IzWXJnRkN0LUdrNS1kbWF0ZzhqRXhOakNldm9ab3B2QXlteUpEWk1RRlUtOVpnQnlTbUI2cGduUUtfOElmZlV2ZEJZWmY2VEN3THZmZklkNXVDcjdoaU5hX2NLREF3Ymx5QlpEREFkbi0zLUZRTFllZlV4OGczM3dvTGhNN1JmdGI3Z0l0UDZ2OHFzT2hLTU9DR1c1WjMtUQ?oc=5",
+      "published": "2026-07-14T16:36:00+08:00",
+      "summary": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign AP News China Purges Top Official Over Corruption and Sex Charges The New York Times China Expels Former Politburo Member Over Graft and Sex Charges Bloomberg.com China purges third Politburo member in deepening anti-graft drive Reuters China links family of ex-Politburo member Ma Xingrui to ‘rampant corruption’ South China Morning Post",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXkyWC1SUkJnMVl6UTdWZkEwMHMwV0JfU0RFQmxDYkxFUkhNZ3M1R2ROb0p1VmZMbDRtb0xmN25pOXAxNTVxYUd1RVFvcUlWeHdDcG1HSmp6OWF3eEJ5bGZiNEJLQmUycjZpVkNHVWZMNV9ydW91RnEyTkNNSlNqa2pweXdWTnIxai1sc2VIWnZROGRRVVh4aWdkc3VxcDF1c1VuLU41eGFHOG95SV9ZbTBR?oc=5",
+      "published": "2026-07-14T15:52:20+08:00",
+      "summary": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats Bloomberg.com Iran says oil exports continue despite cancellation of US sanctions waivers The Times of Israel Lights out: How Iran quietly moved millions of barrels through Hormuz under America's nose The Times of India Iran Says It Will Continue Exporting Oil Despite Canceled U.S. Waiver Crude Oil Prices Today | OilPrice.com Iran oil stuck at sea surges as China's teapots turn to rival Middle East supplies, traders say Reuters",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "More than 260,000 evacuated as Typhoon Bavi brings severe floods - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTJsZlpOaGY0aWgtTmhvZTNZMFFSaXNqLV9OcmJEUXZfWkxocVRhUHk4ZUdhVDQ5cEx4T2g5YjZBMGY4Zmw2RVlYd1Q5Z0FXRXdwNUZ4VjhBcE8xaXNuT09fT1dhMm9fLUdja1RHWkV4ak1IcVJQbUNsQzZ4NFlnQnVBMTVuWDBQb1U5WVVYbUJEXzBuTkpKZWh2ZDVtZWJJc001eDBXZmFFRnhmc3hQa0NnUTZxUGJf?oc=5",
+      "published": "2026-07-14T12:01:00+08:00",
+      "summary": "More than 260,000 evacuated as Typhoon Bavi brings severe floods Reuters Typhoon Bavi: China evacuates nearly two million people as powerful typhoon makes landfall BBC Typhoon Bavi: Millions evacuated in China as severe flooding traps villagers and sweeps cars away Sky News Super Typhoon Bavi Hurls Rare 20-Foot ‘Mega Swell’ at Taiwan (Video) SURFER Magazine China to See Unusually Active Typhoon Season After Bavi Passes Bloomberg.com",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Ukraine war latest: Putin hits civilian ship after threatening ‘powerful’ attacks - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU2V0S3BNVXBVSVhiZjBiaHdTLUpodXZaZFg3U1QxYkVXTWpPNzEzZmJNRHl5M2tnYVJOOWRMcEhtYmphLXBYbkhlMVgxdXVRTkY1OFpsVVphZ0hXQTExNTVsY0FoTkNWa1l5blNZTlNZSG1nU25pTk9kRzlEcl9CMFpydFE3dE5yQVk2RUFPM3p3djlZX1NtMjFkNXMtQy1pRTlhd2xlaGxDWDNHRUJTNWlhM29HaFFEV1FN?oc=5",
+      "published": "2026-07-15T07:49:54+08:00",
+      "summary": "Ukraine war latest: Putin hits civilian ship after threatening ‘powerful’ attacks The Independent Russian attack on cargo ship kills three crew, Ukrainian officials say Reuters Russia Attacks Two Civilian Cargo Ships in Black Sea, Killing Captain and Injuring Three UNITED24 Media Enemy drones attack civilian and industrial infrastructure in Odesa region Ukrinform Russian forces hit two more cargo ships off Odesa, killing a captain and injuring three crew members Meduza",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mclRqN1M1Z0RvTWloR0xWUE5tdlJLQnNuMjVQNnlZNVpSWWgyUmtkMDVodVBzU1RKTnVPbUt6MDJ2Q1B0QS0xeWR1U0RLRW9feEdpQU1CbUw4S3VmMy1PREVGbl9KaFhaa3RFQTFB?oc=5",
+      "published": "2026-07-15T06:50:00+08:00",
+      "summary": "Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports CNN Iran war live: US launches ‘additional round of strikes’ Al Jazeera Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live The Guardian Live updates: Iran war news; US and Iran intensify conflict, with naval blockade set to resume CNN U.S. strikes Iran before Hormuz Strait blockade restarts CNBC",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Iraq seizes mounds of gold and millions in cash from officials in corruption crackdown - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51ZFhYdS1DQl9GVUJuWW9XX2lsZW10OGpONlRtYmpadUNpQjYwd2ZCZm9UWXpxWVhkOXZFclN6OEw3V3g5WGdHX0xhbzcya20wQXoxdmR1aTVFZDJjYjRGM05YcXhzSXV3bnE5Tk96Y2FudkU?oc=5",
+      "published": "2026-07-15T05:16:16+08:00",
+      "summary": "Iraq seizes mounds of gold and millions in cash from officials in corruption crackdown CBS News Iraq seizes 375kg of gold in sweeping anti-corruption crackdown Al Jazeera Nineveh Integrity Court Orders Seizure of Commercial Properties and Mills Linked to Corruption Case PUKmedia یەکێتیی نیشتمانیی کوردستان Erbil continues anti-corruption coordination with Baghdad: PM Barzani’s Office The New Region Millions in a Storm Drain: Iraq Cracks Open 'Integrated Network' in Massive Oil Scandal Organized Crime and Corruption Reporting Project | OCCRP",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-14T07:42:24+08:00",
-      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "US begins new Iran strikes after Trump says ships will be charged to use the Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXlDMHpMczFma2paOVJQMzZuZzVNVFZLeS04V0VXUk1zUFBSTGRaelYzaU1fQlg0azEwQ1dQQ2lfV2VmOFBMZ0ZGa0tjSWJGUWVFdDhhUTdCbmpKMy1QRHVOdE5YRnliNmJfVkRKU09zdVhYSm1hQW94MDlUbEp1OXB0ZjIzZlFtYUdZZHBQb2pHT1V5bjZtbVE0QVN3cTg?oc=5",
-      "published": "2026-07-14T07:39:00+08:00",
-      "summary": "US begins new Iran strikes after Trump says ships will be charged to use the Strait of Hormuz AP News Iran War Live Updates: U.S. Begins New Strikes on Iran as Trump Orders Resumption of Shipping Blockade The New York Times Trump sends Congress formal notice that Iran conflict has resumed Reuters America’s Latest Weapon Against Iran: Sea Drones WSJ Live updates: US strikes Iran again after Trump orders a new blockade in Strait of Hormuz on Iran AP News",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Bahamian music group \"still shocked\" after bandmates killed in small plane crash - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1hvUS13VkN5WUhobkQyUmN4MEU0dFhRaVFiZjVVTnFIeU9naGRvR2xsUV9Mb2Y4RFZxNjNxaWNYaElBeHdvZEpGQUs1ZE1RVXZCZGo0WjdCekpPNWtpcXpUZGc3enI5RUt0ekF4YVN6cFp4VDdoaEp0Q2RhbU1RQVl1ejFvc2c?oc=5",
-      "published": "2026-07-14T05:35:47+08:00",
-      "summary": "Bahamian music group \"still shocked\" after bandmates killed in small plane crash CBS News Musicians, DJ among 10 dead after plane crashes in the Bahamas USA Today Popular band, DJ among 10 killed in fiery plane crash: ‘This is a painful moment’ AL.com Bahamian carrier Flamingo Air grounded after fatal Cessna 402 crash FlightGlobal Ten Killed in Plane Crash on the Bahamas’ Largest Island The New York Times",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Wildfire rages near Paris as heatwave scorches Europe - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYm5sa1JvamNIZWFmYkJMNENoZElOUWpJbDJOanJFOG9xMzlTMy1BWVBMVU1pRlNfRnplbnRFZ2w3WVpkQ1A2b1JhRUtDQWlISFdYZVJnZ2VNb2RDUmxlSDhYVnBBTGZYa0tNRjB5SGs2ek1PRmFQNUdTcy14a2dtaFVNQlYyNk9vclZadjZ3cDRMYk0yWGYwSVlwLVpHWkZBeGhpUUJiaC16UldLMGRZempiQQ?oc=5",
-      "published": "2026-07-14T05:34:32+08:00",
-      "summary": "Wildfire rages near Paris as heatwave scorches Europe Reuters Firefighting planes scrambled from south of France to tackle huge wildfire near Paris The Guardian Major fire in Fontainebleau forest near Paris forces evacuations; 10 still missing in Spanish wildfire NBC News Wildfire Map Spotlight: Southern Europe Wildfires IQAir Planes scoop up water from River Seine in effort to battle wildfire near Paris CNN",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "U.S. military to enforce new Iran blockade starting 4pm Tuesday - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lUURyVkwxd09Rek93UXV1NHY5dmNxclI3cFdGTERiSzdiczNBM2F2YU1ydFVwV1MxZ1I5M1J0VEhENlBDa0h1dUxISFRiRFNKaEcxSEJYYmNxWlRIby1QLVQ5aVdWMkJZSlBFeEFzUDNnU0Mx?oc=5",
-      "published": "2026-07-14T04:29:48+08:00",
-      "summary": "U.S. military to enforce new Iran blockade starting 4pm Tuesday Axios Trump offers US protection in the Strait of Hormuz for a 20% fee. How would that work? CNN Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls The New York Times US to take over Strait of Hormuz, charge 20 percent fee for cargo shipped through, Trump says Politico Trump wants Gulf countries on the hook for Strait of Hormuz ‘protection’ The Hill",
+      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-15T05:13:12+08:00",
+      "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "NPR News",
-      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
-      "published": "2026-07-14T04:22:49+08:00",
-      "summary": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-14T04:15:00+08:00",
-      "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Tension rising as Yemen gov’t attacks Sanaa airport, Houthis fire missiles - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOal9PeVdNY0ZEdzBmQVRtZ2hyZkpzTEVhaUtZUDdCWGpDZ0ZBUF9UQXh2cHhCMmU0M1NGSU11bUZKV0pXTlNSOU5KU0VnekhUWFpfNzlla2RXTjBLTGR4Y0FNTlhEU2hCdFBCZ2NsYldwYUJvaWFXTlRLMWVXQUEzX2FoZE54N1Q0R2c0S0tKZXN5M2ZF0gGaAUFVX3lxTE1QOUpiMVM5bTFzcXc1NnhiN1FRdUIxZG1LdXFqUHZCYVM2YVZpR2kyU1hIT1BaRkRiUVRHa2tvMDJ6bXlpUDlITlR4MkRJcGRBRWVQMTFoY0s4SXBaTHVCZGVGU3BrSFV0Qm01Nm9HTXRUVk9Pa0VMUUpfcGl3eXJqeTV0RWFGalpJamNtblVkcjNOWFA3UE1RQmc?oc=5",
-      "published": "2026-07-14T03:58:32+08:00",
-      "summary": "Tension rising as Yemen gov’t attacks Sanaa airport, Houthis fire missiles Al Jazeera Houthis fire missiles at Saudi Arabia, breaking years of calm Reuters New Saudi-Yemen Fighting Threatens to Pull Houthis Into Iran War WSJ Yemen's Houthis strike Saudi Arabia's Abha airport with missiles and drones in a sharp escalation AP News Trump weighs taking out Pickaxe Mountain nuclear site as US strikes Iran for 3rd night in a row The Times of Israel",
+      "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
+      "published": "2026-07-15T04:59:10+08:00",
+      "summary": "Spain is back in the men's World Cup final for the first time since 2010. That's also when Spain won its only World Cup title. France had hoped to reach the final for the third straight tournament.",
       "score": 25
     }
   ],
-  "errors": [
-    "Hacker News Front Page: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>",
-    "OpenAI Blog: <urlopen error [Errno 104] Connection reset by peer>"
-  ]
+  "errors": []
 }
