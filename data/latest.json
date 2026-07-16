@@ -1,34 +1,16 @@
 {
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T08:00:41.646402+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-15.html",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T08:00:03.456287+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-16.html",
   "items": [
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "published": "2026-07-15T05:26:32+08:00",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused […]",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "published": "2026-07-15T03:25:00+08:00",
-      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open […]",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "published": "2026-07-15T00:06:18+08:00",
-      "summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful. We have an interactive demo with no signup here: https://app.agnost.ai?demo=true Here's a demo video: https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted. We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building. We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist. Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it. One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature. Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections. For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases. We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm. We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism. Comments URL: https://news.ycombinator.com/item?id=48908950 Points: 37 # Comments: 25",
-      "score": 35
+      "source": "MIT Technology Review",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "published": "2026-07-16T01:09:37+08:00",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+      "score": 45
     },
     {
       "section": "AI 与科技",
@@ -37,188 +19,208 @@
       "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "published": "2026-07-14T20:10:00+08:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "published": "2026-07-14T02:00:00+08:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
       "score": 27
     },
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "published": "2026-07-15T06:30:47+08:00",
-      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario Comments URL: https://news.ycombinator.com/item?id=48913763 Points: 14 # Comments: 0",
+      "source": "The Verge",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "published": "2026-07-16T06:40:48+08:00",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "published": "2026-07-15T05:58:36+08:00",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 51 # Comments: 9",
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "published": "2026-07-16T06:23:27+08:00",
+      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 18 # Comments: 4",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
+      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+      "published": "2026-07-16T06:22:50+08:00",
+      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Valve stop […]",
       "score": 25
     },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "published": "2026-07-15T01:58:35+08:00",
-      "summary": "Article URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left Comments URL: https://news.ycombinator.com/item?id=48910676 Points: 212 # Comments: 89",
+      "title": "P2P local file transfer based on WebRTC",
+      "url": "https://pairdrop.net/",
+      "published": "2026-07-16T06:22:08+08:00",
+      "summary": "Article URL: https://pairdrop.net/ Comments URL: https://news.ycombinator.com/item?id=48927900 Points: 18 # Comments: 10",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+      "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+      "published": "2026-07-16T05:56:24+08:00",
+      "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule, which was intended to prevent one […]",
+      "score": 25
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+      "published": "2026-07-16T05:39:21+08:00",
+      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 46 # Comments: 40",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
-      "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-      "published": "2026-07-15T00:50:28+08:00",
-      "summary": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
+      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "published": "2026-07-16T01:22:51+08:00",
+      "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
       "score": 45
     },
     {
       "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
+      "url": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+      "published": "2026-07-16T07:34:00+08:00",
+      "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
+      "published": "2026-07-16T07:00:00+08:00",
+      "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
-      "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
-      "published": "2026-07-14T22:01:03+08:00",
-      "summary": "Tech giant's AI boss said \"urgent action\" was needed as AI capabilities advanced.",
+      "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
+      "url": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
+      "published": "2026-07-16T06:51:22+08:00",
+      "summary": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
+      "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+      "published": "2026-07-16T06:48:57+08:00",
+      "summary": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+      "published": "2026-07-16T06:05:14+08:00",
+      "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
+      "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
+      "published": "2026-07-16T05:43:00+08:00",
+      "summary": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
+      "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+      "published": "2026-07-16T05:00:11+08:00",
+      "summary": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDRyYU45UGN6YVRSeGNwcW54SGlJMUlESGlwWUx5ZnVzREVYcTZhLU5XZlFpQ2tCZjF6R1V1dklqT1FQUUVyUmR5VUliWVk0b3VtUzVicXAzZUFjQmozMlQ0Y1ZlMFJpSHFIWkg2QVpERTFvUTNhY1ZNclZxUlB5YXZ4NVVhNkRrS2FqRS1qQzNBcG11ak9oNHRibjNESURFR3BZUVRYeGxtX0FrM18xNUE2U0PSAboBQVVfeXFMTzZuS25QcHVxSmlxZk5OU2ZlZDNpdTBST2pUNmRCeEcyTE5GRFhFR3VabGJKeG1WbzNyUXo2aGppRzB4NHB5SnM1Q3BOQWNuN2FCajdpTmFDRG5WakVuT3hIbE9TeUxveGNJYW9iSHU2YUxkUU9tMDVta25rY0huZnkzcVlISjNBUzVka3pnR1FGSXNCaFJIaUVYSFAzRHFvaDFWTm9wTFhuOHZ4cVFrbHpoSkc0WDRKM2lB?oc=5",
+      "published": "2026-07-16T03:37:53+08:00",
+      "summary": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control Fox News See more headlines & perspectives on Google News",
       "score": 35
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
-      "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-      "published": "2026-07-15T07:58:53+08:00",
-      "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
-      "score": 25
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Five arrested after raid on two Hong Kong independent bookshops - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mejZ0ekh2NG14SGtmVndCUllTdlY1ZHYwZmpJQUxkdGZJMWZJMzRUN0V0MnVELWlqVUZudUU4X2NiamlUWGM3dHBKeDhJLXNIV2Y3SFZESVk3UQ?oc=5",
+      "published": "2026-07-16T00:51:07+08:00",
+      "summary": "Five arrested after raid on two Hong Kong independent bookshops BBC Police round up Hong Kong booksellers as China widens crackdown The Washington Post Hong Kong booksellers arrested for allegedly selling seditious books NPR Hong Kong police raid independent bookstore run by former journalists Yahoo Hong Kong national security police raid 2 independent bookstores, arrest 5 for alleged sedition Hong Kong Free Press HKFP",
+      "score": 35
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
-      "url": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
-      "published": "2026-07-15T06:20:46+08:00",
-      "summary": "CNBC's Jim Cramer said today's stock market is far less concerning than it was during the dot-com bubble.",
-      "score": 25
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Casino boss was landlord to Chinese scammers and human traffickers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jdDhENVNLSnBaNDNYN2NNVDVsVm42b3J2cGE1MUpmRkt1NU9EdTJrN0VrVzBCSEdYSnVNcHc0MV9qWmkwc0Z2Z0ZIOG5KNGVaMlMtaWxMYjR2TDMwd013UUtJMU0tMEp3dXdDQg?oc=5",
+      "published": "2026-07-15T12:00:00+08:00",
+      "summary": "Casino boss was landlord to Chinese scammers and human traffickers Reuters Cambodia Acts Alongside Thailand, China, and Vietnam as Border Scam Compound Investigation Reshapes Regional Travel Security, Cross-Border Tourism Confidence, Human Trafficking Enforcement, and Responsible Investment Across Southeast Asia Travel And Tour World Party leader makes explosive claims linking Hun Sen to Cambodian slave camp run as a scamming centre Thai Examiner A Scam Compound Is Not a Licence to Invade: Thailand Cannot Bomb, Occupy and Then Rewrite the Law Khmer Times Inside the compound of a Cambodian scam empire marketscreener.com",
+      "score": 31
     },
     {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-      "published": "2026-07-15T05:38:00+08:00",
-      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Cybersecurity stocks rally on AI spending change comments from IBM's Krishna",
-      "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
-      "published": "2026-07-15T05:13:39+08:00",
-      "summary": "IBM CEO Arvind Krishna told CNBC's Sara Eisen that some major deals were put on hold toward the end of the quarter as businesses rethink spending.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
-      "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-      "published": "2026-07-15T05:12:44+08:00",
-      "summary": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
-      "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
-      "published": "2026-07-15T05:10:00+08:00",
-      "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
-      "score": 25
+      "section": "全球要闻",
+      "source": "BBC World",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-15T10:14:37+08:00",
+      "summary": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
+      "score": 31
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
       "title": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZzaVZNU3YtY3IzWXJnRkN0LUdrNS1kbWF0ZzhqRXhOakNldm9ab3B2QXlteUpEWk1RRlUtOVpnQnlTbUI2cGduUUtfOElmZlV2ZEJZWmY2VEN3THZmZklkNXVDcjdoaU5hX2NLREF3Ymx5QlpEREFkbi0zLUZRTFllZlV4OGczM3dvTGhNN1JmdGI3Z0l0UDZ2OHFzT2hLTU9DR1c1WjMtUQ?oc=5",
-      "published": "2026-07-14T16:36:00+08:00",
-      "summary": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign AP News China Purges Top Official Over Corruption and Sex Charges The New York Times China Expels Former Politburo Member Over Graft and Sex Charges Bloomberg.com China purges third Politburo member in deepening anti-graft drive Reuters China links family of ex-Politburo member Ma Xingrui to ‘rampant corruption’ South China Morning Post",
+      "published": "2026-07-15T08:55:00+08:00",
+      "summary": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign AP News China Purges Top Official Over Corruption and Sex Charges The New York Times Xi Jinping expels another leader from his top team The Economist China Expels Former Politburo Member Over Graft and Sex Charges Bloomberg.com China purges third Politburo member in deepening anti-graft drive Reuters",
       "score": 31
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXkyWC1SUkJnMVl6UTdWZkEwMHMwV0JfU0RFQmxDYkxFUkhNZ3M1R2ROb0p1VmZMbDRtb0xmN25pOXAxNTVxYUd1RVFvcUlWeHdDcG1HSmp6OWF3eEJ5bGZiNEJLQmUycjZpVkNHVWZMNV9ydW91RnEyTkNNSlNqa2pweXdWTnIxai1sc2VIWnZROGRRVVh4aWdkc3VxcDF1c1VuLU41eGFHOG95SV9ZbTBR?oc=5",
-      "published": "2026-07-14T15:52:20+08:00",
-      "summary": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats Bloomberg.com Iran says oil exports continue despite cancellation of US sanctions waivers The Times of Israel Lights out: How Iran quietly moved millions of barrels through Hormuz under America's nose The Times of India Iran Says It Will Continue Exporting Oil Despite Canceled U.S. Waiver Crude Oil Prices Today | OilPrice.com Iran oil stuck at sea surges as China's teapots turn to rival Middle East supplies, traders say Reuters",
-      "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "More than 260,000 evacuated as Typhoon Bavi brings severe floods - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTJsZlpOaGY0aWgtTmhvZTNZMFFSaXNqLV9OcmJEUXZfWkxocVRhUHk4ZUdhVDQ5cEx4T2g5YjZBMGY4Zmw2RVlYd1Q5Z0FXRXdwNUZ4VjhBcE8xaXNuT09fT1dhMm9fLUdja1RHWkV4ak1IcVJQbUNsQzZ4NFlnQnVBMTVuWDBQb1U5WVVYbUJEXzBuTkpKZWh2ZDVtZWJJc001eDBXZmFFRnhmc3hQa0NnUTZxUGJf?oc=5",
-      "published": "2026-07-14T12:01:00+08:00",
-      "summary": "More than 260,000 evacuated as Typhoon Bavi brings severe floods Reuters Typhoon Bavi: China evacuates nearly two million people as powerful typhoon makes landfall BBC Typhoon Bavi: Millions evacuated in China as severe flooding traps villagers and sweeps cars away Sky News Super Typhoon Bavi Hurls Rare 20-Foot ‘Mega Swell’ at Taiwan (Video) SURFER Magazine China to See Unusually Active Typhoon Season After Bavi Passes Bloomberg.com",
-      "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Ukraine war latest: Putin hits civilian ship after threatening ‘powerful’ attacks - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU2V0S3BNVXBVSVhiZjBiaHdTLUpodXZaZFg3U1QxYkVXTWpPNzEzZmJNRHl5M2tnYVJOOWRMcEhtYmphLXBYbkhlMVgxdXVRTkY1OFpsVVphZ0hXQTExNTVsY0FoTkNWa1l5blNZTlNZSG1nU25pTk9kRzlEcl9CMFpydFE3dE5yQVk2RUFPM3p3djlZX1NtMjFkNXMtQy1pRTlhd2xlaGxDWDNHRUJTNWlhM29HaFFEV1FN?oc=5",
-      "published": "2026-07-15T07:49:54+08:00",
-      "summary": "Ukraine war latest: Putin hits civilian ship after threatening ‘powerful’ attacks The Independent Russian attack on cargo ship kills three crew, Ukrainian officials say Reuters Russia Attacks Two Civilian Cargo Ships in Black Sea, Killing Captain and Injuring Three UNITED24 Media Enemy drones attack civilian and industrial infrastructure in Odesa region Ukrinform Russian forces hit two more cargo ships off Odesa, killing a captain and injuring three crew members Meduza",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mclRqN1M1Z0RvTWloR0xWUE5tdlJLQnNuMjVQNnlZNVpSWWgyUmtkMDVodVBzU1RKTnVPbUt6MDJ2Q1B0QS0xeWR1U0RLRW9feEdpQU1CbUw4S3VmMy1PREVGbl9KaFhaa3RFQTFB?oc=5",
-      "published": "2026-07-15T06:50:00+08:00",
-      "summary": "Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports CNN Iran war live: US launches ‘additional round of strikes’ Al Jazeera Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live The Guardian Live updates: Iran war news; US and Iran intensify conflict, with naval blockade set to resume CNN U.S. strikes Iran before Hormuz Strait blockade restarts CNBC",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Iraq seizes mounds of gold and millions in cash from officials in corruption crackdown - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51ZFhYdS1DQl9GVUJuWW9XX2lsZW10OGpONlRtYmpadUNpQjYwd2ZCZm9UWXpxWVhkOXZFclN6OEw3V3g5WGdHX0xhbzcya20wQXoxdmR1aTVFZDJjYjRGM05YcXhzSXV3bnE5Tk96Y2FudkU?oc=5",
-      "published": "2026-07-15T05:16:16+08:00",
-      "summary": "Iraq seizes mounds of gold and millions in cash from officials in corruption crackdown CBS News Iraq seizes 375kg of gold in sweeping anti-corruption crackdown Al Jazeera Nineveh Integrity Court Orders Seizure of Commercial Properties and Mills Linked to Corruption Case PUKmedia یەکێتیی نیشتمانیی کوردستان Erbil continues anti-corruption coordination with Baghdad: PM Barzani’s Office The New Region Millions in a Storm Drain: Iraq Cracks Open 'Integrated Network' in Massive Oil Scandal Organized Crime and Corruption Reporting Project | OCCRP",
+      "title": "Ukraine war live: Kremlin says top engineer at nuclear reactor killed in drone attack - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnNnZ01lMVd6WVVUU3RFY0xCV1JMTWcwSFM3VkwtbENUcC1PUTBLU0Y3TmRUa2RJUEY5bzNRS0h0UjJFQWxCR3NWNG9CejdEc0ljYkVuZGxvSTBFcXhUeTRyMDBfbTZreEd3dGZDckVhVkFXN2g0U1E0Nl9XcDZNN1BNeXZFSWNjRV8zbnRvemh2RE9CZk1fd1Y3TnVoelo0VzVVaUh3aTZ6dUJqMG9Ld18zWm9Lc1V1djQ2Vg?oc=5",
+      "published": "2026-07-16T07:41:28+08:00",
+      "summary": "Ukraine war live: Kremlin says top engineer at nuclear reactor killed in drone attack The Independent Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant Reuters Russia reports death of chief engineer at occupied ZNPP in drone strike: IAEA reaction LIGA.net The Ukrainian Armed Forces attacked a fire station of the Ministry of Emergency Situations (EMERCOM) in Energodar. The building and a fire truck were damaged, but the personnel were not injured, according to the regional EMERCOM department. news.cgtn.com The political leadership has been informed: The chief engineer of the NPP has been killed EADaily",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "Watch: The clash between US and Iran for control of the Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-15T05:13:12+08:00",
-      "summary": "The BBC's Barbara Plett Usher examines the latest tensions over the key international shipping channel.",
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-16T07:02:37+08:00",
+      "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
       "score": 25
     },
     {
       "section": "全球要闻",
-      "source": "NPR News",
-      "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
-      "published": "2026-07-15T04:59:10+08:00",
-      "summary": "Spain is back in the men's World Cup final for the first time since 2010. That's also when Spain won its only World Cup title. France had hoped to reach the final for the third straight tournament.",
+      "source": "Google News World",
+      "title": "Ukraine's Zelenskiy endorses energy boss as PM, will change his defence minister, lawmakers say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5",
+      "published": "2026-07-16T06:57:17+08:00",
+      "summary": "Ukraine's Zelenskiy endorses energy boss as PM, will change his defence minister, lawmakers say Reuters Why is Zelenskyy reshuffling Ukraine's government? DW.com Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM Al Jazeera Ukraine’s self-defeating reshuffle Financial Times Ukraine's prime minister steps down; Zelenskiy's critics see little point Reuters",
       "score": 25
     }
   ],
-  "errors": []
+  "errors": [
+    "OpenAI Blog: <urlopen error [Errno 104] Connection reset by peer>"
+  ]
 }
