@@ -1,8 +1,17 @@
 {
-  "date": "2026-07-16",
-  "generated_at": "2026-07-16T08:00:03.456287+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-16.html",
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T08:00:09.027934+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-17.html",
   "items": [
+    {
+      "section": "AI 与科技",
+      "source": "MIT Technology Review",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "published": "2026-07-16T20:10:00+08:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+      "score": 45
+    },
     {
       "section": "AI 与科技",
       "source": "MIT Technology Review",
@@ -10,217 +19,206 @@
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "published": "2026-07-16T01:09:37+08:00",
       "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
-      "score": 45
+      "score": 37
     },
     {
       "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "published": "2026-07-14T20:10:00+08:00",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+      "source": "Hacker News Front Page",
+      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "url": "https://github.com/cgrtml/reasongate",
+      "published": "2026-07-17T06:21:31+08:00",
+      "summary": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 6 # Comments: 4",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+      "url": "https://libretto.sh/debug-agents",
+      "published": "2026-07-17T04:21:27+08:00",
+      "summary": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails. A few months ago we released Libretto, a CLI + coding-agent skill for building deterministic browser automations. The idea was that for many browser workflows, especially repetitive business workflows, you don’t need an AI agent making decisions at runtime. You want deterministic Playwright scripts that are inspectable, faster to run, and much cheaper than repeatedly calling an AI browser agent. That helped us generate Playwright and network-request-based scripts, but websites can often change which breaks deterministic scripts. So maintaining a variety of scripts at scale is a headache. If you already have a bunch of functioning Playwright scripts, the last thing you want is to rewrite everything around a new runtime AI framework like browser-use or stagehand just to make maintenance easier. The Libretto PR Agent pulls your code from GitHub and connects via CDP to the browser session that just failed. It has an exec tool for injecting Playwright and javascript into the page, and once its inspected the failure, it opens a PR to your repo with a proposed code fix. You use it like this: try { await automationLogic(page); } catch (error) { await playwrightDebugger.debugFailure(error, page); throw error; } The agent is completely free and open source, lets you bring your own LLM provider API keys, and works with any browser provider (including self hosted). The source code is here: https://github.com/saffron-health/libretto/tree/main/package... We think this makes browser integrations much easier to maintain, especially for teams that already have Playwright browser automation scripts in production and don’t want a full migration to get AI-assisted debugging and repair. If you’re maintaining browser automations in production, would love to know what your debugging flow is currently and any feedback on this approach. Comments URL: https://news.ycombinator.com/item?id=48939710 Points: 16 # Comments: 0",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Google is better than Apple at playing the AI regulations game",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-17T03:41:51+08:00",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Roblox will let people use AI to make games on their phone",
+      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "published": "2026-07-17T01:26:35+08:00",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "published": "2026-07-17T00:11:20+08:00",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing […]",
+      "score": 35
+    },
+    {
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "published": "2026-07-17T00:08:13+08:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/ Comments URL: https://news.ycombinator.com/item?id=48936451 Points: 213 # Comments: 119",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
+      "published": "2026-07-17T05:32:00+08:00",
+      "summary": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "published": "2026-07-17T00:08:29+08:00",
+      "summary": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+      "published": "2026-07-16T21:00:02+08:00",
+      "summary": "Fireworks once relied heavily on revenue from coding startup Cursor, but has diversified in the past year as more companies reach for lower-cost AI models.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "published": "2026-07-17T07:45:16+08:00",
+      "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+      "published": "2026-07-17T07:38:00+08:00",
+      "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "SpaceX aborts Starship test flight, sending stock lower",
+      "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+      "published": "2026-07-17T07:31:34+08:00",
+      "summary": "Elon Musk said it would make another attempt \"hopefully in a few days.\" SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "MarketWatch Top Stories",
+      "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
+      "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+      "published": "2026-07-17T07:12:00+08:00",
+      "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
+      "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
+      "published": "2026-07-17T06:28:40+08:00",
+      "summary": "Federal Reserve Chair Kevin Warsh was on Capitol Hill for two days of testimony this week.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Twenty-nine countries sign agreement to establish global AI cooperation body - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+      "published": "2026-07-16T23:23:43+08:00",
+      "summary": "Twenty-nine countries sign agreement to establish global AI cooperation body Reuters China-Led AI Body Enlists Global South States to Rival US Bloomberg.com Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation Dawn China AI McAlester News-Capital Brazil joins Cuba, Russia and Venezuela in China-backed AI organization BNamericas",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjMtZE83T2lKYTFCczBkVmY2bXlCbS0zcFo0OUxiMFpnMHpzLXRGRFdEOHA5bGFKVVRHUmVJaVVqSktNX1BIcW03aXh5UmlQVWdtLXBwNDVYd2FGWTZnak1qMGJWSm9FMlkyWUV6VmdNN3h6NFZzQzc4TEtKTmplRmlFRVMySFItOERRZVQxTk9HWlA2Yi0xZU90WFVFWVJ1bDBPcFM2RGpXNS03TnprTlN1cFEyT09haE5vWQ?oc=5",
+      "published": "2026-07-16T22:10:00+08:00",
+      "summary": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says AP News Are LLMs Stifling Political Speech? An Assessment of How AI Models Protect Free Expression The Oversight Board Meta Oversight Board finds top AI models less likely to criticize repressive regimes Reuters AI more critical of Western leaders than autocrats, study finds Euronews.com When AI mirrors foreign censorship: FIRE statement on Oversight Board AI speech report FIRE | Foundation for Individual Rights and Expression",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Hong Kong official warns booksellers on security risks after raids - NPR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkdoQU9kdW1BTnpsb1ljTVVoZ2NhTjZ0T195U0ZHLXhxMml6TndxRTFCRWI0ekRsOTE5SHp2dzN1Z3pGeTlIZkI2cmYzNVJNS09lMTRfTWRFVkFwM1hjeHJwMEo2NE5SdVdoRG5JOEpYN2d1N1hlTnhaWF9mand0dVRaaU5hMFU1R3dpdFBfMnREdzIwa3NJbUl2WlpqeDI4ZGZmTVhRdldWWTRrUEE?oc=5",
+      "published": "2026-07-16T21:31:33+08:00",
+      "summary": "Hong Kong official warns booksellers on security risks after raids NPR Hong Kong police arrest five over 'seditious' books Reuters China Wields Security Laws to Cow Hong Kong’s Once-Free Literary Scene WSJ Hong Kong arrests 2 journalists in latest sedition case targeting independent bookstores Committee to Protect Journalists Police round up Hong Kong booksellers as China widens crackdown The Washington Post",
+      "score": 35
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "Trump’s Sort-of Gift to Kyiv - by Brynn Tannehill - The Bulwark",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTE0UERxQTVMQjV6YzNTWU5fYjNtamxpdWQzTEhOdDNyREZmZE1MdTFuaThEdW4wQWZJTUxwZklmckthYXd0ai1uWmhpUlg2elFXYlVFNnJETkprNDJwRzFlMGlOb1U0RFhRRGpwN1NEZ0xWd0k0UnN5QzR5dTQ1T0FNR2NDUEpL?oc=5",
+      "published": "2026-07-16T14:58:22+08:00",
+      "summary": "Trump’s Sort-of Gift to Kyiv - by Brynn Tannehill The Bulwark Trump surprises Zelensky with public promise on Patriots – but the missiles may not come soon enough CNN Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots The New York Times Russian Offensive Campaign Assessment, July 8, 2026 Institute for the Study of War Why Ukraine’s Patriot missile request may be a step too far for Japan South China Morning Post",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "Google News World",
+      "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN292NXlScjJwajFzUVlzUW5KOGcwdk1vMVgxZlZSQ29yNGRzX2h3VVl0RGNPcC1ObzA1cERlUkhPblQ0OENaNklIaUNfbmpUM0NMcmdHeGhrS1NQbFBXRUVMR1FfRVlBSXg3b0ZFak8zNGx6MDd5N1Y5T2ctSFNHcEdGejFfcXE2YWRTNU5hRTJkTXctSUh2Y2hlQk1Kc05BQUtzZ3IxNFdSNVdpSEp1Vk1ZYnZ5TVnSAbwBQVVfeXFMTktsNHcxa2dZUjhtb1VvazhwLWEzSkxYQlJOQ1pZazNqdW1MUDZQZjY1Smt1QmJwbGp2SjhXSWYtX0hKT1p0dHl1N1pSdHl6d1NldEtNQXhEYVVVQ182MWp1b0R0bUFucG5kNmlDR2ZIblExT0VtLU4zSWlIel9iVVRJNkFTQnBNeG0wWWNYdFRtN2JITTViTjdZY1pHQ2hYSlExdVJyQW91ZGtnUDJWZHdxRFdaNjVDYW93U3k?oc=5",
+      "published": "2026-07-16T03:09:29+08:00",
+      "summary": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief Fox News U.S. Forces Continue Providing Disaster Relief Assistance in Venezuela U.S. Department of War (.gov) LCF-24: Supply Stage [Image 11 of 12] DVIDS Pentagon Turns Earthquake Into Occupation of Venezuela Black Agenda Report USS San Antonio Deployed to Venezuela for Relief Mission Texas Border Business",
       "score": 27
     },
     {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
-      "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
-      "published": "2026-07-16T06:40:48+08:00",
-      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pricing, \"a plan for a new 13-inch […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "published": "2026-07-16T06:23:27+08:00",
-      "summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 18 # Comments: 4",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
-      "published": "2026-07-16T06:22:50+08:00",
-      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Valve stop […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "P2P local file transfer based on WebRTC",
-      "url": "https://pairdrop.net/",
-      "published": "2026-07-16T06:22:08+08:00",
-      "summary": "Article URL: https://pairdrop.net/ Comments URL: https://news.ycombinator.com/item?id=48927900 Points: 18 # Comments: 10",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
-      "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-      "published": "2026-07-16T05:56:24+08:00",
-      "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national ownership cap rule, which was intended to prevent one […]",
-      "score": 25
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-      "published": "2026-07-16T05:39:21+08:00",
-      "summary": "Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 46 # Comments: 40",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-      "published": "2026-07-16T01:22:51+08:00",
-      "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
-      "score": 45
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
-      "url": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
-      "published": "2026-07-16T07:34:00+08:00",
-      "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-      "published": "2026-07-16T07:00:00+08:00",
-      "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
-      "url": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
-      "published": "2026-07-16T06:51:22+08:00",
-      "summary": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
-      "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
-      "published": "2026-07-16T06:48:57+08:00",
-      "summary": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-      "published": "2026-07-16T06:05:14+08:00",
-      "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
-      "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
-      "published": "2026-07-16T05:43:00+08:00",
-      "summary": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
-      "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
-      "published": "2026-07-16T05:00:11+08:00",
-      "summary": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
-      "score": 25
-    },
-    {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDRyYU45UGN6YVRSeGNwcW54SGlJMUlESGlwWUx5ZnVzREVYcTZhLU5XZlFpQ2tCZjF6R1V1dklqT1FQUUVyUmR5VUliWVk0b3VtUzVicXAzZUFjQmozMlQ0Y1ZlMFJpSHFIWkg2QVpERTFvUTNhY1ZNclZxUlB5YXZ4NVVhNkRrS2FqRS1qQzNBcG11ak9oNHRibjNESURFR3BZUVRYeGxtX0FrM18xNUE2U0PSAboBQVVfeXFMTzZuS25QcHVxSmlxZk5OU2ZlZDNpdTBST2pUNmRCeEcyTE5GRFhFR3VabGJKeG1WbzNyUXo2aGppRzB4NHB5SnM1Q3BOQWNuN2FCajdpTmFDRG5WakVuT3hIbE9TeUxveGNJYW9iSHU2YUxkUU9tMDVta25rY0huZnkzcVlISjNBUzVka3pnR1FGSXNCaFJIaUVYSFAzRHFvaDFWTm9wTFhuOHZ4cVFrbHpoSkc0WDRKM2lB?oc=5",
-      "published": "2026-07-16T03:37:53+08:00",
-      "summary": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control Fox News See more headlines & perspectives on Google News",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Five arrested after raid on two Hong Kong independent bookshops - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mejZ0ekh2NG14SGtmVndCUllTdlY1ZHYwZmpJQUxkdGZJMWZJMzRUN0V0MnVELWlqVUZudUU4X2NiamlUWGM3dHBKeDhJLXNIV2Y3SFZESVk3UQ?oc=5",
-      "published": "2026-07-16T00:51:07+08:00",
-      "summary": "Five arrested after raid on two Hong Kong independent bookshops BBC Police round up Hong Kong booksellers as China widens crackdown The Washington Post Hong Kong booksellers arrested for allegedly selling seditious books NPR Hong Kong police raid independent bookstore run by former journalists Yahoo Hong Kong national security police raid 2 independent bookstores, arrest 5 for alleged sedition Hong Kong Free Press HKFP",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Casino boss was landlord to Chinese scammers and human traffickers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jdDhENVNLSnBaNDNYN2NNVDVsVm42b3J2cGE1MUpmRkt1NU9EdTJrN0VrVzBCSEdYSnVNcHc0MV9qWmkwc0Z2Z0ZIOG5KNGVaMlMtaWxMYjR2TDMwd013UUtJMU0tMEp3dXdDQg?oc=5",
-      "published": "2026-07-15T12:00:00+08:00",
-      "summary": "Casino boss was landlord to Chinese scammers and human traffickers Reuters Cambodia Acts Alongside Thailand, China, and Vietnam as Border Scam Compound Investigation Reshapes Regional Travel Security, Cross-Border Tourism Confidence, Human Trafficking Enforcement, and Responsible Investment Across Southeast Asia Travel And Tour World Party leader makes explosive claims linking Hun Sen to Cambodian slave camp run as a scamming centre Thai Examiner A Scam Compound Is Not a Licence to Invade: Thailand Cannot Bomb, Occupy and Then Rewrite the Law Khmer Times Inside the compound of a Cambodian scam empire marketscreener.com",
-      "score": 31
+      "title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHAxTkV3YVQ4WG1WR1pyT3NjT1RGeEVCUjhpblpuN0RVb3VXRHBHWUFGTzM1R3loNXdYVHZxQ3dZVUFid0JFV3Jwa3FYSktvbWZ5Nm9qRUc3SVBTU3VjUXNiYWlzUmRMYy1wLUxYWmNBWGhSOHBhbmpXUnA3TU40RU1NblJHNzdUVG9INzA5REtud09FSWF4ZVBLSzVPcmtSRnhrUnozaUZ3VmtxNU01bjhNZm1iRk05cGc?oc=5",
+      "published": "2026-07-15T22:23:00+08:00",
+      "summary": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO AP News See more headlines & perspectives on Google News",
+      "score": 27
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "China detains US scientist who studied North Korea nuclear tests",
-      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-15T10:14:37+08:00",
-      "summary": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
-      "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZzaVZNU3YtY3IzWXJnRkN0LUdrNS1kbWF0ZzhqRXhOakNldm9ab3B2QXlteUpEWk1RRlUtOVpnQnlTbUI2cGduUUtfOElmZlV2ZEJZWmY2VEN3THZmZklkNXVDcjdoaU5hX2NLREF3Ymx5QlpEREFkbi0zLUZRTFllZlV4OGczM3dvTGhNN1JmdGI3Z0l0UDZ2OHFzT2hLTU9DR1c1WjMtUQ?oc=5",
-      "published": "2026-07-15T08:55:00+08:00",
-      "summary": "China expels Politburo member Ma Xingrui in Xi’s anti-corruption campaign AP News China Purges Top Official Over Corruption and Sex Charges The New York Times Xi Jinping expels another leader from his top team The Economist China Expels Former Politburo Member Over Graft and Sex Charges Bloomberg.com China purges third Politburo member in deepening anti-graft drive Reuters",
-      "score": 31
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Ukraine war live: Kremlin says top engineer at nuclear reactor killed in drone attack - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnNnZ01lMVd6WVVUU3RFY0xCV1JMTWcwSFM3VkwtbENUcC1PUTBLU0Y3TmRUa2RJUEY5bzNRS0h0UjJFQWxCR3NWNG9CejdEc0ljYkVuZGxvSTBFcXhUeTRyMDBfbTZreEd3dGZDckVhVkFXN2g0U1E0Nl9XcDZNN1BNeXZFSWNjRV8zbnRvemh2RE9CZk1fd1Y3TnVoelo0VzVVaUh3aTZ6dUJqMG9Ld18zWm9Lc1V1djQ2Vg?oc=5",
-      "published": "2026-07-16T07:41:28+08:00",
-      "summary": "Ukraine war live: Kremlin says top engineer at nuclear reactor killed in drone attack The Independent Russia says Ukrainian drone kills chief engineer at Zaporizhzhia nuclear plant Reuters Russia reports death of chief engineer at occupied ZNPP in drone strike: IAEA reaction LIGA.net The Ukrainian Armed Forces attacked a fire station of the Ministry of Emergency Situations (EMERCOM) in Energodar. The building and a fire truck were damaged, but the personnel were not injured, according to the regional EMERCOM department. news.cgtn.com The political leadership has been informed: The chief engineer of the NPP has been killed EADaily",
-      "score": 25
-    },
-    {
-      "section": "全球要闻",
-      "source": "BBC World",
-      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-16T07:02:37+08:00",
-      "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-17T07:57:26+08:00",
+      "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
       "score": 25
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "Ukraine's Zelenskiy endorses energy boss as PM, will change his defence minister, lawmakers say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5",
-      "published": "2026-07-16T06:57:17+08:00",
-      "summary": "Ukraine's Zelenskiy endorses energy boss as PM, will change his defence minister, lawmakers say Reuters Why is Zelenskyy reshuffling Ukraine's government? DW.com Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM Al Jazeera Ukraine’s self-defeating reshuffle Financial Times Ukraine's prime minister steps down; Zelenskiy's critics see little point Reuters",
+      "title": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlpBNDdDeVdBWnAxbHhFTFJtN1BfV3ZQQWNBSDJ4NkVUcXR2M2FpOTlDcW0zcUhCMUI1djFMejFfOGZKa0ZENWU5NjF1RmRuZEpyLVhic2Z5WUp6d2RWY2pJcDRqX0xtcEtWQWNqMkQ3TURhMFN0Tl9pQU5TNmpBWjhKZTJWTHVBSXI0MFEtaURUUnEyREdtVE1lU20ySzktckRMWlJPeG13VW9haW9FWDJaNG5HTDdrSjFz?oc=5",
+      "published": "2026-07-17T07:08:00+08:00",
+      "summary": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme The Guardian Peace President Trump Humiliated as Another Plan Collapses The Daily Beast Gaza reconstruction plan under Trump’s Board of Peace reduced to pilot project: British publication Dawn Board of Peace plans launch of pilot Gaza housing project, but green light elusive The Times of Israel The Rafah Sandbox: The Peace Council Plan Imperils Israeli Security Middle East Forum",
       "score": 25
     }
   ],
-  "errors": [
-    "OpenAI Blog: <urlopen error [Errno 104] Connection reset by peer>"
-  ]
+  "errors": []
 }
