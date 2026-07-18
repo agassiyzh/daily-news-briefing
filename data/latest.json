@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-17",
-  "generated_at": "2026-07-17T08:00:09.027934+08:00",
-  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-17.html",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T08:00:03.494284+08:00",
+  "url": "http://www.yuzhuohui.info/daily-news-briefing/briefings/2026-07-18.html",
   "items": [
     {
       "section": "AI 与科技",
@@ -10,215 +10,217 @@
       "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
       "published": "2026-07-16T20:10:00+08:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
-      "score": 45
-    },
-    {
-      "section": "AI 与科技",
-      "source": "MIT Technology Review",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "published": "2026-07-16T01:09:37+08:00",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
       "score": 37
     },
     {
       "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
-      "url": "https://github.com/cgrtml/reasongate",
-      "published": "2026-07-17T06:21:31+08:00",
-      "summary": "Article URL: https://github.com/cgrtml/reasongate Comments URL: https://news.ycombinator.com/item?id=48941051 Points: 6 # Comments: 4",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-      "url": "https://libretto.sh/debug-agents",
-      "published": "2026-07-17T04:21:27+08:00",
-      "summary": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails. A few months ago we released Libretto, a CLI + coding-agent skill for building deterministic browser automations. The idea was that for many browser workflows, especially repetitive business workflows, you don’t need an AI agent making decisions at runtime. You want deterministic Playwright scripts that are inspectable, faster to run, and much cheaper than repeatedly calling an AI browser agent. That helped us generate Playwright and network-request-based scripts, but websites can often change which breaks deterministic scripts. So maintaining a variety of scripts at scale is a headache. If you already have a bunch of functioning Playwright scripts, the last thing you want is to rewrite everything around a new runtime AI framework like browser-use or stagehand just to make maintenance easier. The Libretto PR Agent pulls your code from GitHub and connects via CDP to the browser session that just failed. It has an exec tool for injecting Playwright and javascript into the page, and once its inspected the failure, it opens a PR to your repo with a proposed code fix. You use it like this: try { await automationLogic(page); } catch (error) { await playwrightDebugger.debugFailure(error, page); throw error; } The agent is completely free and open source, lets you bring your own LLM provider API keys, and works with any browser provider (including self hosted). The source code is here: https://github.com/saffron-health/libretto/tree/main/package... We think this makes browser integrations much easier to maintain, especially for teams that already have Playwright browser automation scripts in production and don’t want a full migration to get AI-assisted debugging and repair. If you’re maintaining browser automations in production, would love to know what your debugging flow is currently and any feedback on this approach. Comments URL: https://news.ycombinator.com/item?id=48939710 Points: 16 # Comments: 0",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
       "source": "The Verge",
-      "title": "Google is better than Apple at playing the AI regulations game",
-      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-      "published": "2026-07-17T03:41:51+08:00",
-      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory […]",
+      "title": "Apple’s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "published": "2026-07-18T01:41:32+08:00",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]",
       "score": 35
     },
     {
       "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Roblox will let people use AI to make games on their phone",
-      "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-      "published": "2026-07-17T01:26:35+08:00",
-      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project […]",
-      "score": 35
-    },
-    {
-      "section": "AI 与科技",
-      "source": "The Verge",
-      "title": "Google is renaming NotebookLM to Gemini Notebook",
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "published": "2026-07-17T00:11:20+08:00",
-      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing […]",
+      "source": "MIT Technology Review",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "published": "2026-07-17T20:10:00+08:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,…",
       "score": 35
     },
     {
       "section": "AI 与科技",
       "source": "Hacker News Front Page",
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "published": "2026-07-17T00:08:13+08:00",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/ Comments URL: https://news.ycombinator.com/item?id=48936451 Points: 213 # Comments: 119",
-      "score": 35
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "published": "2026-07-18T06:35:55+08:00",
+      "summary": "Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and Comments URL: https://news.ycombinator.com/item?id=48952939 Points: 35 # Comments: 21",
+      "score": 25
     },
     {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
-      "published": "2026-07-17T05:32:00+08:00",
-      "summary": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
-      "score": 35
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "published": "2026-07-18T06:26:30+08:00",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 144 # Comments: 109",
+      "score": 25
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
-      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
-      "published": "2026-07-17T00:08:29+08:00",
-      "summary": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
-      "score": 35
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "published": "2026-07-18T05:22:53+08:00",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 82 # Comments: 43",
+      "score": 25
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
-      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
-      "published": "2026-07-16T21:00:02+08:00",
-      "summary": "Fireworks once relied heavily on revenue from coding startup Cursor, but has diversified in the past year as more companies reach for lower-cost AI models.",
-      "score": 35
+      "section": "AI 与科技",
+      "source": "Hacker News Front Page",
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "published": "2026-07-18T04:12:59+08:00",
+      "summary": "Article URL: https://www.up.com/news/safety/Tracking-Rail-Heat-260608 Comments URL: https://news.ycombinator.com/item?id=48951780 Points: 22 # Comments: 4",
+      "score": 25
     },
     {
-      "section": "财经与市场",
-      "source": "CNBC Top News",
-      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
-      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-      "published": "2026-07-17T07:45:16+08:00",
-      "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+      "section": "AI 与科技",
+      "source": "The Verge",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "published": "2026-07-18T03:34:30+08:00",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool […]",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "MarketWatch Top Stories",
-      "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
-      "published": "2026-07-17T07:38:00+08:00",
-      "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
+      "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
+      "published": "2026-07-18T06:31:00+08:00",
+      "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
+      "score": 45
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "published": "2026-07-18T04:48:35+08:00",
+      "summary": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Apple, Nvidia vie for title of world's most valuable company",
+      "url": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
+      "published": "2026-07-18T04:22:41+08:00",
+      "summary": "Nvidia shares have underperformed in 2026 as Wall Street shifts to companies powering the infrastructure AI buildout.",
+      "score": 35
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+      "url": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+      "published": "2026-07-17T19:08:09+08:00",
+      "summary": "Trump also repeated his calls for the Republican-led Congress to pass the \"SAVE America Act,\" a controversial election bill that lacks support to pass.",
+      "score": 31
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+      "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
+      "published": "2026-07-18T07:18:35+08:00",
+      "summary": "The high price for the garment is a sign that collectors are looking to bid on artifacts and collectibles from the artificial intelligence boom.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "SpaceX aborts Starship test flight, sending stock lower",
-      "url": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
-      "published": "2026-07-17T07:31:34+08:00",
-      "summary": "Elon Musk said it would make another attempt \"hopefully in a few days.\" SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
-      "score": 25
-    },
-    {
-      "section": "财经与市场",
-      "source": "MarketWatch Top Stories",
-      "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
-      "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
-      "published": "2026-07-17T07:12:00+08:00",
-      "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
+      "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
+      "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+      "published": "2026-07-18T07:10:07+08:00",
+      "summary": "The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.",
       "score": 25
     },
     {
       "section": "财经与市场",
       "source": "CNBC Top News",
-      "title": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
-      "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
-      "published": "2026-07-17T06:28:40+08:00",
-      "summary": "Federal Reserve Chair Kevin Warsh was on Capitol Hill for two days of testimony this week.",
+      "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+      "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+      "published": "2026-07-18T07:08:24+08:00",
+      "summary": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.",
+      "score": 25
+    },
+    {
+      "section": "财经与市场",
+      "source": "CNBC Top News",
+      "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html",
+      "published": "2026-07-18T04:33:01+08:00",
+      "summary": "Iraqi Prime Minister Ali al-Zaidi is visiting the U.S. this week. He met with President Donald Trump at the White House on Tuesday.",
       "score": 25
     },
     {
       "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Twenty-nine countries sign agreement to establish global AI cooperation body - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
-      "published": "2026-07-16T23:23:43+08:00",
-      "summary": "Twenty-nine countries sign agreement to establish global AI cooperation body Reuters China-Led AI Body Enlists Global South States to Rival US Bloomberg.com Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation Dawn China AI McAlester News-Capital Brazil joins Cuba, Russia and Venezuela in China-backed AI organization BNamericas",
+      "source": "BBC World",
+      "title": "China hits out at British Steel nationalisation",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-18T00:44:22+08:00",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
       "score": 35
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjMtZE83T2lKYTFCczBkVmY2bXlCbS0zcFo0OUxiMFpnMHpzLXRGRFdEOHA5bGFKVVRHUmVJaVVqSktNX1BIcW03aXh5UmlQVWdtLXBwNDVYd2FGWTZnak1qMGJWSm9FMlkyWUV6VmdNN3h6NFZzQzc4TEtKTmplRmlFRVMySFItOERRZVQxTk9HWlA2Yi0xZU90WFVFWVJ1bDBPcFM2RGpXNS03TnprTlN1cFEyT09haE5vWQ?oc=5",
-      "published": "2026-07-16T22:10:00+08:00",
-      "summary": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says AP News Are LLMs Stifling Political Speech? An Assessment of How AI Models Protect Free Expression The Oversight Board Meta Oversight Board finds top AI models less likely to criticize repressive regimes Reuters AI more critical of Western leaders than autocrats, study finds Euronews.com When AI mirrors foreign censorship: FIRE statement on Oversight Board AI speech report FIRE | Foundation for Individual Rights and Expression",
+      "title": "Pakistani forces kill 24 militants in border raids near Afghanistan - NPR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV25DVmhGNU5UdWpxTElBZFc0ZFVJNkl1dzViRDFKbkNKZmhKQmM1WFNVbnJFcDB4TkNib0hMMWI5RHJ6cTV5UDg4NEZvUXhlY2tqaWxfTXoyakYydXgwbkJ2aUxaS1BJTVNEVHRlSEl2MGNkU3pHRmkxR1REcWNSVl9nd01UdHdJVENmMkFPWjhiYmhMYmN4RVJVUG9tSzhDVWdWVmQ2aWRpU0NhVTBV?oc=5",
+      "published": "2026-07-17T21:15:49+08:00",
+      "summary": "Pakistani forces kill 24 militants in border raids near Afghanistan NPR See more headlines & perspectives on Google News",
       "score": 35
     },
     {
       "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Hong Kong official warns booksellers on security risks after raids - NPR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkdoQU9kdW1BTnpsb1ljTVVoZ2NhTjZ0T195U0ZHLXhxMml6TndxRTFCRWI0ekRsOTE5SHp2dzN1Z3pGeTlIZkI2cmYzNVJNS09lMTRfTWRFVkFwM1hjeHJwMEo2NE5SdVdoRG5JOEpYN2d1N1hlTnhaWF9mand0dVRaaU5hMFU1R3dpdFBfMnREdzIwa3NJbUl2WlpqeDI4ZGZmTVhRdldWWTRrUEE?oc=5",
-      "published": "2026-07-16T21:31:33+08:00",
-      "summary": "Hong Kong official warns booksellers on security risks after raids NPR Hong Kong police arrest five over 'seditious' books Reuters China Wields Security Laws to Cow Hong Kong’s Once-Free Literary Scene WSJ Hong Kong arrests 2 journalists in latest sedition case targeting independent bookstores Committee to Protect Journalists Police round up Hong Kong booksellers as China widens crackdown The Washington Post",
-      "score": 35
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Trump’s Sort-of Gift to Kyiv - by Brynn Tannehill - The Bulwark",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTE0UERxQTVMQjV6YzNTWU5fYjNtamxpdWQzTEhOdDNyREZmZE1MdTFuaThEdW4wQWZJTUxwZklmckthYXd0ai1uWmhpUlg2elFXYlVFNnJETkprNDJwRzFlMGlOb1U0RFhRRGpwN1NEZ0xWd0k0UnN5QzR5dTQ1T0FNR2NDUEpL?oc=5",
-      "published": "2026-07-16T14:58:22+08:00",
-      "summary": "Trump’s Sort-of Gift to Kyiv - by Brynn Tannehill The Bulwark Trump surprises Zelensky with public promise on Patriots – but the missiles may not come soon enough CNN Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots The New York Times Russian Offensive Campaign Assessment, July 8, 2026 Institute for the Study of War Why Ukraine’s Patriot missile request may be a step too far for Japan South China Morning Post",
+      "source": "BBC World",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-17T19:37:00+08:00",
+      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
       "score": 31
     },
     {
       "section": "全球要闻",
       "source": "Google News World",
-      "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN292NXlScjJwajFzUVlzUW5KOGcwdk1vMVgxZlZSQ29yNGRzX2h3VVl0RGNPcC1ObzA1cERlUkhPblQ0OENaNklIaUNfbmpUM0NMcmdHeGhrS1NQbFBXRUVMR1FfRVlBSXg3b0ZFak8zNGx6MDd5N1Y5T2ctSFNHcEdGejFfcXE2YWRTNU5hRTJkTXctSUh2Y2hlQk1Kc05BQUtzZ3IxNFdSNVdpSEp1Vk1ZYnZ5TVnSAbwBQVVfeXFMTktsNHcxa2dZUjhtb1VvazhwLWEzSkxYQlJOQ1pZazNqdW1MUDZQZjY1Smt1QmJwbGp2SjhXSWYtX0hKT1p0dHl1N1pSdHl6d1NldEtNQXhEYVVVQ182MWp1b0R0bUFucG5kNmlDR2ZIblExT0VtLU4zSWlIel9iVVRJNkFTQnBNeG0wWWNYdFRtN2JITTViTjdZY1pHQ2hYSlExdVJyQW91ZGtnUDJWZHdxRFdaNjVDYW93U3k?oc=5",
-      "published": "2026-07-16T03:09:29+08:00",
-      "summary": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief Fox News U.S. Forces Continue Providing Disaster Relief Assistance in Venezuela U.S. Department of War (.gov) LCF-24: Supply Stage [Image 11 of 12] DVIDS Pentagon Turns Earthquake Into Occupation of Venezuela Black Agenda Report USS San Antonio Deployed to Venezuela for Relief Mission Texas Border Business",
-      "score": 27
-    },
-    {
-      "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHAxTkV3YVQ4WG1WR1pyT3NjT1RGeEVCUjhpblpuN0RVb3VXRHBHWUFGTzM1R3loNXdYVHZxQ3dZVUFid0JFV3Jwa3FYSktvbWZ5Nm9qRUc3SVBTU3VjUXNiYWlzUmRMYy1wLUxYWmNBWGhSOHBhbmpXUnA3TU40RU1NblJHNzdUVG9INzA5REtud09FSWF4ZVBLSzVPcmtSRnhrUnozaUZ3VmtxNU01bjhNZm1iRk05cGc?oc=5",
-      "published": "2026-07-15T22:23:00+08:00",
-      "summary": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO AP News See more headlines & perspectives on Google News",
-      "score": 27
+      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access - NPR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5",
+      "published": "2026-07-17T15:17:04+08:00",
+      "summary": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access NPR Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I. The New York Times Editorial | China’s vision for global AI governance is inclusive South China Morning Post China’s Xi Jinping launches new AI alliance: What is it? Al Jazeera Analysis: As Trump accuses China of stealing voter data, Xi pitches Beijing as a responsible tech leader CNN",
+      "score": 31
     },
     {
       "section": "全球要闻",
       "source": "BBC World",
-      "title": "Blasts reported in Iran as US launches new wave of strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-17T07:57:26+08:00",
-      "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-17T10:37:45+08:00",
+      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "score": 31
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
+      "published": "2026-07-18T07:32:02+08:00",
+      "summary": "The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.",
       "score": 25
     },
     {
       "section": "全球要闻",
-      "source": "Google News World",
-      "title": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlpBNDdDeVdBWnAxbHhFTFJtN1BfV3ZQQWNBSDJ4NkVUcXR2M2FpOTlDcW0zcUhCMUI1djFMejFfOGZKa0ZENWU5NjF1RmRuZEpyLVhic2Z5WUp6d2RWY2pJcDRqX0xtcEtWQWNqMkQ3TURhMFN0Tl9pQU5TNmpBWjhKZTJWTHVBSXI0MFEtaURUUnEyREdtVE1lU20ySzktckRMWlJPeG13VW9haW9FWDJaNG5HTDdrSjFz?oc=5",
-      "published": "2026-07-17T07:08:00+08:00",
-      "summary": "Trump’s Board of Peace drops full Gaza recovery plan in favour of tiny pilot scheme The Guardian Peace President Trump Humiliated as Another Plan Collapses The Daily Beast Gaza reconstruction plan under Trump’s Board of Peace reduced to pilot project: British publication Dawn Board of Peace plans launch of pilot Gaza housing project, but green light elusive The Times of Israel The Rafah Sandbox: The Peace Council Plan Imperils Israeli Security Middle East Forum",
+      "source": "BBC World",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-18T07:15:10+08:00",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "score": 25
+    },
+    {
+      "section": "全球要闻",
+      "source": "NPR News",
+      "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
+      "published": "2026-07-18T06:36:02+08:00",
+      "summary": "Ashley Brouillette has identified her ex-husband, David Brouillette, as the officer who fatally shot Joan Sebastián Durán Guerrero in Biddeford, Maine, on Monday. She said she learned he was the officer responsible when he called her on Wednesday.",
       "score": 25
     }
   ],
-  "errors": []
+  "errors": [
+    "OpenAI Blog: HTTP Error 500: Internal Server Error"
+  ]
 }
